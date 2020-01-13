@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "default", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "default", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "aqua"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Katarina Stuart"
 title_separator          : "-"
-subtitle                 : Trial2 # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : Evolution & Genomics # site tagline that appears below site title in masthead
+name                     : "Katarina Stuart"
 description              : "An amazing website."
 url                      : https://katarinastuart.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : katarinastuart/katarinastuart.github.io/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "trial3" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : Katarina_Stuart
 facebook:
   username               :
   app_id                 :
