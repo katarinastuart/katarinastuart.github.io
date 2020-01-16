@@ -6,7 +6,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "My Research"
+    url: /research/
   - title: "Moi"
     url: https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao
