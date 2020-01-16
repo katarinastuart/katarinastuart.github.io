@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: linear-gradient(#86CAB2, #FDECBD) !default;
+$background-color: mix(#86CAB2, #FDECBD, 50%) !default;
 $text-color: #17111C !default;
 $primary-color: #76D4A6 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
