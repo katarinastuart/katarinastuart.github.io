@@ -24,5 +24,6 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
+gem “faraday”, “< 1.0”
 group :jekyll_plugins do
 end
