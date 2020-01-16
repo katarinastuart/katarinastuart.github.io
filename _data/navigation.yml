@@ -3,10 +3,12 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Publications"
-    url: /publications/
+    url: /about/
   - title: "My Research"
     url: /research/
-  - title: "Moi"
+  - title: "Publications"
+    url: /publications/
+  - title: "cv"
+    url: /cv/
+  - title: "Google Scholar"
     url: https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao
