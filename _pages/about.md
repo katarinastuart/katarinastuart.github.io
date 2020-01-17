@@ -2,6 +2,7 @@
 title: Katarina Stuart
 description: A very simple way to add structured data to a page.
 permalink: /about/
+author_profile: true
 
 defaults:
   # _pages
