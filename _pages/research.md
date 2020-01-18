@@ -1,15 +1,10 @@
 ---
-title: Katarina Stuart
-permalink: /research/
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: archive
+title: Katarina Stuart | Research
+permalink: /research/
+author_profile: true
       
 ---
+
 text text etx
