@@ -1,26 +1,21 @@
 ---
-title: Katarina Stuart
-description: A very simple way to add structured data to a page.
+layout: archive
+title: Katarina Stuart | CV
 permalink: /cv/
+author_profile: true
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      
+toc: true
+toc_label: "Curriculum vitae"
+
 ---
 
-EDUCATION
+<h1>EDUCATION</h1>
 Doctor of Philosophy (Biology) - University of New South Wales 2018-present
 
 Bachelor of Science (Advanced) (Honours) - University of Sydney 2013-2017
 Thesis Title: Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia Supervisors: Professors Richard Shine & Gregory Brown
 
-GRANTS, SCHOLARSHIPS, & AWARDS
+<h2>GRANTS, SCHOLARSHIPS, & AWARDS</h2>
 Scholarships
 Australian Government Research Training Program Scholarship 2018-2022
 
@@ -32,7 +27,7 @@ Travel Awards
 Postgraduate Research Student Support (PRSS) Scheme ($350) 2018
 ABACBS National Conference CSL travel award ($200) 2018
 
-SCIENTIFIC PRESENTATIONS
+<h1>SCIENTIFIC PRESENTATIONS</h1>
 ABACBS 2018 National Conference, University of Melbourne, Victoria, Australia, November 27-28
 Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across Australia. [poster]
 
