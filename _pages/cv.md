@@ -3,11 +3,9 @@ layout: archive
 title: Katarina Stuart | CV
 permalink: /cv/
 author_profile: true
-
 toc: true
-toc_label: "Included Layouts"
-toc_icon: "columns"
-
+toc_sticky: true
+layout: single
 ---
 
 ## Default layout
