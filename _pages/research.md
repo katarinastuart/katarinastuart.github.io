@@ -4,6 +4,7 @@ layout: single
 permalink: /research/
 toc: true
 toc_sticky: true
+author_profile: true
 ---
 
 
