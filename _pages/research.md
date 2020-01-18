@@ -1,14 +1,21 @@
 ---
-title: "Layout: Post with Sticky Table of Contents"
+layout: archive
+title: Katarina Stuart | Research
 permalink: /research/
-tags:
-  - table of contents
+author_profile: true
 ---
 
----
-toc: true
-toc_sticky: true
----
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 
 "Stick" table of contents to the top of a page by adding `toc_sticky: true` to its YAML Front Matter.
 
