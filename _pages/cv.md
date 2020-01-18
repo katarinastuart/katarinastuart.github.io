@@ -1,5 +1,6 @@
 ---
 layout: archive
+title:
 permalink: /cv/
 toc: true
 toc_label: Curriculum vitae
@@ -7,7 +8,6 @@ toc_sticky: true
 layout: single
 author_profile: true
 ---
-
 
 ## EDUCATION
 
