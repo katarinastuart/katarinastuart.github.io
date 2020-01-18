@@ -3,16 +3,12 @@ layout: archive
 title: Katarina Stuart | CV
 permalink: /cv/
 toc: true
+toc_label: true
+toc_icon: true
 toc_sticky: true
 layout: single
 author_profile: true
 ---
-
-## Default layout
-
-### Layout based and user-defined classes
-
-
 
 
 ## EDUCATION
@@ -32,12 +28,16 @@ Holsworth Wildlife Research Endowment ($6375) **2019**
 
 ### Awards
 The Outstanding Evolution and Ecology Presentation EERC ($200)  **2019**
+
 COMBINE 2018 Symposium 3rd place best oral presentation ($50) **2018**
+
 The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
+
 Edgeworth David Prize in Palaeontology ($50) **2018**
 
 ### Travel Awards
 Postgraduate Research Student Support (PRSS) Scheme ($350)  *2018*
+
 ABACBS National Conference CSL travel award ($200)  *2018*
 
 
