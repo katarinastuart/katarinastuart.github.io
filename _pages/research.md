@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: Katarina Stuart | Research
+title: Resources
+layout: single
 permalink: /research/
-author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 
