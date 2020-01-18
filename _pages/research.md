@@ -3,6 +3,9 @@ title: "Layout: Post with Sticky Table of Contents"
 permalink: /research/
 tags:
   - table of contents
+---
+
+---
 toc: true
 toc_sticky: true
 ---
