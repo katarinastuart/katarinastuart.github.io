@@ -18,8 +18,8 @@ Thesis Title: Mechanisms generating geographic divergence in phenotypic traits w
 Scholarships
 Australian Government Research Training Program Scholarship 2018-2022
 
-Awards
-COMBINE 2018 Symposium 3rd place best oral presentation ($50) 2018
+#Awards
+##COMBINE 2018 Symposium 3rd place best oral presentation ($50) 2018
 The Outstanding Evolution and Ecology Presentation EERC talk runner up 2018
 Edgeworth David Prize in Palaeontology ($50) 2014
 Travel Awards
