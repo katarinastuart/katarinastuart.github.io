@@ -3,7 +3,7 @@ layout: archive
 title: Katarina Stuart | About
 permalink: /about/
 author_profile: true
-      
+   
 ---
 
 
