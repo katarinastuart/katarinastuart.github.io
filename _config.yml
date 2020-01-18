@@ -29,7 +29,7 @@ logo                     : "/assets/Picture1.png" # path of logo image to displa
 masthead_title           : "Katarina Stuart" # overrides the website title displayed in the masthead, use " " for no title
 github                   : [metadata]
 
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -145,10 +145,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/katarinastuart
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: https://github.com/katarinastuart
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
