@@ -25,7 +25,7 @@ url                      : "https://katarinastuart.github.io/" # the base hostna
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "katarinastuart/katarinastuart.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/Snake1.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/Picture1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/katarinastuart_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Katarina Stuart" # overrides the website title displayed in the masthead, use " " for no title
 github                   : [metadata]
 
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Katarina Stuart"
-  avatar           : "/assets/Grey_Headshot_2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Katarina_Stuart.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  PhD Candidate, BEES, UNSW
   location         : "University of New South Wales"
   email            : "Katarina.Stuart@unsw.edu.au"
