@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: Curriculum vitae
 permalink: /cv/
 toc: true
 toc_label: Curriculum vitae
