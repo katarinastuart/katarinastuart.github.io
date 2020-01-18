@@ -1,4 +1,5 @@
 ---
+permalink: /test2/
 title: "Layout: Post with Sticky Table of Contents"
 tags:
   - table of contents
