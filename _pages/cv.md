@@ -6,7 +6,7 @@ author_profile: true
 
 toc: true
 toc_label: "Curriculum vitae"
-
+toc_icon: "cog"
 ---
 
 <h1>EDUCATION</h1>
