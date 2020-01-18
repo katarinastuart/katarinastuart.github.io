@@ -17,7 +17,7 @@ author_profile: true
 
 
 <p style="text-align: center;"> ## -2018- ## </p>
-1. Hudson CM, Brown GP, Stuart KC, Shine R. **2018** Sexual and geographical divergence in head widths of invasive cane toads, Rhinella marina (Anura: Bufonidae), is driven by both rapid evolution and plasticity. *Biol J Linnean Soc.* 124(2):188-99, [**doi.org/10.1093/biolinnean/bly040**](doi.org/10.1093/biolinnean/bly040) 
+1. Hudson CM, Brown GP, Stuart KC, Shine R. **2018** Sexual and geographical divergence in head widths of invasive cane toads, Rhinella marina (Anura: Bufonidae), is driven by both rapid evolution and plasticity. *Biol J Linnean Soc.* 124(2):188-99, [**doi.org/10.1093/biolinnean/bly040**](doi.org/10.1093/biolinnean/bly040) [*Quick-Start Guide*]({{ "/docs/quick-start-guide/" | relative_url }}).
 
 
 **†** indicates joint first authorship, **‡** indicates joint last authorship
