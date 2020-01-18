@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: Katarina Stuart | CV
 permalink: /cv/
 toc: true
-toc_label: true
-toc_icon: true
+toc_label: Curriculum vitae
 toc_sticky: true
 layout: single
 author_profile: true
