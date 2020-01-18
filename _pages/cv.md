@@ -5,55 +5,29 @@ permalink: /cv/
 toc: true
 toc_sticky: true
 layout: single
+author_profile: true
 ---
 
 ## Default layout
 
-The base layout all other layouts inherit from. There's not much to this layout apart from pulling in several `_includes`:
-
-* `<head>` elements
-* masthead navigation links
-* {% raw %}`{{ content }}`{% endraw %}
-* page footer
-* scripts
-
-**Note:** You won't ever assign this layout directly to a post or page. Instead all other layouts will build off of it by setting `layout: default` in their YAML Front Matter.
-{: .notice--warning}
-
 ### Layout based and user-defined classes
 
-Class names corresponding to each layout are automatically added to the `<body>` element eg. `<body class="layout--single">`.
-
-| layout           | class name                  |
-| ---------------- | --------------------------- |
-| archive          | `.layout--archive`          |
-| archive-taxonomy | `.layout--archive-taxonomy` |
-| search           | `.layout--search`           |
-| single           | `.layout--single`           |
-| splash           | `.layout--splash`           |
-| home             | `.layout--home`             |
-| posts            | `.layout--posts`            |
-| categories       | `.layout--categories`       |
-| category         | `.layout--category`         |
-| tags             | `.layout--tags`             |
-| tag              | `.layout--tag`              |
-
-Using YAML Front Matter you can also assign custom classes to target with CSS or JavaScript. Perfect for "art directed" posts or adding custom styles to specific pages.
 
 
-<h1>EDUCATION</h1>
+
+EDUCATION
 Doctor of Philosophy (Biology) - University of New South Wales 2018-present
 
 Bachelor of Science (Advanced) (Honours) - University of Sydney 2013-2017
 Thesis Title: Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia Supervisors: Professors Richard Shine & Gregory Brown
 
-<h2>GRANTS, SCHOLARSHIPS, & AWARDS</h2>
+GRANTS, SCHOLARSHIPS, & AWARDS
 Scholarships
 Australian Government Research Training Program Scholarship 2018-2022
 
-# Awards
+## Awards
 
-## COMBINE 2018 Symposium 3rd place best oral presentation ($50) 2018
+### COMBINE 2018 Symposium 3rd place best oral presentation ($50) 2018
 The Outstanding Evolution and Ecology Presentation EERC talk runner up 2018
 Edgeworth David Prize in Palaeontology ($50) 2014
 Travel Awards
