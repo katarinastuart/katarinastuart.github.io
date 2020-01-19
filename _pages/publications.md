@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 layout: single
 author_profile: true
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
   overlay_image: /assets/images/banner1.png
   caption: "Photo credit: [**placeholder**]"
