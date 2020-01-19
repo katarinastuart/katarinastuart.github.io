@@ -5,6 +5,9 @@ permalink: /publications/
 layout: single
 author_profile: true
 layout: search
+header:
+  image: /assets/Snake2.png
+
 ---
 
 
