@@ -1,11 +1,13 @@
 ---
-title: Resources
-layout: single
+layout: archive
+title: Research
 permalink: /research/
-toc: true
-toc_sticky: true
+layout: single
+author_profile: true
+header:
+  overlay_image: /assets/images/banner1.png
+  caption: "Photo credit: [**placeholder**]"
 ---
-
 
 <section id="table-of-contents" class="toc">
   <header>
