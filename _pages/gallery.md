@@ -4,6 +4,9 @@ title: Gallery
 permalink: /gallery/
 layout: single
 author_profile: true
+header:
+  overlay_image: /assets/images/banner1.png
+  caption: "Photo credit: [**placeholder**]"
 gallery:
   - url: /assets/Snake.png
     image_path: /assets/Snake.png
