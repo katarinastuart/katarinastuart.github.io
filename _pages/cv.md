@@ -7,6 +7,9 @@ toc_label: Curriculum vitae
 toc_sticky: true
 layout: single
 author_profile: true
+header:
+  overlay_image: /assets/images/banner1.png
+  caption: "Photo credit: [**placeholder**]"
 ---
 
 ## EDUCATION
