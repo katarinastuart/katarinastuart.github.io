@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 layout: single
 author_profile: true
-layout: search
 header:
   image: /assets/images/banner1.png
 
@@ -12,7 +11,7 @@ header:
 
 
 <p style="text-align: center;"> -Preprint- </p>
-Cardilini APA**†**, <u>Stuart KC**†**</u>, Cassey P, Richardson MF, Sherwin W, Rollins LA**‡**, Sherman CDH**‡**. **2019** Local signatures of founding populations confound examination of adaptive divergence in invasive populations. *BioRViX*, [*doi.org/10.1101/643569*](doi.org/10.1101/643569)
+Cardilini APA**†**, <u>Stuart KC</u>**†**, Cassey P, Richardson MF, Sherwin W, Rollins LA**‡**, Sherman CDH**‡**. **2019** Local signatures of founding populations confound examination of adaptive divergence in invasive populations. *BioRViX*, [*doi.org/10.1101/643569*](doi.org/10.1101/643569)
 <a href="#" class="btn btn--info">Download PDF</a>
 
 <p style="text-align: center;"> -2019- </p>
