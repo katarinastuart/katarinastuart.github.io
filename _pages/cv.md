@@ -13,7 +13,7 @@ header:
 ---
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="/assets/images/katarinastuart_logo.png">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/images/katarinastuart_favicon-32x32.png">
 
   </head>
 
