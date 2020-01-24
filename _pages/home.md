@@ -1,11 +1,13 @@
 ---
 
-layout: archive
+layout: splash 
 title: Katarina Stuart
-permalink: /
-author_profile: true
+permalink: 
+author_profile: false
       
 ---
 
 
 image
+text
+<centre>pls work </centre>
