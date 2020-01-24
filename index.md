@@ -8,7 +8,7 @@ permalink: /
   <br><br>
 
 
-<img src="assets/snake2.png" alt="welcome" class="inline"/>
+<img src="../assets/snake2.png" alt="welcome" class="inline"/>
 
 <figure>
   <img src="/assets/snake2.png" alt="this is a placeholder potato">
