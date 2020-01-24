@@ -3,11 +3,7 @@ layout: splash
 permalink: /
 
 ---
-<p><p><p></p></p></p>
 
-
-<p><p><p>
-  
   <br>
   <br><br>
 
