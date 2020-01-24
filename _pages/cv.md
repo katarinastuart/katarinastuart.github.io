@@ -12,6 +12,11 @@ header:
   caption: "Photo credit: [**placeholder**]"
 ---
 
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="/assets/images/katarinastuart_logo.png">
+
+  </head>
+
 ## EDUCATION
 
 Doctor of Philosophy (Biology) - University of New South Wales 2018-present
