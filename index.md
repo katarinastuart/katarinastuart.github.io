@@ -36,6 +36,18 @@ permalink: /
 	<figcaption>Two images.</figcaption>
 </figure>
 
+<figure class="half">
+	<a href="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png"><img src="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+<figure>
+	<img src="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png">
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
