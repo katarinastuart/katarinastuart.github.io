@@ -2,7 +2,6 @@
 layout: splash
 permalink: /
 
-{% include figure image_path="/assets/snake2.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 ---
 
   <br>
@@ -18,3 +17,5 @@ permalink: /
 
 
 {% include figure image_path="/assets/snake2.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+![this screenshot](https://github.com/katarinastuart/katarinastuart.github.io/assets/snake2.png)
