@@ -8,10 +8,10 @@ permalink: /
   <br><br>
 
 
-<img src="../assets/snake2.png" alt="welcome" class="inline"/>
+<img src="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png" alt="welcome" class="inline"/>
 
 <figure>
-  <img src="/assets/snake2.png" alt="this is a placeholder potato">
+  <img src="https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png" alt="this is a placeholder potato">
   <figcaption>This is a potato caption.</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ permalink: /
 
 ![this screenshot](https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png)
 
-![this screenshot](../assets/snake2.png)
+![this screenshot](https://github.com/katarinastuart/katarinastuart.github.io/blob/master/assets/Snake2.png)
 
 ![useful image]({{https://github.com/katarinastuart/katarinastuart.github.io}}/assets/snake2.png)
 
