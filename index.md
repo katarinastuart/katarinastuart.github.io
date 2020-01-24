@@ -8,5 +8,5 @@ permalink: /
   <br><br>
 
 
-<img src="/assets/snake2.png" alt="welcome" class="inline"/>
+<img src="assets/snake2.png" alt="welcome" class="inline"/>
 
