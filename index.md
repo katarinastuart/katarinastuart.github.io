@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: splash
 permalink: /
 
 ---
 
 
-<img src="/assets/snake2.png" alt="hi" class="inline"/>
+<img src="/assets/snake2.png" alt="welcome" class="inline"/>
 
