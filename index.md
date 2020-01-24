@@ -10,6 +10,10 @@ permalink: /
 
 <img src="assets/snake2.png" alt="welcome" class="inline"/>
 
-![layout examples](/assets/snake2.png)
+<figure>
+  <img src="/assets/snake2.png" alt="this is a placeholder potato">
+  <figcaption>This is a potato caption.</figcaption>
+</figure>
 
-<img src="/assets/snake2.png" height=480>
+
+{% include figure image_path="/assets/snake2.png" alt="this is a placeholder image" caption="This is a figure caption." %}
