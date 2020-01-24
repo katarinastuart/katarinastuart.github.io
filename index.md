@@ -21,3 +21,5 @@ permalink: /
 ![this screenshot](https://github.com/katarinastuart/katarinastuart.github.io/assets/snake2.png)
 
 ![this screenshot](../assets/snake2.png)
+
+![useful image]({{https://github.com/katarinastuart/katarinastuart.github.io}}/assets/snake2.png)
