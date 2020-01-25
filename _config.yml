@@ -113,11 +113,11 @@ author:
   avatar           : "/assets/images/Katarina_Stuart.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  PhD Candidate, BEES, UNSW
   location         : "University of New South Wales"
-  email            : "Katarina.Stuart@unsw.edu.au"
+  email            : #"Katarina.Stuart@unsw.edu.au"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:Katarina.Stuart@unsw.edu.au
+      url: mailto:Katarina.Stuart@unsw.edu.au
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
