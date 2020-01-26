@@ -33,16 +33,16 @@ gallery1:
     image_path: /assets/photos/2016.Honours.5.jpg
     alt: "Honours"
     title: "Honours"
-  - url: /assets/photos/2016.Honours.4.jpg
-    image_path: /assets/photos/2016.Honours.4.jpg
+  - url: /assets/photos/2016.Honours.2.jpg
+    image_path: /assets/photos/2016.Honours.2.jpg
     alt: "Honours"
     title: "Honours"
   - url: /assets/photos/2016.Honours.3.jpg
     image_path: /assets/photos/2016.Honours.3.jpg
     alt: "Honours"
     title: "Honours"
-  - url: /assets/photos/2016.Honours.2.jpg
-    image_path: /assets/photos/2016.Honours.2.jpg
+  - url: /assets/photos/2016.Honours.4.jpg
+    image_path: /assets/photos/2016.Honours.4.jpg
     alt: "Honours"
     title: "Honours"
   - url: /assets/photos/2016.Honours.1.jpg
