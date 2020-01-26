@@ -54,12 +54,12 @@ ABACBS National Conference CSL travel award ($200)  *2018*
 University of New South Wales, Australia, October 30<br>
 *Evolution in invasive species: exploring adaptive divergence and selection across the Australian landscape.*
 
-**AES 2019 National Conference**
-University of New South Wales, Australia, November 25-27 
+**AES 2019 National Conference**<br>
+University of New South Wales, Australia, November 25-27 <br>
 *Local signatures of founding populations confound identification of adaptive divergence in invasive populations.*
 
-**COMBINE 2018 Symposium**
-University of Melbourne, Victoria, Australia, November 26
+**COMBINE 2018 Symposium**<br>
+University of Melbourne, Victoria, Australia, November 26<br>
 *Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across Australia.*
 
 **Postgraduate Research Form 2018**<br>
