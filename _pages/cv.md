@@ -48,12 +48,35 @@ ABACBS National Conference CSL travel award ($200)  *2018*
 
 ## SCIENTIFIC PRESENTATIONS
 
+### Oral Presentations
+
+**Postgraduate Research Form 2019**<br>
+University of New South Wales, Australia, October 30<br>
+*Evolution in invasive species: exploring adaptive divergence and selection across the Australian landscape.*
+
+**AES 2019 National Conference**
+University of New South Wales, Australia, November 25-27 
+*Local signatures of founding populations confound identification of adaptive divergence in invasive populations.*
+
+**COMBINE 2018 Symposium**
+University of Melbourne, Victoria, Australia, November 26
+*Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across Australia.*
+
+**Postgraduate Research Form 2018**<br>
+University of New South Wales, Australia, October 30<br>
+*Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across space and time.*
+
+### Poster Presentations
+
+GIW/ABACBS 2019 International Conference, University of Sydney, Australia, December 10-11
+Using genomics to reveal drivers of invasion success.
+
+COMBINE/AYRCOB 2019 Symposium, University of Sydney, Australia, December 9
+Using genomics to reveal drivers of invasion success.
+
 ABACBS 2018 National Conference, University of Melbourne, Victoria, Australia, November 27-28
-Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across Australia. [poster]
+Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across Australia.
 
-COMBINE 2018 Symposium, University of Melbourne, Victoria, Australia, November 26 Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across Australia. [talk]
-
-Postgraduate Research Form 2018, UNSW, New South Wales, Australia, October 30 Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across space and time. [talk]
 
 ## TEACHING EXPERIENCE
 
