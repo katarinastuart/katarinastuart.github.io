@@ -13,11 +13,13 @@ header:
 
 ## EDUCATION
 
-**Doctor of Philosophy (Biology)** - University of New South Wales<br>
-2018-present
+**Doctor of Philosophy (Biology)** <br>
+University of New South Wales<br>
+2018 - present
 
-**Bachelor of Science (Advanced) (Honours)** - University of Sydney<br>
-2013-2017<br>
+**Bachelor of Science (Advanced) (Honours)** <br>
+University of Sydney<br>
+2013 - 2017<br>
 Thesis Title: *Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia*<br>
 Supervisors: Professors Richard Shine & Gregory Brown
 
