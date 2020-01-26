@@ -134,14 +134,20 @@ BIOL3910 (Tropical Wildlife Biology – Adv) and GEOS2008 (Field Geology). Vario
 
 ## PROFESSIONAL DEVELOPMENT & TRAINING
 
-UNSW Women in Maths and Science Champions Program **2020**<br>
-Sessional Staff Development Program, BABS, UNSW **2020**<br>
-Code of Conduct Incident Response Workshop, UC Davis California, Otter Tech **2019**<br>
-Bioconductor Hands-on Training Day, 4th Bioconductor Asia meeting, University of Melbourne, Victoria, Australia **2018**<br>
-Sample Size and Power Calculations, Stats Central, UNSW, New South Wales, Australia **2018**<br>
+UNSW Women in Maths and Science Champions Program **2020**
+
+Sessional Staff Development Program, BABS, UNSW **2020**
+
+Code of Conduct Incident Response Workshop, UC Davis California, Otter Tech **2019**
+
+Bioconductor Hands-on Training Day, 4th Bioconductor Asia meeting, University of Melbourne, Victoria, Australia **2018**
+
+Sample Size and Power Calculations, Stats Central, UNSW, New South Wales, Australia **2018**
+
 ANGUS – Analysing Sequencing Data, Data Intensive Biology Summer Institute,
-UC Davis, California, USA **2018**<br>
-Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Australia **2018**<br>
+UC Davis, California, USA **2018**
+
+Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Australia **2018**
 
 
 
