@@ -116,60 +116,74 @@ Primary supervisor for a year 12 student from Elderslie high school, undertaking
 
 ## ADDITIONAL RESEARCH AND FIELD EXPERIENCE
 
-Research Volunteer - Deakin University December 2017
+**Research Volunteer**<br>
+Deakin University December 2017<br>
 Species collection and transportation to field station.
 
-Research Assistant - Deakin University August 2017
+**Research Assistant**<br>
+Deakin University August 2017<br>
 Animal husbandry and data collection for a PhD project located at a regional Northern Territory research station.
 
-Honours Research - University of Sydney August 2016 – February 2017
+**Honours Research**<br>
+University of Sydney August 2016 – February 2017<br>
 Based at a remote research station in Northern Territory, Australia for 6 months while collecting data for completion of my honours thesis.
 
-Undergraduate Field Research - University of Sydney 2013-2015
+**Undergraduate Field Research**<br>
+University of Sydney 2013-2015<br>
 BIOL3910 (Tropical Wildlife Biology – Adv) and GEOS2008 (Field Geology). Various fieldwork components of other classes.
 
 ## PROFESSIONAL DEVELOPMENT & TRAINING
 
-UNSW Women in Maths and Science Champions Program (2020)
-Sessional Staff Development Program, BABS, UNSW (2020)
-Code of Conduct Incident Response Workshop, UC Davis California, Otter Tech (2019)
-Bioconductor Hands-on Training Day, 4th Bioconductor Asia meeting, University of Melbourne, Victoria, Australia (2018)
-Sample Size and Power Calculations, Stats Central, UNSW, New South Wales, Australia (2018)
-ANGUS – Analysing Sequencing Data, Data Intensive Biology Summer Institute, 
-UC Davis, California, USA (2018)
-Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Australia (2018)
+UNSW Women in Maths and Science Champions Program **2020**<br>
+Sessional Staff Development Program, BABS, UNSW **2020**<br>
+Code of Conduct Incident Response Workshop, UC Davis California, Otter Tech **2019**<br>
+Bioconductor Hands-on Training Day, 4th Bioconductor Asia meeting, University of Melbourne, Victoria, Australia **2018**<br>
+Sample Size and Power Calculations, Stats Central, UNSW, New South Wales, Australia **2018**<br>
+ANGUS – Analysing Sequencing Data, Data Intensive Biology Summer Institute,
+UC Davis, California, USA **2018**<br>
+Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Australia **2018**<br>
 
 
 
 ## SERVICE AND OUTREACH
 
-Sydney Society for Conservation Biology – President, Communications	Oct 2018 - present
+**Sydney Society for Conservation Biology**<br>
+President, Communications	<br>
+Oct 2018 - present<br>
 Responsible for managing the society board committee, overseeing finances and event organisation and execution. Additionally, responsible for maintaining the social media pages (Facebook and Twitter), and organised and wrote a monthly newsletter for society members.
 
-COMBINE General Committee - Symposium Coordinator	Dec 2018 – Feb 2020
+**COMBINE General Committee**<br>
+Symposium Coordinator<br>
+Dec 2018 -Feb 2020<br>
 I was responsible for assembling the 2019 COMBINE symposium committee, supervising the organisation of all aspects of the event. Key roles include meeting outcome deadlines, ensuring budget restraints were met and invoiced, and assisting to organise the assembly of a guest careers panels.
 
-E&ERC Postgraduate Committee	Jan 2019 – Jan 2020
+**E&ERC Postgraduate Committee**<br>
+Jan 2019 – Jan 2020<br>
 My job is to provide a lively, inclusive, fun and academically enriching experience for all postgraduates in the E&ERC. I organise formal and informal centre gatherings, two seminar speakers, encourage student participation in centre activities and help integrate new students.
  
-GIW/ABACBS 2019 Conference Committee – COMBINE representative	Feb 2019 – Dec 2019
+**GIW/ABACBS 2019 Conference Committee**<br>
+COMBINE representative<br>
+Feb 2019 – Dec 2019<br>
 Liaised between the ABACBS conference committee and COMBINE symposium committee to ensure budget and time restraints were met. 
 
-AES 2019 Conference Committee	April 2019 – Nov 2019
+**AES 2019 Conference Committee**<br>
+April 2019 – Nov 2019<br>
 Assisted with the organisation of the 2019 Australasian Evolution Society Conference.
 
-Australian National Museum - Volunteer	Aug 2014 – Aug 2019
+**Australian National Museum**<br>
+Volunteer	Aug 2014 – Aug 2019<br>
 Assisting with running events and demonstration, chaperoning school groups, and general communications and operational duties during Australian Science Week.
 
-Friends of Fogg Dam - Invited Speaker	October 2016
+**Friends of Fogg Dam**<br>
+Invited Speaker	October 2016<br>
 Gave a talk to a community ecology and restoration group on the developing aspects of my honours research.
 
 
 
 ## PROFESSIONAL MEMBERSHIP
 
-Australian Bioinformatics and Computational Biology Society (2018-2020)
-Australasian Evolution Society (2019-2020)
-Ecological Society of Australia (2018-2020)
+Australian Bioinformatics and Computational Biology Society **2018-2020**<br>
+Australasian Evolution Society **2018-2020**<br>
+Ecological Society of Australia **2018-2020**<br>
 
 
