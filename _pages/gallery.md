@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/banner1.png
-  caption: "Photo credit: [**placeholder**]"
 gallery2:
   - url: /assets/photos/2018.DIBSI.2.jpg
     image_path: /assets/photos/2018.DIBSI.2.jpg
