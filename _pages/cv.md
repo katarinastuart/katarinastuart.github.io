@@ -68,17 +68,22 @@ University of New South Wales, Australia, October 30<br>
 
 ### Poster Presentations
 
-GIW/ABACBS 2019 International Conference, University of Sydney, Australia, December 10-11
-Using genomics to reveal drivers of invasion success.
+**GIW/ABACBS 2019 International Conference**<br>
+University of Sydney, Australia, December 10-11
+*Using genomics to reveal drivers of invasion success.*
 
-COMBINE/AYRCOB 2019 Symposium, University of Sydney, Australia, December 9
-Using genomics to reveal drivers of invasion success.
+**COMBINE/AYRCOB 2019 Symposium**<br>
+University of Sydney, Australia, December 9
+*Using genomics to reveal drivers of invasion success.*
 
-ABACBS 2018 National Conference, University of Melbourne, Victoria, Australia, November 27-28
-Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling (Sturnus vulgaris) introduction across Australia.
+**ABACBS 2018 National Conference**<br>
+University of Melbourne, Victoria, Australia, November 27-28
+*Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across Australia.*
 
 
 ## TEACHING EXPERIENCE
+
+### Undergradiate Teaching 
 
 BABS3291 – Genes, Genomes and Evolution (University of New South Wales) 2018-2019
 Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Emphasized topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
