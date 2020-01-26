@@ -53,7 +53,7 @@ gallery1:
 
 SF
 
-{% include gallery2 caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery2" caption="This is a sample gallery with **Markdown support**." %}
 
 Honours
 
