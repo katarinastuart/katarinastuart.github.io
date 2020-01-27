@@ -4,6 +4,10 @@ permalink: /
 
 ---
 
+<hea>
+  <meta name="google-site-verification" content="G3xc3nYc5RuEsdxKcaFAx9M-wRAQXJcRGxulpRhFaII" />
+  </head>
+
   <br>
   <br><br>
 
