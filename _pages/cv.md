@@ -25,13 +25,13 @@ Supervisors: Professors Richard Shine & Gregory Brown
 
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
-### Scholarships
+### SCHOLARSHIPS
 Australian Government Research Training Program Scholarship **2018**
 
-### Grants
+### GRANTS
 Holsworth Wildlife Research Endowment ($6375) **2019**
 
-### Awards
+### AWARDS
 The Outstanding Evolution and Ecology Presentation EERC ($200)  **2019**
 
 COMBINE 2018 Symposium 3rd place best oral presentation ($50) **2018**
@@ -40,7 +40,7 @@ The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 
 Edgeworth David Prize in Palaeontology ($50) **2018**
 
-### Travel Awards
+### TRAVEL AWARDS
 Postgraduate Research Student Support (PRSS) Scheme ($350)  *2018*
 
 ABACBS National Conference CSL travel award ($200)  *2018*
@@ -48,7 +48,7 @@ ABACBS National Conference CSL travel award ($200)  *2018*
 
 ## SCIENTIFIC PRESENTATIONS
 
-### Oral Presentations
+### ORAL PRESENTATIONS
 
 **Postgraduate Research Form 2019**<br>
 University of New South Wales, Australia, October 30<br>
@@ -66,7 +66,7 @@ University of Melbourne, Victoria, Australia, November 26<br>
 University of New South Wales, Australia, October 30<br>
 *Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across space and time.*
 
-### Poster Presentations
+### POSTER PRESENTATIONS
 
 **GIW/ABACBS 2019 International Conference**<br>
 University of Sydney, Australia, December 10-11<br>
@@ -83,7 +83,7 @@ University of Melbourne, Victoria, Australia, November 27-28<br>
 
 ## TEACHING EXPERIENCE
 
-### Undergradiate Teaching 
+### UNDERGRADUATE TEACHING
 
 **BABS2204 – Genetics** <br>
 UNSW Sydney, T3 2019<br>
@@ -97,7 +97,7 @@ Laboratory demonstrator for a third-year biotechnology and biomolecular sciences
 UNSW Sydney, T1 2019<br>
 Laboratory demonstrator for a first-year biotechnology and biomolecular sciences subject. Duties include supervising classes to ensure safely protocols are adhered to, marking assignments, and supervising assessable tasks. I was responsible for motivating constructive discussion among students, as well as explaining biological processed to students, and assisting with experimental procedures.
 
-### Other
+### OTHER
 
 **ANGUS 2019 - Data Intensive Biology Summer Institute**<br>
 UC Davis, July 2019<br>
