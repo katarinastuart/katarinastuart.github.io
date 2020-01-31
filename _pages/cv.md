@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/banner1.png
 ---
 
-<a href="/assets/20200131_CVKStuart.pdf" class="btn btn--info">DOWNLOAD RESUME PDF</a>
+<a href="/assets/20200131_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
 
 ## EDUCATION
 
