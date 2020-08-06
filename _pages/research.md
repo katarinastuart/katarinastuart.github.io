@@ -21,7 +21,7 @@ header:
 }
   </style>
 
-My research in the field of ecology, evolution, and genetics focuses on the evolutionary mechanisms that drive <b> invasive species success <b/>, and the adaptive changes such species have undergone. Successful introduced species pose an ecological and financial threat in their invaded range, but also provide an important opportunity to observe <b> rapid evolution </b>  within a species as it responds to new ecosystems. Studying the genetic and phenotypic change in invasive species is of great interest to me, as this has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and general evolutionary mechanisms.
+My research in the field of ecology, evolution, and genetics focuses on the evolutionary mechanisms that drive <b>invasive species success </b>, and the adaptive changes such species have undergone. Successful introduced species pose an ecological and financial threat in their invaded range, but also provide an important opportunity to observe <b> rapid evolution </b>  within a species as it responds to new ecosystems. Studying the genetic and phenotypic change in invasive species is of great interest to me, as this has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and general evolutionary mechanisms.
 
 My projects and interests cover a range of fields, including <b>genomics</b>, <b>bioinformatics</b>, <b>ecological statistics</b>, and <b>field ecology</b>.
 
