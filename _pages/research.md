@@ -21,20 +21,25 @@ header:
 }
   </style>
 
+My research in the field of ecology, evolution, and genetics focuses on the evolutionary mechanisms that drive invasive species success, and the adaptive changes such species have undergone. Successful introduced species pose an ecological and financial threat in their invaded range, but also provide an important opportunity to observe rapid evolution within a species as it responds to new ecosystems. Studying the genetic and phenotypic change in invasive species is of great interest to me, as this has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and general evolutionary mechanisms.
+
+My projects and interests cover a range of fields, including genomics, bioinformatics, ecological statistics, and field ecology.
+
+***
+
 <img style="float: right;" src="/assets/images/katarinastuart_logo.png">
 
-My interests are in invasion biology, exploring the evolutionary mechanisms that drive a successful invasive species. Successful introduced species pose an ecological and financial threat in their invaded range, but also provide an important opportunity to observe rapid evolution within a species as it responds to new ecosystems. Studying the genetic and phenotypic change in invasive species is of great interest to me, as this has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and general evolutionary mechanisms.
+The European starling Sturnus vulgaris, is one of the most widespread and iconic invasive avian species. However, despite their invasive range success, native starling populations are collapsing, with declines of up to 90% in the European countries they occupy. The global spread of this invasive species also provides unique opportunities to contrast divergence across multiple invasive ranges, providing important insight into the malleability of invasion regimes. My projects involve using a number of different sequencing techniques to examine putative adaptive selection, with a focus on the Australian range. Additionally, I include the use of museum collections in order to better understand temporal genetic changes this successful invasive species has undergone.
 
-*Invasive species; rapid evolution; bioinformatics; genomics; population ecology*
 
 ***
 
 <img style="float: left;" src="/assets/images/katarinastuart_logo.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Interpreting results surround adaptive selection is in part based on the genomic tools available for the analysis. To improve our ability to map future genetic read data and understand which genomic regions variants fall within for S. vulgaris, I have drafted a genome assembly of this species. This genome project also contains the first species specific transcript driven gene models for annotation. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes.
 
 ***
 
 <img style="float: right;" src="/assets/images/katarinastuart_logo.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The phenotypic changes an invasive species undergo during invasion are a result of complex interactions between environment and genotype. I am interested in exploring different ways of analysing large phenotypic data sets, and combining these with information about the environment and/or genetics.
