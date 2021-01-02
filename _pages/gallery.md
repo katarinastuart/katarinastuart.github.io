@@ -50,11 +50,10 @@ gallery1:
     title: "Honours"
 ---
 
-SF
 
-{% include gallery id="gallery2" caption="This is a sample gallery with **Markdown support**." %}
 
-Honours
+{% include gallery id="gallery2"  %}
 
-{% include gallery id="gallery1" layout="half" caption="This is a gallery from honours" %}
+
+{% include gallery id="gallery1" layout="half" %}
 
