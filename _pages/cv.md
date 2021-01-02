@@ -31,26 +31,46 @@ Supervisors: Professors Richard Shine & Gregory Brown
 Australian Government Research Training Program Scholarship **2018**
 
 ### GRANTS
-Holsworth Wildlife Research Endowment ($6375) **2019**
+Holsworth Wildlife Research Endowment ($6375, $7500) **2019, 2020**
 
 ### AWARDS
+Australasian Evolution society student talk award (2nd Place) ($200) **2020**
+
 The Outstanding Evolution and Ecology Presentation EERC ($200)  **2019**
 
 COMBINE 2018 Symposium 3rd place best oral presentation ($50) **2018**
 
 The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 
-Edgeworth David Prize in Palaeontology ($50) **2018**
+Edgeworth David Prize in Palaeontology ($50) **2014**
 
 ### TRAVEL AWARDS
-Postgraduate Research Student Support (PRSS) Scheme ($350)  *2018*
+Genetic Society of Australia Smith-White Travel award **2020**
 
-ABACBS National Conference CSL travel award ($200)  *2018*
+Postgraduate Research Student Support (PRSS) Scheme ($350)  **2018**
+
+ABACBS National Conference CSL travel award ($200)  **2018**
 
 
 ## SCIENTIFIC PRESENTATIONS
 
 ### ORAL PRESENTATIONS
+
+**AES Virtual Conference 2020**<br>
+Dec 4<br>
+*Rapid Adaptation in invasive species: Using historical museum samples to examine evolution in an invasive passerine.*
+
+**Postgraduate Research Form 2020**<br>
+Nov 26<br>
+*Investigating evolution using invasive species and historical museum samples.*
+
+**ABACBS 2020 Virtual Conference**<br>
+Nov 25<br>
+*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris. *
+
+**Genetics Society of AustralAsia 2020 Award Symposium**<br>
+Oct 1<br>
+*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris. *
 
 **Postgraduate Research Form 2019**<br>
 University of New South Wales, Australia, October 30<br>
@@ -88,11 +108,11 @@ University of Melbourne, Victoria, Australia, November 27-28<br>
 ### UNDERGRADUATE TEACHING
 
 **BABS2204 – Genetics** <br>
-UNSW Sydney, T3 2019<br>
+UNSW Sydney, T3 2019 & 2020<br>
 Laboratory demonstrator for a second-year biotechnology and biomolecular sciences subject. Duties include supervising classes to ensure safely protocols are adhered to, marking assignments, and supervising assessable tasks. I was responsible for motivating constructive discussion among students, as well as explaining biological processed to students, and assisting with experimental procedures.
 
 **BABS3291 – Genes, Genomes and Evolution**<br>
-UNSW Sydney, T2 2018, 2019<br>
+UNSW Sydney, T2 2018-2020<br>
 Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Key topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
 
 **BABS1201 - Molecules, Cells and Genes**<br>
@@ -100,6 +120,10 @@ UNSW Sydney, T1 2019<br>
 Laboratory demonstrator for a first-year biotechnology and biomolecular sciences subject. Duties include supervising classes to ensure safely protocols are adhered to, marking assignments, and supervising assessable tasks. I was responsible for motivating constructive discussion among students, as well as explaining biological processed to students, and assisting with experimental procedures.
 
 ### OTHER
+
+**Science and Engineering Indigenous Preparatory Program** <br>
+UNSW Sydney, Dec 2020<br>
+Project Developer and Instructor for the Science and Engineering Indigenous Preparatory Program. Prepared and delivered 3 hours of first year university level biology teaching content for incoming and prospective first year university students.
 
 **ANGUS 2019 - Data Intensive Biology Summer Institute**<br>
 UC Davis, July 2019<br>
@@ -157,12 +181,12 @@ Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Au
 
 **Sydney Society for Conservation Biology**<br>
 President, Communications	<br>
-Oct 2018 - present<br>
+Oct 2018 – Feb 2020<br>
 Responsible for managing the society board committee, overseeing finances and event organisation and execution. Additionally, responsible for maintaining the social media pages (Facebook and Twitter), and organised and wrote a monthly newsletter for society members.
 
 **COMBINE General Committee**<br>
 Symposium Coordinator<br>
-Dec 2018 -Feb 2020<br>
+Dec 2018 – Feb 2020<br>
 I was responsible for assembling the 2019 COMBINE symposium committee, supervising the organisation of all aspects of the event. Key roles include meeting outcome deadlines, ensuring budget restraints were met and invoiced, and assisting to organise the assembly of a guest careers panels.
 
 **E&ERC Postgraduate Committee**<br>
@@ -190,8 +214,9 @@ Gave a talk to a community ecology and restoration group on the developing aspec
 
 ## PROFESSIONAL MEMBERSHIP
 
-Australian Bioinformatics and Computational Biology Society **2018-2020**<br>
-Australasian Evolution Society **2018-2020**<br>
-Ecological Society of Australia **2018-2020**<br>
+Australian Bioinformatics and Computational Biology Society **2018-2021**<br>
+AustralAsian Evolution Society **2019-2021**<br>
+Genetics Society of AustralAsia **2020-2021**<br>
+Ecological Society of Australia **2018-2021**<br>
 
 
