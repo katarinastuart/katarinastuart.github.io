@@ -10,8 +10,10 @@ header:
 
 
 <p style="text-align: center;"> -Preprint- </p>
-Cardilini APA**†**, <u>Stuart KC</u>**†**, Cassey P, Richardson MF, Sherwin W, Rollins LA**‡**, Sherman CDH**‡**. **2019** Local signatures of founding populations confound examination of adaptive divergence in invasive populations. *BioRViX*, [doi.org/10.1101/643569](https://www.biorxiv.org/content/10.1101/643569v2)
-<a href="/assets/papers/3.Biorxiv.pdf" class="btn btn--info">MANUSCRIPT PDF</a>
+Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA (2020) Microbial function is related to behavior of an invasive anuran. BioRXIV, [doi.org/10.1101/2020.11.16.385690](https://doi.org/10.1101/2020.11.16.385690)
+
+<p style="text-align: center;"> -2020- </p>
+<u>Stuart KC</u>**†**, Cardilini APA**†**, Cassey P, Richardson MF, Sherwin W, Rollins LA**‡**, Sherman CDH**‡**. **2020** Signatures of selection in a recent invasion reveal adaptive divergence in a highly vagile invasive species. *Molecular Ecology*, [doi.org/10.1111/mec.15601](https://doi.org/10.1111/mec.15601)
 
 <p style="text-align: center;"> -2019- </p>
 <u>Stuart KC</u>, Brown GP, Shine R. **2019** Proximate mechanisms underlying the rapid modification of phenotypic traits in cane toads (Rhinella marina) across their invasive range within Australia. *Biol J Linnean Soc.* 126(1):68-79, *[doi.org/10.1093/biolinnean/bly150](https://academic.oup.com/biolinnean/article-abstract/126/1/68/5189714?redirectedFrom=fulltext)*
