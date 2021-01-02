@@ -34,7 +34,7 @@ The European starling <i>Sturnus vulgaris </i>, is one of the most widespread an
 
 ***
 
-<img style="float: left;" src="/assets/images/katarinastuart_logo.png">
+<img style="float: left;" src="/assets/images/research_genome.png">
 
 Interpreting results surround adaptive selection is in part based on the genomic tools available for the analysis. To improve our ability to map future genetic read data and understand which genomic regions variants fall within for <i>S. vulgaris</i>, I have drafted a <b>genome assembly </b>for this species. This genome project also contains the first species specific transcript driven gene models for annotation. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes.
 
