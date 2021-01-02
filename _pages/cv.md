@@ -57,20 +57,20 @@ ABACBS National Conference CSL travel award ($200)  **2018**
 ### ORAL PRESENTATIONS
 
 **AES Virtual Conference 2020**<br>
-Dec 4<br>
+Virtual, Dec 4<br>
 *Rapid Adaptation in invasive species: Using historical museum samples to examine evolution in an invasive passerine.*
 
 **Postgraduate Research Form 2020**<br>
-Nov 26<br>
+Virtual, Nov 26<br>
 *Investigating evolution using invasive species and historical museum samples.*
 
 **ABACBS 2020 Virtual Conference**<br>
-Nov 25<br>
-*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris. *
+Virtual, Nov 25<br>
+*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
 
 **Genetics Society of AustralAsia 2020 Award Symposium**<br>
-Oct 1<br>
-*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris. *
+Virtual, Oct 1<br>
+*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
 
 **Postgraduate Research Form 2019**<br>
 University of New South Wales, Australia, October 30<br>
