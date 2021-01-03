@@ -27,14 +27,14 @@ My projects and interests cover a range of fields, including <b>genomics</b>, <b
 
 ***
 
-<img style="float: right;" src="/assets/images/katarinastuart_logo.png" width="100" height="100">
+<img style="float: right;" src="/assets/images/katarinastuart_logo.png" width="200" height="200">
 
 The European starling <i>Sturnus vulgaris </i>, is one of the most widespread and iconic invasive avian species. However, despite their invasive range success, native starling populations are collapsing, with declines of up to 90% in the European countries they occupy. The global spread of this invasive species also provides unique opportunities to contrast genetic divergence across multiple invasive ranges, providing insight into the malleability of invasion regimes. My projects involve using a number of different sequencing techniques to examine <b>putative adaptive selection</b>, with a focus on the Australian range. Additionally, I include the use of museum collections in order to better understand temporal genetic changes this successful invasive species has undergone.
 
 
 ***
 
-<img style="float: left;" src="/assets/images/research_genome.tif">
+<img style="float: left;" src="/assets/images/research_genome_trans2.png">
 
 Interpreting results surround adaptive selection is in part based on the genomic tools available for the analysis. To improve our ability to map future genetic read data and understand which genomic regions variants fall within for <i>S. vulgaris</i>, I have drafted a <b>genome assembly </b>for this species. This genome project also contains the first species specific transcript driven gene models for annotation. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes.
 
