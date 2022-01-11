@@ -40,6 +40,6 @@ To improve our ability to map future genetic read data and understand which geno
 
 ***
 
-<img style="float: right;" src="/assets/images/katarinastuart_logo.png">
+<img style="float: right;" src="/assets/images/research_map2.png">
 
 The <b>phenotypic changes</b> an invasive species undergo during invasion are a result of complex interactions between environment and genotype. I am interested in exploring different ways of analysing large phenotypic data sets, and combining these with information about the environment and/or genetics.
