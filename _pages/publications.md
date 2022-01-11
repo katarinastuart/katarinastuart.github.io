@@ -12,6 +12,7 @@ header:
 <p style="text-align: center;"> -Preprint- </p>
 
 Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2021**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *BioRXIV* [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
+ [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
 
 <u>Stuart KC</u>**†**, Edwards RJ**†**, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2021**. Transcript- and annotation-guided genome assembly of the European starling. *BioRXIV* [doi.org/10.1101/2021.04.07.438753](https://doi.org/10.1101/2021.04.07.438753) **†** joint first author.
 
