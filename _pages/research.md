@@ -21,7 +21,7 @@ header:
 }
   </style>
 
-My research in the field of ecology, evolution, and genetics focuses on the evolutionary mechanisms that drive <b>invasive species success</b>, and the adaptive changes such species have undergone. Successful introduced species pose an ecological and financial threat in their invaded range, but also provide an important opportunity to observe <b>rapid evolution</b>  within a species as it responds to new ecosystems. Studying the genetic and phenotypic change in invasive species is of great interest to me, as this has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and general evolutionary mechanisms.
+My research interests are in **evolutionary genomics** and exploring the proximate mechanisms that facilitate local adaptation. Most of my research is conducted on **introduced species**, as successful invasives provide an important opportunity to observe rapid evolution within a species as it responds to a new ecosystem. Understanding **rapid adaptation** within invasive populations has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and evolutionary mechanisms. Most of my research is focused on the invasive starling population in Australia and focuses on identifying adaptive genetic shifts post invasion. 
 
 My projects and interests cover a range of fields, including <b>genomics</b>, <b>bioinformatics</b>, <b>ecological statistics</b>, and <b>field ecology</b>.
 
