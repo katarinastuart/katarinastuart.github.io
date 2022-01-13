@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/banner1.png
 
-feature_row:
+feature_row1:
   - image_path: /assets/vignettes/vignette_preview_rm1.jpg
     alt: "Redundancy Analysis"
     title: "Redundancy Analysis"
@@ -15,41 +15,44 @@ feature_row:
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv3.jpg
     alt: "Genome Plots"
     title: "Genome Plots"
     excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
+    url: "https://github.com/katarinastuart/Sv3_StarlingGenome"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+   - image_path: /assets/vignettes/vignette_preview_sv2.jpg
+    alt: "Distrbution Map"
+    title: "Distrbution Map"
+    excerpt: "Retrieving data from eBird and using it to plot a **species distribution map**."
+    url: "https://github.com/katarinastuart/Sv2_StarlingLitReview"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    
+feature_row2:
+  - image_path: /assets/vignettes/vignette_preview_sv5.jpg
+    alt: "Local PCA"
+    title: "Local PCA"
+    excerpt: "Analysing SNP data for chromosome-wide strucutral patterns using **localPCA**. "
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv4.jpg
     alt: "SNP variant calling"
     title: "SNP variant calling"
     excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
+    url: "https://github.com/katarinastuart/Sv4_HistoricalStarlings"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/vignettes/vignette_preview_sv6.jpg
+    alt: "Morphology & Genetics"
+    title: "Morphology & Genetics"
+    excerpt: "Some assocation tests between genetic and morphological data."
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-   - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "Redundancy Analysis"
-    title: "Redundancy Analysis"
-    excerpt: "Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "Genome Plots"
-    title: "Genome Plots"
-    excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "SNP variant calling"
-    title: "SNP variant calling"
-    excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+
 
 ---
 
@@ -61,4 +64,6 @@ Below is a collection of vignettes I have made over the years. My general goal i
 
 I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything, feel free to contact me. 
 
-{% include feature_row %}
+{% include feature_row1 %}
+
+{% include feature_row2 %}
