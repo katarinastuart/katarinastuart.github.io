@@ -17,7 +17,7 @@ header:
 
 **Doctor of Philosophy (Biology)** <br>
 University of New South Wales<br>
-2018 - present
+2018 - 2022
 
 **Bachelor of Science (Advanced) (Honours)** <br>
 University of Sydney<br>
@@ -28,12 +28,17 @@ Supervisors: Professors Richard Shine & Gregory Brown
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
 ### SCHOLARSHIPS
-Australian Government Research Training Program Scholarship **2018**
+UNSW Science PhD Writing Scholarship ($7,500) **2022**
+Australian Government Research Training Program Scholarship **2018-2022**
 
 ### GRANTS
 Holsworth Wildlife Research Endowment ($6375, $7500) **2019, 2020**
 
 ### AWARDS
+GSA 2021 Mayo Prize for best student presentation  **2021**
+
+Outstanding E&ERC Postgraduate Researcher  **2021**
+
 Australasian Evolution society student talk award (2nd Place) ($200) **2020**
 
 The Outstanding Evolution and Ecology Presentation EERC ($200)  **2019**
@@ -45,61 +50,75 @@ The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 Edgeworth David Prize in Palaeontology ($50) **2014**
 
 ### TRAVEL AWARDS
-Genetic Society of Australia Smith-White Travel award **2020**
+Postgraduate Research Student Support (PRSS) Scheme ($1000)  **2021**
 
-Postgraduate Research Student Support (PRSS) Scheme ($350)  **2018**
+Genetic Society of Australia Smith-White Travel award **2020**
 
 ABACBS National Conference CSL travel award ($200)  **2018**
 
 
 ## SCIENTIFIC PRESENTATIONS
 
+### INVITED TALKS
+
+**Queensland Technologies and Innovations group seminar talk**<br>
+Virtual, Feb 2021<br>
+*The draft genome assembly of the globally invasive common starling, Sturnus vulgaris*
+
+**Genetics Society of AustralAsia Award Symposium**<br>
+Virtual, Oct 1 2020<br>
+*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
+
 ### ORAL PRESENTATIONS
 
-**AES Virtual Conference 2020**<br>
-Virtual, Dec 4<br>
+**Australasian Evolution Society Virtual Conference **<br>
+Virtual, Dec 2 2021<br>
+*A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris).*
+
+**Genetics Society of AustralAsia Virtual Conference**<br>
+Virtual, Oct 2021<br>
+*A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris).*
+
+**Australasian Evolution Society Virtual Conference **<br>
+Virtual, Dec 4 2020<br>
 *Rapid Adaptation in invasive species: Using historical museum samples to examine evolution in an invasive passerine.*
 
-**Postgraduate Research Form 2020**<br>
-Virtual, Nov 26<br>
+**Postgraduate Research Form **<br>
+Virtual, Nov 26 2020<br>
 *Investigating evolution using invasive species and historical museum samples.*
 
-**ABACBS 2020 Virtual Conference**<br>
-Virtual, Nov 25<br>
+**ABACBS Virtual Conference**<br>
+Virtual, Nov 25 2020<br>
 *Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
 
-**Genetics Society of AustralAsia 2020 Award Symposium**<br>
-Virtual, Oct 1<br>
-*Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
-
-**Postgraduate Research Form 2019**<br>
-University of New South Wales, Australia, October 30<br>
+**Postgraduate Research Form **<br>
+University of New South Wales, Australia, October 30 2019<br>
 *Evolution in invasive species: exploring adaptive divergence and selection across the Australian landscape.*
 
-**AES 2019 National Conference**<br>
-University of New South Wales, Australia, November 25-27 <br>
+**Australasian Evolution Society National Conference**<br>
+University of New South Wales, Australia, November 25-27 2019<br>
 *Local signatures of founding populations confound identification of adaptive divergence in invasive populations.*
 
-**COMBINE 2018 Symposium**<br>
-University of Melbourne, Victoria, Australia, November 26<br>
+**COMBINE Symposium**<br>
+University of Melbourne, Victoria, Australia, November 26 2018<br>
 *Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across Australia.*
 
-**Postgraduate Research Form 2018**<br>
-University of New South Wales, Australia, October 30<br>
+**Postgraduate Research Form**<br>
+University of New South Wales, Australia, October 30 2018<br>
 *Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across space and time.*
 
 ### POSTER PRESENTATIONS
 
-**GIW/ABACBS 2019 International Conference**<br>
-University of Sydney, Australia, December 10-11<br>
+**GIW/ABACBS International Conference**<br>
+University of Sydney, Australia, December 10-11 2019<br>
 *Using genomics to reveal drivers of invasion success.*
 
-**COMBINE/AYRCOB 2019 Symposium**<br>
-University of Sydney, Australia, December 9<br>
+**COMBINE/AYRCOB Symposium**<br>
+University of Sydney, Australia, December 9 2019<br>
 *Using genomics to reveal drivers of invasion success.*
 
-**ABACBS 2018 National Conference**<br>
-University of Melbourne, Victoria, Australia, November 27-28<br>
+**ABACBS National Conference**<br>
+University of Melbourne, Victoria, Australia, November 27-28 2018<br>
 *Evolution in invasive populations: using genomics to reveal drivers of invasion success in the Australian European starling* (Sturnus vulgaris) *introduction across Australia.*
 
 
@@ -108,16 +127,20 @@ University of Melbourne, Victoria, Australia, November 27-28<br>
 ### UNDERGRADUATE TEACHING
 
 **BABS2204 – Genetics** <br>
-UNSW Sydney, T3 2019 & 2020<br>
+UNSW Sydney, 2019 - 2021<br>
 Laboratory demonstrator for a second-year biotechnology and biomolecular sciences subject. Duties include supervising classes to ensure safely protocols are adhered to, marking assignments, and supervising assessable tasks. I was responsible for motivating constructive discussion among students, as well as explaining biological processed to students, and assisting with experimental procedures.
 
-**BABS3291 – Genes, Genomes and Evolution**<br>
-UNSW Sydney, T2 2018-2020<br>
-Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Key topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
+**BIOC2201 – Principles of molecular biology** <br>
+UNSW Sydney, 2021<br>
+Laboratory demonstrator and tutor for a second-year biochemistry subject, with key topics including an introduction to modern molecular biology, molecular mechanisms of gene expression, and fundamental aspects of recombinant DNA technology
 
-**BABS1201 - Molecules, Cells and Genes**<br>
-UNSW Sydney, T1 2019<br>
-Laboratory demonstrator for a first-year biotechnology and biomolecular sciences subject. Duties include supervising classes to ensure safely protocols are adhered to, marking assignments, and supervising assessable tasks. I was responsible for motivating constructive discussion among students, as well as explaining biological processed to students, and assisting with experimental procedures.
+**BIOC2101 - Principles of Biochemistry	** <br>
+UNSW Sydney, 2021 <br>
+Laboratory demonstrator for a second-year biochemistry subject, with key topics including and introduction to modern biochemistry, and covers fundamental aspects of the structure-function relationships of proteins and an overall coverage of intermediary metabolism.
+
+**BABS3291 – Genes, Genomes and Evolution**<br>
+UNSW Sydney, 2018-2021<br>
+Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Key topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
 
 ### OTHER
 
@@ -129,9 +152,6 @@ Project Developer and Instructor for the Science and Engineering Indigenous Prep
 UC Davis, July 2019<br>
 Teaching assistant at the ANGUS summer course held through the Data Intensive Biology Summer Institute and the Lab for Data Intensive Biology at UC Davis. Taught learners from varied backgrounds (undergraduate to professorial) genomic practices for analysing big shotgun sequencing data sets over the intensive two-week course, as well as working one on one with learners on their own data sets.
 
-**Private tutor (Elite Education, various private employers)**<br>
-2014 - present<br>
-Private tutoring sessions for students studying a range of subjects, years 5-12.
 
 ## SUPERVISION EXPERIENCE 
 
@@ -179,6 +199,10 @@ Software Carpentry Workshop – R, Unix shell, Git, Curtin University, Perth, Au
 
 ## SERVICE AND OUTREACH
 
+**GSA 2021 Virtual Conference Committee**<br>
+July 2021 – Oct 2021<br>
+Assisted with the organisation of the 2021 Genetics Society of AustralAsia Virtual Conference.
+
 **Sydney Society for Conservation Biology**<br>
 President, Communications	<br>
 Oct 2018 – Feb 2020<br>
@@ -214,9 +238,9 @@ Gave a talk to a community ecology and restoration group on the developing aspec
 
 ## PROFESSIONAL MEMBERSHIP
 
-Australian Bioinformatics and Computational Biology Society **2018-2021**<br>
-AustralAsian Evolution Society **2019-2021**<br>
-Genetics Society of AustralAsia **2020-2021**<br>
+Australian Bioinformatics and Computational Biology Society **2018-2022**<br>
+AustralAsian Evolution Society **2019-2022**<br>
+Genetics Society of AustralAsia **2020-2022**<br>
 Ecological Society of Australia **2018-2021**<br>
 
 
