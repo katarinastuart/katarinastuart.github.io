@@ -51,7 +51,7 @@ I love all things evoltionary biology. I completed my undergraduate degree at th
 
 {% include gallery id="gallery1" layout="third" %}
 
-I enjoy working in the field, in the wetlab, though ultimately spend a large portion of my time working on genetic data sets. I spend many of my working hours writing code, fixing code, and then writing about why I wrote the code in the first place. A small portion of my time is spent retrieving code deleted by Toothless the shingleback, as he walks thoughtlessly across my keyboard. 
+I enjoy working in the field and in the wetlab, though ultimately spend a large portion of my time at the computer analysing genetic data sets. I spend many of my working hours writing code, fixing code, and then writing about why I wrote the code in the first place. A small portion of my time is spent retrieving code deleted by Toothless the shingleback, as he walks thoughtlessly across my keyboard. 
 
 {% include gallery id="gallery2" layout="third" %}
 
