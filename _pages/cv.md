@@ -134,7 +134,7 @@ Laboratory demonstrator for a second-year biotechnology and biomolecular science
 UNSW Sydney, 2021<br>
 Laboratory demonstrator and tutor for a second-year biochemistry subject, with key topics including an introduction to modern molecular biology, molecular mechanisms of gene expression, and fundamental aspects of recombinant DNA technology
 
-**BIOC2101 - Principles of Biochemistry	** <br>
+**BIOC2101 - Principles of Biochemistry** <br>
 UNSW Sydney, 2021 <br>
 Laboratory demonstrator for a second-year biochemistry subject, with key topics including and introduction to modern biochemistry, and covers fundamental aspects of the structure-function relationships of proteins and an overall coverage of intermediary metabolism.
 
