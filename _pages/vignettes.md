@@ -59,6 +59,6 @@ Below is a collection of vignettes I have made over the years. My general goal i
 2. provide a starting point for other researches who need help with the code
 3. reflect on new program/techniques learnt duing projects and note areas of improvment for the future
 
-I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything, feel free to contact me. 
+I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything feel free to contact me. 
 
 {% include feature_row %}
