@@ -29,8 +29,27 @@ feature_row:
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
-
+  - image_path: /assets/vignettes/vignette_preview_rm1.jpg
+    alt: "Redundancy Analysis"
+    title: "Redundancy Analysis"
+    excerpt: "Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/photos/2016.Honours.8.jpg
+    alt: "Genome Plots"
+    title: "Genome Plots"
+    excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/photos/2016.Honours.8.jpg
+    alt: "SNP variant calling"
+    title: "SNP variant calling"
+    excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
 ---
 
