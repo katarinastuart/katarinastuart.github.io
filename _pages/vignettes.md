@@ -26,7 +26,7 @@ feature_row:
     alt: "SNP variant calling"
     title: "SNP variant calling"
     excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    url: "https://github.com/katarinastuart/Sv4_HistoricalStarlings"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/vignettes/vignette_preview_sv2.jpg
