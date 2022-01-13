@@ -9,24 +9,31 @@ header:
 
 feature_row:
   - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    alt: "Redundancy Analysis (RDA)"
+    title: "Redundancy Analysis (RDA)"
+    excerpt: "Ecology and multivariate statistics covering **redundancy analysis (RDA)** of cane toad phenotype data."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/photos/2016.Honours.8.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Genome Plots"
+    title: "Genome Plots"
+    excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/photos/2016.Honours.8.jpg
+    alt: "SNP variant calling"
+    title: "SNP variant calling"
+    excerpt: "Calling SNPs from DArTseq data using a few mapping and variant calling software."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
 ---
 
 
-Below is a collection of vignettes I have made over the years. My general goal is to create one vignette per first author paper, in it capturing some aspect of the data processing or analysis that I had to learn for the project. My aim in creating these is is threefold:
+Below is a collection of vignettes I have made over the years. My general goal is to create one vignette per first author paper, in it capturing some aspect of the data processing or analysis that I had to learn for the project. My aim in creating these is is threefold:<br>
 1) increase my research repeatability and transparancy
 2) provide a starting point for other researches who need help with the code
 3) reflect on new program/techniques learnt duing projects and note areas of improvment for the future
