@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Vignette
-permalink: /vignette/
+title: Vignettes
+permalink: /vignettes/
 layout: single
 author_profile: true
 header:
