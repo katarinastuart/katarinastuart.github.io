@@ -36,17 +36,17 @@ feature_row:
     url: "https://github.com/katarinastuart/Sv2_StarlingLitReview"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "Genome Plots"
-    title: "Genome Plots"
-    excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
+  - image_path: /assets/vignettes/vignette_preview_sv6.jpg
+    alt: "Morphology & Genetics"
+    title: "Morphology & Genetics"
+    excerpt: "Some association tests between genetic and morphological data."
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "SNP variant calling"
-    title: "SNP variant calling"
-    excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
+  - image_path: /assets/vignettes/vignette_preview_sv5.jpg
+    alt: "Local PCA"
+    title: "Local PCA"
+    excerpt: "Analysing SNP data for chromosome-wide strucutral patterns using **local PCA**."
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
