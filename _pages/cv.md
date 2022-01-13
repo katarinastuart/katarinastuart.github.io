@@ -28,7 +28,7 @@ Supervisors: Professors Richard Shine & Gregory Brown
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
 ### SCHOLARSHIPS
-UNSW Science PhD Writing Scholarship ($7,500) **2022**
+UNSW Science PhD Writing Scholarship ($7,500) **2022**<br>
 Australian Government Research Training Program Scholarship **2018-2022**
 
 ### GRANTS
@@ -71,7 +71,7 @@ Virtual, Oct 1 2020<br>
 
 ### ORAL PRESENTATIONS
 
-**Australasian Evolution Society Virtual Conference **<br>
+**Australasian Evolution Society Virtual Conference**<br>
 Virtual, Dec 2 2021<br>
 *A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris).*
 
@@ -79,11 +79,11 @@ Virtual, Dec 2 2021<br>
 Virtual, Oct 2021<br>
 *A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris).*
 
-**Australasian Evolution Society Virtual Conference **<br>
+**Australasian Evolution Society Virtual Conference**<br>
 Virtual, Dec 4 2020<br>
 *Rapid Adaptation in invasive species: Using historical museum samples to examine evolution in an invasive passerine.*
 
-**Postgraduate Research Form **<br>
+**Postgraduate Research Form**<br>
 Virtual, Nov 26 2020<br>
 *Investigating evolution using invasive species and historical museum samples.*
 
@@ -91,7 +91,7 @@ Virtual, Nov 26 2020<br>
 Virtual, Nov 25 2020<br>
 *Whole transcripts in genome assembly, annotation, and assessment: the draft genome assembly of the globally invasive common starling, Sturnus vulgaris.*
 
-**Postgraduate Research Form **<br>
+**Postgraduate Research Form**<br>
 University of New South Wales, Australia, October 30 2019<br>
 *Evolution in invasive species: exploring adaptive divergence and selection across the Australian landscape.*
 
