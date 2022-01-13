@@ -8,42 +8,42 @@ header:
   overlay_image: /assets/images/banner1.png
 
 feature_row:
-  - image_path: /assets/vignettes/vignette_preview_rm1.jpg
+  - image_path: /assets/vignettes/vignette_preview_rm1b.jpg
     alt: "Redundancy Analysis"
     title: "Redundancy Analysis"
     excerpt: "Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data."
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv3.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv3b.jpg
     alt: "Genome Plots"
     title: "Genome Plots"
     excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
     url: "https://github.com/katarinastuart/Sv3_StarlingGenome"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv4.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv4b.jpg
     alt: "SNP variant calling"
     title: "SNP variant calling"
     excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
     url: "https://github.com/katarinastuart/Sv4_HistoricalStarlings"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv2.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv2b.jpg
     alt: "Distribution Map"
     title: "Distribution Map"
     excerpt: "Retrieving data from eBird and using it to plot a **species distribution map**."
     url: "https://github.com/katarinastuart/Sv2_StarlingLitReview"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv6.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv6b.jpg
     alt: "Morphology & Genetics"
     title: "Morphology & Genetics"
     excerpt: "Some association tests between genetic and morphological data."
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv5.jpg
+  - image_path: /assets/vignettes/vignette_preview_sv5b.jpg
     alt: "Local PCA"
     title: "Local PCA"
     excerpt: "Analysing SNP data for chromosome-wide strucutral patterns using **local PCA**."
