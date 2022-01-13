@@ -15,20 +15,21 @@ feature_row:
     url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv3.jpg
+  - image_path: /assets/photos/2016.Honours.8.jpg
     alt: "Genome Plots"
     title: "Genome Plots"
     excerpt: "How to use **Circlize** in R to plot pretty much anything around your genome."
-    url: "https://github.com/katarinastuart/Sv3_StarlingGenome"
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-   - image_path: /assets/vignettes/vignette_preview_sv2.jpg
-    alt: "Distrbution Map"
-    title: "Distrbution Map"
-    excerpt: "Retrieving data from eBird and using it to plot a **species distribution map**."
-    url: "https://github.com/katarinastuart/Sv2_StarlingLitReview"
+  - image_path: /assets/photos/2016.Honours.8.jpg
+    alt: "SNP variant calling"
+    title: "SNP variant calling"
+    excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
+    url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
 
 
 ---
@@ -41,6 +42,4 @@ Below is a collection of vignettes I have made over the years. My general goal i
 
 I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything, feel free to contact me. 
 
-{% include feature_row1 %}
-
-{% include feature_row2 %}
+{% include feature_row %}
