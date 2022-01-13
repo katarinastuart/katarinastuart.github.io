@@ -26,8 +26,12 @@ feature_row:
 ---
 
 
-test
+Below is a collection of vignettes I have made over the years. My general goal is to create one vignette per first author paper, in it capturing some aspect of the data processing or analysis that I had to learn for the project. My aim in creating these is is threefold:
+1) increase my research repeatability and transparancy
+2) provide a starting point for other researches who need help with the code
+3) reflect on new program/techniques learnt duing projects and note areas of improvment for the future
+
+I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything, feel free to contact me. 
 
 {% include feature_row %}
 
-test
