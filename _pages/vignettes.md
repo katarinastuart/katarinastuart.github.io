@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/banner1.png
 
-feature_row1:
+feature_row:
   - image_path: /assets/vignettes/vignette_preview_rm1.jpg
     alt: "Redundancy Analysis"
     title: "Redundancy Analysis"
@@ -27,29 +27,6 @@ feature_row1:
     title: "Distrbution Map"
     excerpt: "Retrieving data from eBird and using it to plot a **species distribution map**."
     url: "https://github.com/katarinastuart/Sv2_StarlingLitReview"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    
-feature_row2:
-  - image_path: /assets/vignettes/vignette_preview_sv5.jpg
-    alt: "Local PCA"
-    title: "Local PCA"
-    excerpt: "Analysing SNP data for chromosome-wide strucutral patterns using **localPCA**. "
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv4.jpg
-    alt: "SNP variant calling"
-    title: "SNP variant calling"
-    excerpt: "Calling SNPs from **raw DArTseq data** using a few mapping and variant calling softwares."
-    url: "https://github.com/katarinastuart/Sv4_HistoricalStarlings"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv6.jpg
-    alt: "Morphology & Genetics"
-    title: "Morphology & Genetics"
-    excerpt: "Some assocation tests between genetic and morphological data."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
