@@ -11,8 +11,8 @@ gallery1:
     image_path: /assets/photos/2016.Honours.8.jpg
     alt: "Honours"
     title: "Honours"
-  - url: /assets/photos/2016.Honours.7.jpg
-    image_path: /assets/photos/2016.Honours.7.jpg
+  - url: /assets/photos/field_rain.jpg
+    image_path: /assets/photos/field_rain.jpg
     alt: "Honours"
     title: "Honours"
   - url: /assets/photos/2016.Honours.5.jpg
@@ -20,16 +20,16 @@ gallery1:
     alt: "Honours"
     title: "Honours"
 gallery2:
-  - url: /assets/photos/2016.Honours.4.jpg
-    image_path: /assets/photos/2016.Honours.4.jpg
+  - url: /assets/photos/2016.Honours.1.jpg
+    image_path: /assets/photos/2016.Honours.1.jpg
     alt: "Honours"
     title: "Honours"
   - url: /assets/photos/2016.Honours.3.jpg
     image_path: /assets/photos/2016.Honours.3.jpg
     alt: "Honours"
     title: "Honours"
-  - url: /assets/photos/2016.Honours.6.jpg
-    image_path: /assets/photos/2016.Honours.6.jpg
+  - url: /assets/photos/2016.Honours.7.jpg
+    image_path: /assets/photos/2016.Honours.7.jpg
     alt: "Honours"
     title: "Honours"    
 gallery3:
@@ -55,6 +55,6 @@ I enjoy working in the field, in the wetlab, though ultimately spend a large por
 
 {% include gallery id="gallery2" layout="third" %}
 
-When not doing research, I fill my days with art, gardening, baking, reading, and games (board games, DnD, and computer games, I love them all). 
+When not doing research, I fill my days with art, gardening, baking, reading, and gaming (board games, DnD, and computer games, I love them all). 
 
 {% include gallery id="gallery3" layout="third" %}
