@@ -17,13 +17,15 @@ header:
 
 **Doctor of Philosophy (Biology)** <br>
 University of New South Wales<br>
-2018 - 2022
+2018 - 2022<br>
+Thesis Title: *A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris)*<br>
+Supervisors: Associate Professor Lee A Rollins, Dr Richard J Edwards & Professor William B Sherwin
 
 **Bachelor of Science (Advanced) (Honours)** <br>
 University of Sydney<br>
 2013 - 2017<br>
 Thesis Title: *Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia*<br>
-Supervisors: Professors Richard Shine & Gregory Brown
+Supervisors: Professor Richard Shine & Dr Gregory Brown
 
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
