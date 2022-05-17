@@ -47,7 +47,7 @@ gallery3:
     title: "This is an octopus. It predicts football match winners."
 ---
 
-I love all things evolutionary biology. I completed my undergraduate degree at the University of Sydney in 2017. For my honours thesis, I spent six months at a research station in the Northern Territory, running a common garden experiment focusing on cane toad behavious and morphology. I am currently a PhD candidate in the School of Biological, Earth and Environmental Sciences at the University of New South Wales, Australia, and will graduate in 2022. For my PhD research, I pivoted away from field ecology and into genomics, working primarily on the invasive European starling within Australia.
+I love all things evolutionary biology. I completed my undergraduate degree at the University of Sydney in 2017. For my honours thesis, I spent six months at a research station in the Northern Territory, running a common garden experiment focusing on cane toad behavious and morphology. I completed my Ph D in the School of Biological, Earth and Environmental Sciences at the University of New South Wales, Australia, in 2022. For my PhD research, I pivoted away from field ecology and into genomics, working primarily on the invasive European starling within Australia. I am currently working as a Research Fellow in the School of Biological Sciences at the University of Auckland.
 
 {% include gallery id="gallery1" layout="third" %}
 
