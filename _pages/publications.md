@@ -19,7 +19,7 @@ Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Bucha
 Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA **2020** Microbial function is related to behavior of an invasive anuran. *BioRXIV*, [doi.org/10.1101/2020.11.16.385690](https://doi.org/10.1101/2020.11.16.385690)
 
 <p style="text-align: center;"> -2022- </p>
-<u>Stuart KC</u>, Sherwin WB, Austin JJ, Bateson M, Eens M, Brandley MC, Rollins LA **2022**. Genetics and Plasticity Are Responsible for Ecogeographical Patterns in a Recent Invasion.. *Frontiers in Genetics*, 13: 824424, [10.3389/fgene.2022.824424](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963341/) 
+<u>Stuart KC</u>, Sherwin WB, Cardilini APA, Rollins LA **2022**. Genetics and Plasticity Are Responsible for Ecogeographical Patterns in a Recent Invasion.. *Frontiers in Genetics*, 13: 824424, [10.3389/fgene.2022.824424](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963341/) 
 
 <u>Stuart KC</u>, Sherwin WB, Austin JJ, Bateson M, Eens M, Brandley MC, Rollins LA **2022**. Historical museum samples enable the examination of divergent and parallel evolution during invasion. *Molecular Ecology*, 31(1): 1836-1852, [doi.org/10.1111/mec.16353](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353) 
 
