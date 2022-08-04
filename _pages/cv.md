@@ -27,14 +27,35 @@ University of Sydney<br>
 Thesis Title: *Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia*<br>
 Supervisors: Professor Richard Shine & Dr Gregory Brown
 
+## EMPLOYMENT
+
+**Research Fellow** – University of Auckland<br>
+	May 2022 - Present
+  
+**Research Assistant** – University of New South Wales<br>
+  2020-2022
+  
+**Research Assistant** - Deakin University<br>
+  August 2017
+
+
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
 ### SCHOLARSHIPS
 UNSW Science PhD Writing Scholarship ($7,500) **2022**<br>
 Australian Government Research Training Program Scholarship **2018-2022**
 
-### GRANTS
+### RESEARCH GRANTS
 Holsworth Wildlife Research Endowment ($6375, $7500) **2019, 2020**
+
+### TRAVEL GRANTS
+FoS Research Fellow Society ($500) **2022**
+
+Postgraduate Research Student Support (PRSS) Scheme ($1000)  **2021**
+
+Genetic Society of Australia Smith-White Travel award **2020**
+
+ABACBS National Conference CSL travel award ($200)  **2018**
 
 ### AWARDS
 GSA 2021 Mayo Prize for best student presentation  **2021**
@@ -51,12 +72,6 @@ The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 
 Edgeworth David Prize in Palaeontology ($50) **2014**
 
-### TRAVEL AWARDS
-Postgraduate Research Student Support (PRSS) Scheme ($1000)  **2021**
-
-Genetic Society of Australia Smith-White Travel award **2020**
-
-ABACBS National Conference CSL travel award ($200)  **2018**
 
 
 ## SCIENTIFIC PRESENTATIONS
@@ -127,6 +142,9 @@ University of Melbourne, Victoria, Australia, November 27-28 2018<br>
 ## TEACHING EXPERIENCE
 
 ### UNDERGRADUATE TEACHING
+**BABS3291 – Genes, Genomes and Evolution**<br>
+UNSW Sydney, 2018-2022<br>
+Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Key topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
 
 **BABS2204 – Genetics** <br>
 UNSW Sydney, 2019 - 2021<br>
@@ -140,10 +158,6 @@ Laboratory demonstrator and tutor for a second-year biochemistry subject, with k
 UNSW Sydney, 2021 <br>
 Laboratory demonstrator for a second-year biochemistry subject, with key topics including and introduction to modern biochemistry, and covers fundamental aspects of the structure-function relationships of proteins and an overall coverage of intermediary metabolism.
 
-**BABS3291 – Genes, Genomes and Evolution**<br>
-UNSW Sydney, 2018-2021<br>
-Laboratory demonstrator for a third-year biotechnology and biomolecular sciences subject, teaching students with a range of biological and coding knowledge. Key topics include introduction to evolutionary bioinformatics, fundamental genomic principles, and investigation into recent advancements in the field.
-
 ### OTHER
 
 **Science and Engineering Indigenous Preparatory Program** <br>
@@ -151,7 +165,7 @@ UNSW Sydney, Dec 2020<br>
 Project Developer and Instructor for the Science and Engineering Indigenous Preparatory Program. Prepared and delivered 3 hours of first year university level biology teaching content for incoming and prospective first year university students.
 
 **ANGUS 2019 - Data Intensive Biology Summer Institute**<br>
-UC Davis, July 2019<br>
+UC Davis, California, July 2019<br>
 Teaching assistant at the ANGUS summer course held through the Data Intensive Biology Summer Institute and the Lab for Data Intensive Biology at UC Davis. Taught learners from varied backgrounds (undergraduate to professorial) genomic practices for analysing big shotgun sequencing data sets over the intensive two-week course, as well as working one on one with learners on their own data sets.
 
 
@@ -168,17 +182,6 @@ Primary supervisor for a year 12 student from Elderslie high school, undertaking
 Deakin University December 2017<br>
 Species collection and transportation to field station.
 
-**Research Assistant**<br>
-Deakin University August 2017<br>
-Animal husbandry and data collection for a PhD project located at a regional Northern Territory research station.
-
-**Honours Research**<br>
-University of Sydney August 2016 – February 2017<br>
-Based at a remote research station in Northern Territory, Australia for 6 months while collecting data for completion of my honours thesis.
-
-**Undergraduate Field Research**<br>
-University of Sydney 2013-2015<br>
-BIOL3910 (Tropical Wildlife Biology – Adv) and GEOS2008 (Field Geology). Various fieldwork components of other classes.
 
 ## PROFESSIONAL DEVELOPMENT & TRAINING
 
@@ -239,10 +242,10 @@ Gave a talk to a community ecology and restoration group on the developing aspec
 
 
 ## PROFESSIONAL MEMBERSHIP
-
-Australian Bioinformatics and Computational Biology Society **2018-2022**<br>
+Society for Molecular Biology and Evolution **2022**<br>
 AustralAsian Evolution Society **2019-2022**<br>
 Genetics Society of AustralAsia **2020-2022**<br>
 Ecological Society of Australia **2018-2021**<br>
+Australian Bioinformatics and Computational Biology Society **2018-2021**<br>
 
 
