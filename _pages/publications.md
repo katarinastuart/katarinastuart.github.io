@@ -10,6 +10,8 @@ header:
 
 ## PREPRINTS/UNDER REVIEW
 
+Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *New Phytologist*, under Review.
+
 <u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *BioRXIV*, https://doi.org/10.1101/2022.07.04.498653
 
 Li-Williams S, Comte S, <u>Stuart KC</u>, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2022** Population genetic analyses clarify invasive rusa deer movement across peri-urban environments, *Wildlife Research*, under review.
