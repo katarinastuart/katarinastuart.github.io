@@ -8,8 +8,7 @@ header:
   overlay_image: /assets/images/banner1.png
 ---
 
-
-<p style="text-align: center;"> -Preprint- </p>
+## PREPRINTS/UNDER REVIEW
 
 <u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *BioRXIV*, https://doi.org/10.1101/2022.07.04.498653
 
@@ -20,6 +19,8 @@ Li-Williams S, Comte S, <u>Stuart KC</u>, Forsyth DM, Dawson M, Sherwin WB, Roll
 Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2021**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *BioRXIV*, [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
 
 Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA **2020** Microbial function is related to behavior of an invasive anuran. *BioRXIV*, [doi.org/10.1101/2020.11.16.385690](https://doi.org/10.1101/2020.11.16.385690)
+
+## PEER REVIEWED ARTICLES
 
 <p style="text-align: center;"> -2022- </p>
 <u>Stuart KC</u>†, Edwards RJ†, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2021**. Transcript- and annotation-guided genome assembly of the European starling. *Molecular Ecology Resources*, [doi.org/10.1101/2021.04.07.438753](, https://doi.org/10.1101/2021.04.07.438753). † joint first author
@@ -38,4 +39,8 @@ Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA 
 <p style="text-align: center;"> -2018- </p>
 Hudson CM, Brown GP, <u>Stuart KC</u>, Shine R. **2018** Sexual and geographical divergence in head widths of invasive cane toads, Rhinella marina (Anura: Bufonidae), is driven by both rapid evolution and plasticity. *Biol J Linnean Soc.* 124(2):188-99, [doi.org/10.1093/biolinnean/bly040](https://academic.oup.com/biolinnean/article-abstract/124/2/188/4991888?redirectedFrom=fulltext)
 <a href="/assets/papers/1.SexualandgeographicaldivergenceinheadwidthsofinvasivecanetoadsRhinellamarinaAnura-Bufonidaeisdrivenbybothrapidevolutionandplasticity.pdf" class="btn btn--info">MANUSCRIPT PDF</a>
+
+## PEER REVIEWED BOOK CHAPTERS
+
+<U>Stuart KC</u>, Woolnough AP, Rollins LA. **2022** Invasive species detection and management using genomic methods. in Holleley, C.E., Berry, O. and Jarman, S. *Applied Ecological Genetics*. CSIRO Publishing, Canberra
 
