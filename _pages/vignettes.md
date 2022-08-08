@@ -40,7 +40,7 @@ feature_row:
     alt: "Morphology & Genetics"
     title: "Morphology & Genetics"
     excerpt: "Some association tests between genetic and morphological data."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+    url: "https://github.com/katarinastuart/Sv6_StarlingEcogeographical"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/vignettes/vignette_preview_sv5b.jpg
