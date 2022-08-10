@@ -11,8 +11,8 @@ permalink: /
   <br>
   <br><br>
 
-
+<center>
 <img src="/assets/JellyfishV1.png" alt="welcome" class="center"/>
 
-<center>
-Why hello there</center>
+<img src="/assets/JellyfishV1.png" alt="welcome"/>
+</center>
