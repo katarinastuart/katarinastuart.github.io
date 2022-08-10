@@ -12,4 +12,4 @@ permalink: /
   <br><br>
 
 
-<img src="/assets/JellyfishV1.png" alt="welcome" class="inline"/>
+<img src="/assets/JellyfishV1.png" alt="welcome" class="center"/>
