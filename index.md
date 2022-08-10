@@ -13,3 +13,6 @@ permalink: /
 
 
 <img src="/assets/JellyfishV1.png" alt="welcome" class="center"/>
+
+<center>
+Why hello there</center>
