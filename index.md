@@ -13,6 +13,4 @@ permalink: /
 
 <center>
 <img src="/assets/JellyfishV1.png" alt="welcome" class="center"/>
-
-<img src="/assets/JellyfishV1.png" alt="welcome"/>
 </center>
