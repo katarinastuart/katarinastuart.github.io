@@ -25,7 +25,7 @@ Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA 
 ## PEER REVIEWED ARTICLES
 
 <p style="text-align: center;"> -2022- </p>
-<u>Stuart KC</u>†, Edwards RJ†, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2021**. Transcript- and annotation-guided genome assembly of the European starling. *Molecular Ecology Resources*, [doi.org/10.1101/2021.04.07.438753](, https://doi.org/10.1101/2021.04.07.438753). † joint first author
+<u>Stuart KC</u>†, Edwards RJ†, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2022**. Transcript- and annotation-guided genome assembly of the European starling. *Molecular Ecology Resources*, [doi.org/10.1101/2021.04.07.438753](, https://doi.org/10.1101/2021.04.07.438753). † joint first author
 
 <u>Stuart KC</u>, Sherwin WB, Cardilini APA, Rollins LA **2022**. Genetics and Plasticity Are Responsible for Ecogeographical Patterns in a Recent Invasion. *Frontiers in Genetics*, 13: 824424, [10.3389/fgene.2022.824424](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963341/) 
 
