@@ -10,6 +10,9 @@ header:
 
 ## PREPRINTS/UNDER REVIEW
 
+<u>Stuart KC</u>, Sherwin WB, Edwards RJ‡, Rollins LA‡ **2022** Evolution, genomics, and the globally invasive European starling, *Frontiers in Genetics*, under Review. ‡ joint last author
+
+
 Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *New Phytologist*, under Review.
 
 <u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *BioRXIV*, https://doi.org/10.1101/2022.07.04.498653
