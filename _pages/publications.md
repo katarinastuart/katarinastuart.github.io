@@ -14,7 +14,7 @@ Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R (2022) Genetic
 
 Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *New Phytologist*, under Review.
 
-Li-Williams S, <u>Stuart KC</u>, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2022** Population genetic analyses clarify invasive rusa deer movement across peri-urban environments, *Wildlife Research*, under review.
+Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2022** Population genetic analyses clarify invasive rusa deer movement across peri-urban environments, *Wildlife Research*, under review. † joint first author 
 
 Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2021**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *BioRXIV*, [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
 
@@ -23,7 +23,7 @@ Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA 
 ## PEER REVIEWED ARTICLES
 
 <p style="text-align: center;"> -2023- </p>
-<u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. Molecular Biology and Evolution, 40(3): msad046. [https://doi.org/10.1093/molbev/msad046](https://doi.org/10.1093/molbev/msad046)
+<u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *Molecular Biology and Evolution*, 40(3): msad046. [https://doi.org/10.1093/molbev/msad046](https://doi.org/10.1093/molbev/msad046)
 
 <u>Stuart KC</u>†, Hofmeister NR†, Zichello JM, Rollins LA. **2022** Global invasion history and native decline of the common starling: insights through genetics *Biological Invasions*, [https://doi.org/10.1007/s10530-022-02982-5](https://doi.org/10.1007/s10530-022-02982-5). † joint first author 
 
