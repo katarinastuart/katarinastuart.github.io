@@ -43,11 +43,11 @@ feature_row:
     url: "https://github.com/katarinastuart/Sv6_StarlingEcogeographical"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/vignettes/vignette_preview_sv5b.jpg
-    alt: "Local PCA"
-    title: "Local PCA"
-    excerpt: "Analysing SNP data for chromosome-wide strucutral patterns using **local PCA**."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
+  - image_path: /assets/vignettes/vignette_preview_sv5c.jpg
+    alt: "SV Calling"
+    title: "SV Calling"
+    excerpt: "Calling **structural variants** from short read whole genome resequencing data."
+    url: "https://github.com/katarinastuart/Sv5_StarlingWGS"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -62,3 +62,7 @@ Below is a collection of vignettes I have made over the years. My general goal i
 I do not imagine these vignettes are free from errors, however if you spot any major ones or would just like general assistance with anything feel free to contact me. 
 
 {% include feature_row %}
+
+In addition to this, workshops have been developed for:
+- [Genetic Outlier Analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis)
+
