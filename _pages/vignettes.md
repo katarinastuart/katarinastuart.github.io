@@ -8,13 +8,6 @@ header:
   overlay_image: /assets/images/banner1.png
 
 feature_row:
-  - image_path: /assets/vignettes/vignette_preview_rm1b.jpg
-    alt: "Redundancy Analysis"
-    title: "Redundancy Analysis"
-    excerpt: "Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data."
-    url: "https://github.com/katarinastuart/EnvComputing_RDA"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/vignettes/vignette_preview_sv3b.jpg
     alt: "Genome Plots"
     title: "Genome Plots"
@@ -64,5 +57,6 @@ I do not imagine these vignettes are free from errors, however if you spot any m
 {% include feature_row %}
 
 In addition to this, workshops have been developed for:
-- [Genetic Outlier Analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis)
+- [Redundancy Analysis](https://github.com/katarinastuart/EnvComputing_RDA): Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data.
+- [Genetic Outlier Analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis): Covering the basics of PCAdapt, Fst, BayeScan, and BayPass, and some discussion around selection analysis on genomic data.
 
