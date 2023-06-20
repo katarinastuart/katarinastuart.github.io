@@ -10,11 +10,11 @@ header:
 
 ## PREPRINTS/UNDER REVIEW
 
-Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R (2022) Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. BioRXIV, https://doi.org/10.1101/2022.11.02.514965
+<u>Stuart KC</u>, Atsawawaranunt K, Johnson R, Major R, Ewart KM, Rollins LA, Santure AW, Whibley A **2023** The genome of a globally invasive passerine, the common myna (*Acridotheres tristis*), in prep.
+
+Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R **2022** Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. BioRXIV, https://doi.org/10.1101/2022.11.02.514965
 
 Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *New Phytologist*, under Review.
-
-Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2022** Population genetic analyses clarify invasive rusa deer movement across peri-urban environments, *Wildlife Research*, under review. † joint first author 
 
 Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2021**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *BioRXIV*, [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
 
@@ -23,6 +23,9 @@ Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA 
 ## PEER REVIEWED ARTICLES
 
 <p style="text-align: center;"> -2023- </p>
+
+Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2023** Genetic analysis reveals spatial structure in an expanding introduced rusa deer population, *Wildlife Research*, WR22128. † joint first author 
+
 <u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *Molecular Biology and Evolution*, 40(3): msad046. [https://doi.org/10.1093/molbev/msad046](https://doi.org/10.1093/molbev/msad046)
 
 <u>Stuart KC</u>†, Hofmeister NR†, Zichello JM, Rollins LA. **2022** Global invasion history and native decline of the common starling: insights through genetics *Biological Invasions*, [https://doi.org/10.1007/s10530-022-02982-5](https://doi.org/10.1007/s10530-022-02982-5). † joint first author 
