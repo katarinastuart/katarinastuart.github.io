@@ -56,7 +56,8 @@ I do not imagine these vignettes are free from errors, however if you spot any m
 
 {% include feature_row %}
 
-In addition to this, full workshops have been developed for:
+Full workshops have been developed for:
 - **[Redundancy Analysis](https://github.com/katarinastuart/EnvComputing_RDA)**: Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data.
 - **[Genetic Outlier Analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis)**: Covering the basics of **PCAdapt**, **Fst**, **BayeScan**, and **BayPass**, and some discussion around selection analysis on genomic data. Another version of this workshop is available through [GenomicsAotearoa](https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop), which has been updated to run on New Zealand eScience Infrastructure (NeSI).
 
+In addition to this, I like running discussion groups about how to construct thesis chapters and manuscripts. Some of the notes on this **[can be found here](https://github.com/katarinastuart/Constructing_a_Manuscript/tree/main)**.
