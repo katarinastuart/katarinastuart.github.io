@@ -44,7 +44,7 @@ Supervisors: Professor Richard Shine & Dr Gregory Brown
 ### SCHOLARSHIPS & RESEARCH GRANTS
 GSA Workshop Support Program ($1,000) **2022**
 
-AES ECR Networking Grant ($1,000) **2022**
+AES ECR Networking Grant ($2,000) **2022**
 
 UNSW Science PhD Writing Scholarship ($7,500) **2022**<br>
 
