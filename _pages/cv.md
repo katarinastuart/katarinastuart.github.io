@@ -123,7 +123,7 @@ Primary supervisor for a year 12 student from Elderslie high school, undertaking
 
 ### INVITED TALKS
 
-**Sydney Bioinformatics Seminar Series **<br>
+**Sydney Bioinformatics Seminar Series**<br>
 Virtual, March 2022<br>
 *A whole genome perspective on genetic variation and rapid adaptation*
 
@@ -137,19 +137,19 @@ Virtual, Oct 1 2020<br>
 
 ### ORAL PRESENTATIONS
 
-**Australasian Evolution Society National Conference **<br>
+**Australasian Evolution Society National Conference**<br>
 ANU, 2022<br>
 *Genetics and plasticity are responsible for ecogeographical patterns in a recent invasion.*
 
-**NZ Molecular Ecology Conference **<br>
+**NZ Molecular Ecology Conference**<br>
 NZ, Dec 2022<br>
 *Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions.*
 
-**SMBE Invasomics Conference **<br>
+**SMBE Invasomics Conference**<br>
 NZ, 2022<br>
 *Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions.*
 
-**ComBio/Genetics Society of Australasia **<br>
+**ComBio/Genetics Society of Australasia**<br>
 University of Melbourne, 2022<br>
 *Genetics and plasticity are responsible for ecogeographical patterns in a recent invasion.*
 
@@ -194,7 +194,7 @@ University of New South Wales, Australia, October 30 2018<br>
 ## SERVICE AND OUTREACH
 
 ### SERVICE
-**Centre for Computational Evolution **<br>
+**Centre for Computational Evolution**<br>
 2023<br>
 Seminar series organiser.
 
