@@ -134,7 +134,7 @@ Primary supervisor for a year 12 student from Elderslie high school, undertaking
 
 ### INVITED TALKS
 
-**Zoology Seminar – Otago University **<br>
+**Zoology Seminar – Otago University**<br>
 Virtual, August 2023<br>
 *Invasive species, and the secrets they can teach us about the genetics of local adaptation.*
 
