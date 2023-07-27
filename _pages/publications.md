@@ -12,11 +12,7 @@ header:
 
 <u>Stuart KC</u>, Atsawawaranunt K, Johnson R, Major R, Ewart KM, Rollins LA, Santure AW, Whibley A **2023** The genome of a globally invasive passerine, the common myna (*Acridotheres tristis*), in prep.
 
-Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R **2022** Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. BioRXIV, https://doi.org/10.1101/2022.11.02.514965
-
-Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *New Phytologist*, under Review.
-
-Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2021**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *BioRXIV*, [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
+Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *Genetics*, under Review.
 
 Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA **2020** Microbial function is related to behavior of an invasive anuran. *BioRXIV*, [doi.org/10.1101/2020.11.16.385690](https://doi.org/10.1101/2020.11.16.385690)
 
@@ -24,13 +20,17 @@ Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA 
 
 <p style="text-align: center;"> -2023- </p>
 
+Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2023**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *Molecular Ecology*, Accepted. *BioRXIV* at [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
+
+Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R **2023** Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. *American Naturalist*, Accepted. *BioRXIV* at at [https://doi.org/10.1101/2022.11.02.514965](https://doi.org/10.1101/2022.11.02.514965)
+
 Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2023** Genetic analysis reveals spatial structure in an expanding introduced rusa deer population, *Wildlife Research*, WR22128. † joint first author 
 
-<u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2022** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *Molecular Biology and Evolution*, 40(3): msad046. [https://doi.org/10.1093/molbev/msad046](https://doi.org/10.1093/molbev/msad046)
+<u>Stuart KC</u>, Edwards, RJ, Sherwin WB, Rollins, LA. **2023** Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions. *Molecular Biology and Evolution*, 40(3): msad046. [https://doi.org/10.1093/molbev/msad046](https://doi.org/10.1093/molbev/msad046)
 
-<u>Stuart KC</u>†, Hofmeister NR†, Zichello JM, Rollins LA. **2022** Global invasion history and native decline of the common starling: insights through genetics *Biological Invasions*, [https://doi.org/10.1007/s10530-022-02982-5](https://doi.org/10.1007/s10530-022-02982-5). † joint first author 
+<u>Stuart KC</u>†, Hofmeister NR†, Zichello JM, Rollins LA. **2023** Global invasion history and native decline of the common starling: insights through genetics *Biological Invasions*, [https://doi.org/10.1007/s10530-022-02982-5](https://doi.org/10.1007/s10530-022-02982-5). † joint first author 
 
-<u>Stuart KC</u>, Sherwin WB, Edwards RJ‡, Rollins LA‡ **2022** Evolution, genomics, and the globally invasive European starling, *Frontiers in Genetics*, [https://doi.org/10.3389/fgene.2022.1010456](https://doi.org/10.3389/fgene.2022.1010456). ‡ joint last author
+<u>Stuart KC</u>, Sherwin WB, Edwards RJ‡, Rollins LA‡ **2023** Evolution, genomics, and the globally invasive European starling, *Frontiers in Genetics*, [https://doi.org/10.3389/fgene.2022.1010456](https://doi.org/10.3389/fgene.2022.1010456). ‡ joint last author
 
 
 <p style="text-align: center;"> -2022- </p>
