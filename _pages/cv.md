@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/banner1.png
 ---
 
-<a href="/assets/20230418_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
+<a href="/assets/20230727_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
 
 ## EDUCATION
 
@@ -71,6 +71,11 @@ The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 
 
 ### TRAVEL GRANTS
+
+Genomics Aotearoa – He taonga tuku iho scholarship	(600 NZD) **2023**
+
+Queenstown Research Week’s Genomics satellite scholarship	(1180 NZD) **2023**
+
 School of Biological Science support scheme ($1500) **2022**
 
 SMBE Invasomics Conference ($400) **2022**
@@ -129,9 +134,13 @@ Primary supervisor for a year 12 student from Elderslie high school, undertaking
 
 ### INVITED TALKS
 
+**Zoology Seminar – Otago University **<br>
+Virtual, August 2023<br>
+*Invasive species, and the secrets they can teach us about the genetics of local adaptation.*
+
 **Sydney Bioinformatics Seminar Series**<br>
 Virtual, March 2022<br>
-*A whole genome perspective on genetic variation and rapid adaptation*
+*A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris).*
 
 **Queensland Technologies and Innovations group seminar talk**<br>
 Virtual, Feb 2021<br>
@@ -143,12 +152,16 @@ Virtual, Oct 1 2020<br>
 
 ### ORAL PRESENTATIONS
 
+**International Congress of Genetics**<br>
+Melbourne AUS, 2023<br>
+*A whole genome perspective on genetic variation and rapid adaptation.*
+
 **Australasian Evolution Society National Conference**<br>
-ANU, 2022<br>
+ANU AUS, 2022<br>
 *Genetics and plasticity are responsible for ecogeographical patterns in a recent invasion.*
 
 **NZ Molecular Ecology Conference**<br>
-NZ, Dec 2022<br>
+Auckland NZ, Dec 2022<br>
 *Contrasting patterns of single nucleotide polymorphisms and structural variations across multiple invasions.*
 
 **SMBE Invasomics Conference**<br>
@@ -206,7 +219,7 @@ Seminar series organiser.
 
 **International Congress of Genetics conference 2023**<br>
 2023<br>
-Symposia Organiser.
+Symposia Organiser and chair.
 
 **GSA 2021 Virtual Conference Committee**<br>
 July 2021 – Oct 2021<br>
