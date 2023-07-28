@@ -35,6 +35,7 @@ The European starling *Sturnus vulgaris*, is one of the most widespread and icon
 
 ***
 **Avian genomes**
+
 Interpreting results surround adaptive selection is in part based on the genomic tools available for the analysis. 
 <img style="float: left;" src="/assets/images/research_genome_trans2.png" width="200" height="200">
 To improve our ability to map future genetic read data, assembling high quality genomes is essential. I have assembled the genome of *Sturnus vulgaris* (Stuart & Edwards *et al* [2022](https://doi.org/10.1111/1755-0998.13679)) and *Acridotheres tristis* (forthcoming) was part of broader work on these species. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes. 
@@ -42,9 +43,9 @@ To improve our ability to map future genetic read data, assembling high quality 
 ***
 **Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
 
+Evolutionary genomic studies often produce a list of genetic sites flagged as under putative selection or associated with phenotype or environment data. 
 <img style="float: right;" src="/assets/images/research_map3.png">
-
-Evolutionary genomic studies often produce a list of genetic sites flagged as under putative selection or associated with phenotype or environment data. While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
+While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
 
 *** 
 **A holistic view of genetic variation**
