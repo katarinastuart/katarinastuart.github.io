@@ -26,10 +26,11 @@ My research interests are in **evolutionary genomics** and exploring the proxima
 My projects and interests cover a range of fields, including <b>genomics</b>, <b>bioinformatics</b>, <b>ecological statistics</b>, and <b>field ecology</b>.
 
 ***
+**The invasion genomics of the European starling**
 
-<img style="float: right;" src="/assets/images/katarinastuart_logo.png" width="200" height="200">
+The European starling *Sturnus vulgaris*, is one of the most widespread and iconic invasive avian species. However, despite their invasive range success, native starling populations are collapsing, with declines of up to 90% in the European countries they occupy. The global spread of this invasive species also provides unique opportunities to contrast genetic divergence across multiple invasive ranges, providing insight into the malleability of invasion regimes. I have worked across reduced representation sequencing (Stuart & Cardilini *et al* [2020](https://doi.org/10.1111/mec.15601)), whole genome resequencing (Hofmeister *et al* [2021](https://www.biorxiv.org/content/10.1101/2021.05.19.442026v1.abstract), Stuart *et al* [2023](https://doi.org/10.1093/molbev/msad046)), museomics (Stuart *et al* [2022a]( https://doi.org/10.1111/mec.16353)), and morphological data (Stuart *et al* [2022b](https://doi.org/10.3389/fgene.2022.824424)) to investigate the genetic underpinnings of the starling’s adaptive patterns across their global range, with a particular emphasis on the Australian population.
 
-The European starling <i>Sturnus vulgaris </i>, is one of the most widespread and iconic invasive avian species. However, despite their invasive range success, native starling populations are collapsing, with declines of up to 90% in the European countries they occupy. The global spread of this invasive species also provides unique opportunities to contrast genetic divergence across multiple invasive ranges, providing insight into the malleability of invasion regimes. My projects involve using a number of different sequencing techniques to examine <b>putative adaptive selection</b>, with a focus on the Australian range. Additionally, I include the use of museum collections in order to better understand temporal genetic changes this successful invasive species has undergone.
+<img style="float: center;" src="/assets/images/AustralianStarling.png" width="650" height="200">
 
 
 ***
