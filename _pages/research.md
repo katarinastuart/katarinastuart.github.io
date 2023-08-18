@@ -34,11 +34,11 @@ The European starling *Sturnus vulgaris*, is one of the most widespread and icon
 
 
 ***
-**Avian genomes**
+**Genome Assembly and Annotation**
 
 Interpreting results surround adaptive selection is in part based on the genomic tools available for the analysis. 
 <img style="float: left;" src="/assets/images/research_genome_trans2.png" width="200" height="200">
-To improve our ability to map future genetic read data, assembling high quality genomes is essential. I have assembled the genome of *Sturnus vulgaris* (Stuart & Edwards *et al* [2022](https://doi.org/10.1111/1755-0998.13679)) and *Acridotheres tristis* (forthcoming) was part of broader work on these species. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes. 
+To improve our ability to map future genetic read data, assembling high quality genomes is essential. I have assembled the genome of *Sturnus vulgaris* (Stuart & Edwards *et al* [2022](https://doi.org/10.1111/1755-0998.13679)) and *Acridotheres tristis* (forthcoming) as part of broader work on these species. I am generally interested in genome assembly, and the affects assembly choices may have on our ability to examine population structure, and identify adaptive changes. 
 
 ***
 **Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
