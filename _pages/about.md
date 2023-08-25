@@ -9,8 +9,6 @@ header:
 gallery1:
 - url: /assets/photos/field_rain.jpg
     image_path: /assets/photos/field_rain.jpg
-    alt: ""
-    title: "toad collecting"
   - url: /assets/photos/Museum_birds.JPG
     image_path: /assets/photos/Museum_birds.JPG
     alt: "AMNH starling collections"
