@@ -9,8 +9,8 @@ header:
 gallery1:
 - url: /assets/photos/field_rain.jpg
     image_path: /assets/photos/field_rain.jpg
-    alt: "Queensland backroads toad collecting"
-    title: "Queensland backroads toad collecting!"
+    alt: ""
+    title: "toad collecting"
   - url: /assets/photos/Museum_birds.JPG
     image_path: /assets/photos/Museum_birds.JPG
     alt: "AMNH starling collections"
