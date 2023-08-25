@@ -7,8 +7,6 @@ author_profile: true
 header:
   overlay_image: /assets/images/banner1.png
 gallery1:
-- url: /assets/photos/field_rain.jpg
-    image_path: /assets/photos/field_rain.jpg
   - url: /assets/photos/Museum_birds.JPG
     image_path: /assets/photos/Museum_birds.JPG
     alt: "AMNH starling collections"
