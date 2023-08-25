@@ -7,14 +7,15 @@ author_profile: true
 header:
   overlay_image: /assets/images/banner1.png
 gallery1:
- - url: /assets/photos/field_rain.jpg
-    image_path: /assets/photos/field_rain.jpg
-    alt: "Queensland Backroads toad collecting"
-    title: "Queensland Backroads toad collecting"
+  - url: /assets/photos/Museum_birds.JPG
+    image_path: /assets/photos/Museum_birds.JPG
+    alt: "AMNH starling collections"
+    title: "AMNH starling collections"
   - url: /assets/photos/2016.Honours.5.jpg
     image_path: /assets/photos/2016.Honours.5.jpg
     alt: "Fires in the NT"
     title: "Fires in the NT"
+
 gallery2:
   - url: /assets/photos/2016.Honours.3.jpg
     image_path: /assets/photos/2016.Honours.3.jpg
