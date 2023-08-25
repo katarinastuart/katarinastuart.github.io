@@ -28,8 +28,8 @@ gallery2:
     image_path: /assets/photos/FA-IuxWUcA0Ugac.jpg
     alt: "Lizard co-author"
     title: "Lizard co-author"
-  - url: /assets/photos/2016.Honours.7.jpg
-    image_path: /assets/photos/2016.Honours.7.jpg
+  - url: /assets/photos/2016.Honours.1.jpg
+    image_path: /assets/photos/2016.Honours.1.jpg
     alt: "Honours"
     title: "Honours"    
 gallery3:
