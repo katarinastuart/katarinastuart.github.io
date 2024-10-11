@@ -8,21 +8,23 @@ header:
   overlay_image: /assets/images/banner1.png
 ---
 
-## PREPRINTS/UNDER REVIEW
-
-<u>Stuart KC</u>, Atsawawaranunt K, Johnson R, Major R, Ewart KM, Rollins LA, Santure AW, Whibley A **2023** The genome of a globally invasive passerine, the common myna (*Acridotheres tristis*), in prep.
-
-Ahrens C, Chen S, Bothwell H, <u>Stuart KC</u>, Edwards RJ, Bragg J **2022** A genome-wide view of adaptation across the landscape. *Genetics*, under Review.
-
-Zhou J, Nelson TM, Lopez CR, Zhou SJ, Ward-Fear G, <u>Stuart KC</u>, Rollins LA **2020** Microbial function is related to behavior of an invasive anuran. *BioRXIV*, [doi.org/10.1101/2020.11.16.385690](https://doi.org/10.1101/2020.11.16.385690)
-
 ## PEER REVIEWED ARTICLES
+
+<p style="text-align: center;"> -2024- </p>
+
+Thompson B, Atsawawaranunt K, Nehmens M, Pearman W, Perkins E, Tan HZ, Whibley A, Santure AW, <u>Stuart KC</u> **2024**. Population genetics of the invasive European Starling across Aotearoa, New Zealand. *Molecular Ecology*, accepted.
+
+Tan HZ, Scherer P, <u>Stuart KC</u>, Bailey S, Lee KD, Brekke P, Ewen JG, Whibley A, Santure AW **2024**. A high-density linkage map allows investigation of fine-scale heterochiasmy in an avian system. *Heredity*, 1-14. [https://doi.org/10.1038/s41437-024-00711-3](https://doi.org/10.1038/s41437-024-00711-3)
+
+<u>Stuart KC</u>, Atsawawaranunt K, Johnson R, Major R, Ewart KM, Rollins LA, Santure AW, Whibley A  **2024**. The genome of a globally invasive passerine, the common myna (Acridotheres tristis). *DNA Research*, 31 (2), dsae005. [https://doi.org/10.1093/dnares/dsae005](https://doi.org/10.1093/dnares/dsae005)
+
+McGaughran A, Dhami MK, Parvizi E, Vaughan AL… <u>Stuart KC,</u>…  **2024**. Genomic tools in biological invasions: current state and future frontiers. *Genome Biology and Evolution*, 16: evad230. [https://doi.org/10.1093/gbe/evad230 ](https://doi.org/10.1093/gbe/evad230 )
+
+Miller SM, <u>Stuart KC</u>, Burke NW, Rollins LA, Bonduriansky R **2024**. Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. *American Naturalist*, 203. [https://doi.org/10.1086/727511](https://doi.org/10.1086/727511)
 
 <p style="text-align: center;"> -2023- </p>
 
-Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2023**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *Molecular Ecology*, Accepted. *BioRXIV* at [doi.org/10.1101/2021.05.19.442026](https://doi.org/10.1101/2021.05.19.442026)
-
-Miller SM, <u>Stuart KS</u>, Burke NW, Rollins LA, Bonduriansky R **2023** Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. *American Naturalist*, Accepted. *BioRXIV* at at [https://doi.org/10.1101/2022.11.02.514965](https://doi.org/10.1101/2022.11.02.514965)
+Hofmeister NR, <u>Stuart KC</u>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF **2023**. Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. *Molecular Ecology*, [https://onlinelibrary.wiley.com/doi/10.1111/mec.17195](https://onlinelibrary.wiley.com/doi/10.1111/mec.17195)
 
 Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. **2023** Genetic analysis reveals spatial structure in an expanding introduced rusa deer population, *Wildlife Research*, WR22128. † joint first author 
 
@@ -34,8 +36,9 @@ Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB
 
 
 <p style="text-align: center;"> -2022- </p>
-<u>Stuart KC</u>†, Edwards RJ†, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2022**. Transcript- and annotation-guided genome assembly of the European starling. *Molecular Ecology Resources*, [doi.org/10.1101/2021.04.07.438753](, https://doi.org/10.1101/2021.04.07.438753). † joint first author
+<u>Stuart KC</u>†, Edwards RJ†, Cheng Y, Warren WC, Burt DW, Sherwin WB, Hofmeister NR, Werner SJ, Ball GF, Bateson M, Brandley MC, Buchanan KL, Cassey P, Clayton DF, De Meyer T, Meddle SL, Rollins LA **2022**. 
 
+Transcript- and annotation-guided genome assembly of the European starling. *Molecular Ecology Resources*, [doi.org/10.1101/2021.04.07.438753](, https://doi.org/10.1101/2021.04.07.438753). † joint first author
 <u>Stuart KC</u>, Sherwin WB, Cardilini APA, Rollins LA **2022**. Genetics and Plasticity Are Responsible for Ecogeographical Patterns in a Recent Invasion. *Frontiers in Genetics*, 13: 824424, [10.3389/fgene.2022.824424](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963341/) 
 
 <u>Stuart KC</u>, Sherwin WB, Austin JJ, Bateson M, Eens M, Brandley MC, Rollins LA **2022**. Historical museum samples enable the examination of divergent and parallel evolution during invasion. *Molecular Ecology*, 31(1): 1836-1852, [doi.org/10.1111/mec.16353](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353) 
