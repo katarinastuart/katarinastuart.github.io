@@ -112,12 +112,12 @@ author:
   name             : "Katarina Stuart"
   avatar           : "/assets/images/Katarina_Stuart.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  Research Fellow
-  location         : "University of Auckland"
-  email            : #"Katarina.Stuart@auckland.ac.nz"
+  location         : "Macquarie University"
+  email            : #"Katarina.Stuart@mq.ac.nz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:Katarina.Stuart@unsw.edu.au
+      url: mailto:Katarina.Stuart@mq.ac.nz
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
