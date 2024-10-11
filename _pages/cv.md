@@ -29,8 +29,11 @@ Supervisors: Professor Richard Shine & Dr Gregory Brown
 
 ## EMPLOYMENT
 
+**Research Fellow** – Macquarie Universitybr>
+	Sept 2024 - Present
+
 **Research Fellow** – University of Auckland<br>
-	May 2022 - Present
+	May 2022 - Sept 2024
   
 **Research Assistant** – University of New South Wales<br>
   2020-2022
