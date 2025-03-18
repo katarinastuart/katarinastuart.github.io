@@ -10,9 +10,17 @@ header:
 
 ## PEER REVIEWED ARTICLES
 
+<p style="text-align: center;"> -2025- </p>
+
+Atsawawaranunt K, <u>Stuart KC</u>, Whibley A, Ewart KM, Major RE, Johnson JN, Santure AW **2025** Parallel signatures of diet adaptation in the invasive common myna genome, *Molecular Ecology*, 34(2), e17607. [http://doi.org/10.1111/mec.17607](http://doi.org/10.1111/mec.17607) 
+
 <p style="text-align: center;"> -2024- </p>
 
-Thompson B, Atsawawaranunt K, Nehmens M, Pearman W, Perkins E, Tan HZ, Whibley A, Santure AW, <u>Stuart KC</u> **2024**. Population genetics of the invasive European Starling across Aotearoa, New Zealand. *Molecular Ecology*, accepted.
+<u>Stuart KC</u>, Tan HZ, Whibley A, Brekke P, Ewen JG, Santure AW **2024** Lifetime fitness is correlated more strongly with structural variant than SNP mutational load in a threatened bird species, *Molecular Ecology*, e17631. [https://doi.org/10.1111/mec.17631](https://doi.org/10.1111/mec.17631)
+<a href="/assets/papers/SubmittedVersion_MolEcol_HihiGeneticLoad_Nc3.4.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a>
+
+Thompson B, Atsawawaranunt K, Nehmens M, Pearman W, Perkins E, Tan HZ, Whibley A, Santure AW, <u>Stuart KC</u> **2024**. Population genetics of the invasive European Starling across Aotearoa, New Zealand. *Molecular Ecology*, e17579. [https://doi.org/10.1111/mec.17579](https://doi.org/10.1111/mec.17579).
+<a href="/assets/papers/SubmittedVersion_MolEcol_NZstarlings_Sv10.7.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a>
 
 Tan HZ, Scherer P, <u>Stuart KC</u>, Bailey S, Lee KD, Brekke P, Ewen JG, Whibley A, Santure AW **2024**. A high-density linkage map allows investigation of fine-scale heterochiasmy in an avian system. *Heredity*, 1-14. [https://doi.org/10.1038/s41437-024-00711-3](https://doi.org/10.1038/s41437-024-00711-3)
 
