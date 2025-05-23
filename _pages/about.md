@@ -44,7 +44,9 @@ gallery3:
     title: "This is an octopus. It predicts football match winners."
 ---
 
-I love all things evolutionary biology. I completed my undergraduate degree at the University of Sydney in 2017. For my honours thesis, I spent six months at a research station in the Northern Territory, running a common garden experiment focusing on cane toad behavious and morphology. I completed my Ph D in the School of Biological, Earth and Environmental Sciences at the University of New South Wales, Australia, in 2022. For my PhD research, I pivoted away from field ecology and into genomics, working primarily on the invasive European starling within Australia. I expanded on this research during my post doc at the University of Auckland, New Zealand, focusing on the role complex genetic elements such as structural variants and transposable elements play in adaptation and evolution. I am now a research fellow at Macquarie University, Sydney, and am applying these genomic tools to improve conservation and horticulture of native Australian plant species.
+I completed my undergraduate degree at the University of Sydney in 2017, where I developed a strong interest in field ecology. For my honours thesis, I spent six months at a research station in the Northern Territory conducting a common garden experiment on cane toad behaviour and morphology. Building on this experience, I pursued a PhD at the University of New South Wales, Australia, which I completed in 2022. During my PhD, I began integrating genomic approaches into my research, focusing on the invasive European starling in Australia and how its genome evolves following introduction into a new environment. I continued this line of inquiry during a postdoctoral fellowship at the University of Auckland, New Zealand, expanding my focus to investigate the roles of complex genetic elements in adaptation and evolution.
+
+I am currently a research fellow at Macquarie University, Sydney, where I apply genomic tools to improve the conservation and horticulture of native Australian plant species.
 
 {% include gallery id="gallery1" layout="third" %}
 
