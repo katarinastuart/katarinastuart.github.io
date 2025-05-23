@@ -21,9 +21,12 @@ header:
 }
   </style>
 
-My research interests are in **evolutionary genomics** and exploring the proximate mechanisms that facilitate local adaptation. Most of my research is conducted on **introduced species**, as successful invasives provide an important opportunity to observe rapid evolution within a species as it responds to a new ecosystem. Understanding **rapid adaptation** within invasive populations has applications in many scientific fields, including but not limited to pest control, conservation, organism response to climate change, and evolutionary mechanisms. Most of my research is focused on the invasive starling population in Australia and focuses on identifying adaptive genetic shifts post invasion. 
+My research interests lie in **evolutionary genomics** and understanding the proximate mechanisms that facilitate adaptation. I am broadly interested in **genetic diversity**, and how both sequence and structural variation respond to different neutral and selective processes. I have worked extensively with invasive species systems, which provide a powerful lens to examine the stochastic nature of evolutionary change and the emergence of **rapid adaptation**. These systems reveal how various forms of genomic variation—shaped by both adaptive and neutral forces—evolve following a species’ introduction into a non-native range.
 
-My projects and interests cover a range of fields, including <b>genomics</b>, <b>bioinformatics</b>, <b>ecological statistics</b>, and <b>field ecology</b>.
+A key focus of my work is on large-scale genomic changes, particularly **structural variants and transposable elements**. I investigate their functional impacts and how their roles in adaptation may differ from more commonly studied forms of variation, such as SNPs.
+
+By applying these insights to native species, my goal is to advance our understanding of genome-wide variation and help bridge the gap between evolutionary genomics and meaningful conservation outcomes.
+
 
 ***
 **The invasion genomics of the European starling**
