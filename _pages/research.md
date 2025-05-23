@@ -21,7 +21,7 @@ header:
 }
   </style>
 
-My research interests lie in **evolutionary genomics** and understanding the proximate mechanisms that facilitate adaptation. I am broadly interested in **genetic diversity**, and how both sequence and structural variation respond to different neutral and selective processes. I have worked extensively with invasive species systems, which provide a powerful lens to examine the stochastic nature of evolutionary change and the emergence of **rapid adaptation**. These systems reveal how various forms of genomic variation—shaped by both adaptive and neutral forces—evolve following a species’ introduction into a non-native range.
+My research interests lie in **evolutionary genomics** and understanding the proximate mechanisms that facilitate adaptation. I am broadly interested in **genetic diversity**, and how both sequence and structural variation respond to different neutral and selective processes. I have worked extensively with invasive species systems, which provide a powerful lens to examine the stochastic nature of evolutionary change and the emergence of **rapid adaptation**. These systems reveal how various forms of genomic variation, shaped by both adaptive and neutral forces, evolve following a species’ introduction into a non-native range.
 
 A key focus of my work is on large-scale genomic changes, particularly **structural variants and transposable elements**. I investigate their functional impacts and how their roles in adaptation may differ from more commonly studied forms of variation, such as SNPs.
 
