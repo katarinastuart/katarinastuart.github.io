@@ -45,15 +45,24 @@ gallery3:
 ---
 I am an **evolutionary and conservation genomicist** investigating how genetic variants - from single nucleotide polymorphisms to large-scale structural changes - mediate adaptation across spatial and temporal scales. My research encompasses both invasive and native species, including plants and animals, with the objective of elucidating how **diverse forms of genetic variation underpin population resilience or vulnerability** in the face of environmental change.
 
-A central focus of my work is on genetic diversity, emphasizing the roles of sequence variation, structural variants, and transposable elements in facilitating rapid evolutionary responses. By integrating genomics with ecological context, I seek to advance fundamental understanding of evolutionary mechanisms and inform evidence-based conservation strategies.
 
 *** 
-**A holistic view of genetic variation**
+**Structural Variation in Ecoevolutionary genomics**
 
-I am at the forefront of redefining how we study genetic differences between individuals. With whole genome resequencing data become more available, my current research directions exploring how structural variants and transposable elements should be incorporated into population genomics and conservation. This includes empirical studies, linking [variant impact to fitness](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631), and [patterns of diversity to population histories and evolutionary processes](https://academic.oup.com/mbe/article/40/3/msad046/7052962). This also includes [examining the theory of SVs](https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1) by exploring their fundamental nature and properties (i.e. how they arise and are maintained in the genome), with the resulting suggestion that these variants should not be treated as a cohesive group. Profiling previously understudied elements of inter-individual genetic variation through whole-genome sequencing is the next step in evolutionary genomics. Integrating these complex variants into genomic research will help address the issue of missing heritability, improve our ability to predict the outcome of conservation breeding and translocation programs, and allow us to more fully profile adaptive potential under a future of climate change.
+I am at the forefront of redefining how we study genetic differences between individuals. With whole genome resequencing data become more available, my current research directions exploring how structural variants and transposable elements should be incorporated into population genomics and conservation. This includes empirical studies, linking [variant impact to fitness](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631), and [patterns of diversity to population histories and evolutionary processes](https://academic.oup.com/mbe/article/40/3/msad046/7052962). This also includes [examining the theory of SVs](https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1) by exploring their fundamental nature and properties (i.e. how they arise and are maintained in the genome). This holistic view of genome-wide variation is the next step in addressing the issue of missing heritability, improving our ability to predict the outcomes of conservation breeding and translocation programs, and enabling us to more fully characterize adaptive potential in the face of future climate change.
 
 ![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
 
+***
+**Evolutionary Genomics of Rapid Adaptation and Conservation**
+My research explores how diverse genetic variants—from single nucleotide changes to complex structural variants and transposable elements—drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
+
+These insights into rapid evolutionary processes directly inform conservation genomics. I apply cutting-edge genomic tools to real-world conservation challenges, especially in native Australian plants, aiming to maintain adaptive diversity through restoration and seed production. By translating evolutionary knowledge into practical strategies and developing accessible tools, my work bridges the gap between fundamental research and effective conservation management.
+
+
+{% include gallery id="gallery1" layout="third" %}
+
+{% include gallery id="gallery2" layout="third" %}
 
 ***
 **Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
@@ -63,6 +72,12 @@ Evolutionary genomic studies often produce a list of genetic sites flagged as un
 While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
 
 
+***
+**Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
+
+Evolutionary genomic studies often produce a list of genetic sites flagged as under putative selection or associated with phenotype or environment data. 
+<img style="float: right;" src="/assets/images/research_map3.png">
+While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
 
 ***
 **The invasion genomics of the European starling**
@@ -77,8 +92,3 @@ The European starling *Sturnus vulgaris*, is one of the most widespread and icon
 
 
 
-{% include gallery id="gallery1" layout="third" %}
-
-{% include gallery id="gallery2" layout="third" %}
-
-{% include gallery id="gallery3" layout="third" %}
