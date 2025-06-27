@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Research
-permalink: /research/
+title: Media
+permalink: /media/
 layout: single
 author_profile: true
 header:
