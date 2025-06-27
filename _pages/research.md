@@ -25,7 +25,12 @@ header:
 Featured in “How plant DNA will help shape the future of native seed production areas,” [article](https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/) showcasing how my research is shaping real-world strategies for restoring Australia’s native flora through genomics.
 
 **The Science Writer (2023)**
-My research was [profiled](https://www.thesciencewriter.org/enigma-stories/more-than-a-murmur-invasive-starlings-alaska) in “More Than a Murmur,” a deep dive into the surprising genetic edge of invasive starlings—and how my work is rewriting what we know about rapid evolution.
+Was [profiled](https://www.thesciencewriter.org/enigma-stories/more-than-a-murmur-invasive-starlings-alaska) in “More Than a Murmur,” a deep dive into the surprising genetic edge of invasive starlings—and how my work is rewriting what we know about rapid evolution.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" 
+    allow="autoplay" 
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/sciwritermag/more-than-a-murmur-invasive-starlings-alaska&color=%23ff5500&inverse=false&auto_play=false&show_user=true">
+</iframe>
 
 **Boiling Point Science Podcast (2020 & 2022)**
 Guest speaker on Sydney’s longest-running science radio show, where I unpacked the genomic secrets of invasive species and what they tell us about evolution in real time.
