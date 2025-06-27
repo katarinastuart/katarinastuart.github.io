@@ -59,7 +59,6 @@ Additionally, I have contributed as a facilitator for coding workshops with Geno
 I am passionate about inclusive teaching and have contributed to Indigenous science education programs, developing and delivering biology content as part of UNSW’s Science and Engineering Indigenous Preparatory Program.
 
 ***
-
 **Full workshop material are available online for:**
 
 - **[Redundancy Analysis](https://github.com/katarinastuart/EnvComputing_RDA)**: Ecology and multivariate statistics covering **redundancy analysis** of cane toad phenotype data.
@@ -68,7 +67,6 @@ I am passionate about inclusive teaching and have contributed to Indigenous scie
 In addition to this, I like running discussion groups about how to construct thesis chapters and manuscripts. Some of the notes on this **[can be found here](https://github.com/katarinastuart/Constructing_a_Manuscript/tree/main)**.
 
 ***
-
 Below is a collection of vignettes I have made over the years. My general goal is to try create one vignette per first author paper, in it capturing some aspect of the data processing or analysis that I had to learn for the project. My aim in creating these is is threefold:<br>
 1. increase my research repeatability and transparancy
 2. provide a starting point for other researches who need help with the code
