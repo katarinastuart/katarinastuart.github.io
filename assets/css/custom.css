@@ -1,0 +1,11 @@
+/* Change body font and size */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  /* Choose your font */
+  font-size: 18px; /* Adjust size here */
+  line-height: 1.7;
+}
+
+/* Optional: adjust heading sizes for consistency */
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+}
