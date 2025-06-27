@@ -295,3 +295,8 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      custom_css: "assets/css/custom.css"
