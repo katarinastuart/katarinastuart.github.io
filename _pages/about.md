@@ -71,14 +71,6 @@ Evolutionary genomic studies often produce a list of genetic sites flagged as un
 <img style="float: right;" src="/assets/images/research_map3.png">
 While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
 
-
-***
-**Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
-
-Evolutionary genomic studies often produce a list of genetic sites flagged as under putative selection or associated with phenotype or environment data. 
-<img style="float: right;" src="/assets/images/research_map3.png">
-While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
-
 ***
 **The invasion genomics of the European starling**
 
