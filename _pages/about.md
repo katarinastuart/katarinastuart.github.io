@@ -55,7 +55,7 @@ I am at the forefront of redefining how we study genetic differences between ind
 
 ***
 **Evolutionary Genomics of Rapid Adaptation and Conservation**
-My research explores how diverse genetic variants—from single nucleotide changes to complex structural variants and transposable elements—drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
+My research explores how diverse genetic variants, from single nucleotide changes to complex structural variants and transposable elements, drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
 
 These insights into rapid evolutionary processes directly inform conservation genomics. I apply cutting-edge genomic tools to real-world conservation challenges, especially in native Australian plants, aiming to maintain adaptive diversity through restoration and seed production. By translating evolutionary knowledge into practical strategies and developing accessible tools, my work bridges the gap between fundamental research and effective conservation management.
 
