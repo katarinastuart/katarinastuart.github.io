@@ -1,11 +1,14 @@
-/* Change body font and size */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  /* Choose your font */
-  font-size: 18px; /* Adjust size here */
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
   line-height: 1.7;
+  color: #222222; /* nice dark text for readability */
 }
 
-/* Optional: adjust heading sizes for consistency */
+/* Optional: keep headers consistent */
 h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
 }
