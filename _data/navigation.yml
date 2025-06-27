@@ -2,11 +2,13 @@
 main:
   - title: "Research"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/ 
   - title: "Media"
     url: /media/
-  - title: "CV"
-    url: /cv/
-  - title: "Teaching & Vignettes"
+  - title: "Teaching"
     url: /vignettes/
   - title: "Google Scholar"
     url: https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao
