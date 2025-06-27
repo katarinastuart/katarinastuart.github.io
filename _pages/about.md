@@ -11,12 +11,6 @@ gallery1:
     image_path: /assets/photos/Museum_birds.JPG
     alt: "AMNH starling collections"
     title: "AMNH starling collections"
-  - url: /assets/photos/2016.Honours.5.jpg
-    image_path: /assets/photos/2016.Honours.5.jpg
-    alt: "Fires in the NT"
-    title: "Fires in the NT"
-
-gallery2:
   - url: /assets/photos/2016.Honours.3.jpg
     image_path: /assets/photos/2016.Honours.3.jpg
     alt: "Honours"
@@ -25,10 +19,7 @@ gallery2:
     image_path: /assets/photos/FA-IuxWUcA0Ugac.jpg
     alt: "Lizard co-author"
     title: "Lizard co-author"
-  - url: /assets/photos/2016.Honours.1.jpg
-    image_path: /assets/photos/2016.Honours.1.jpg
-    alt: "Honours"
-    title: "Honours"   
+
 gallery3:
   - url: /assets/photos/art_snake.jpg
     image_path: /assets/photos/art_snake.jpg
@@ -62,7 +53,6 @@ These insights into rapid evolutionary processes directly inform conservation ge
 
 {% include gallery id="gallery1" layout="third" %}
 
-{% include gallery id="gallery2" layout="third" %}
 
 ***
 **Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
