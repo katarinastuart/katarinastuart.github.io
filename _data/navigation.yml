@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Media"
     url: /research/
-  - title: "Publications"
-    url: /publications/
   - title: "CV"
     url: /cv/
   - title: "Teaching & Vignettes"
