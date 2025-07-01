@@ -5,7 +5,7 @@ permalink: /about/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/Jellyfish_Banner.png
+  overlay_image: /assets/Jellyfish_Banner2.png
 gallery1:
   - url: /assets/photos/Museum_birds.JPG
     image_path: /assets/photos/Museum_birds.JPG
