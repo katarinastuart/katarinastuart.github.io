@@ -5,7 +5,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/Jellyfish_Banner.png
+  overlay_image: /assets/Jellyfish_Banner2.png
 ---
 
 <p style="text-align: center;"><a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
