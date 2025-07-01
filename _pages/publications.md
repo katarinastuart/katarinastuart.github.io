@@ -10,6 +10,9 @@ header:
 
 ## PEER REVIEWED ARTICLES
 
+<p style="text-align: center;"> [![Google Scholar Icon](https://www.cleanpng.com/png-mortarboard-computer-icons-academic-conference-acad-6896855/preview.html)](https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao)
+ </p>
+
 <p style="text-align: center;"> -2025- </p>
 
 Atsawawaranunt K, <u>Stuart KC</u>, Whibley A, Ewart KM, Major RE, Johnson JN, Santure AW **2025** Parallel signatures of diet adaptation in the invasive common myna genome, *Molecular Ecology*, 34(2), e17607. [http://doi.org/10.1111/mec.17607](http://doi.org/10.1111/mec.17607) 
