@@ -8,7 +8,7 @@ toc_sticky: true
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/Jellyfish_Banner3.png
 ---
 
 <a href="/assets/20241217_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
