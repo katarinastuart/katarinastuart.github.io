@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "starling" # "air", "default", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Katarina Stuart"
+title                    : "Dr. Katarina Stuart"
 title_separator          : "-"
 subtitle                 : Genetic Diversity, Variation & Evolution # site tagline that appears below site title in masthead
-name                     : "Katarina Stuart"
-description              : "An amazing website."
+name                     : "Dr. Katarina Stuart"
+description              : "The strucutral variants can't get me if I get them first."
 url                      : "https://katarinastuart.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "katarinastuart.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/JellyfishV1.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/katarinastuart_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Dr Katarina Stuart" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Dr. Katarina Stuart" # overrides the website title displayed in the masthead, use " " for no title
 github                   : [metadata]
 
 breadcrumbs            : false # true, false (default)
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Katarina Stuart"
+  name             : "Katarina Stuart"
   avatar           : "/assets/images/Katarina_Stuart.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  Research Fellow
   location         : "Macquarie University"
