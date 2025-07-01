@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: About
+title: Research
 permalink: /about/
 layout: single
 author_profile: true
