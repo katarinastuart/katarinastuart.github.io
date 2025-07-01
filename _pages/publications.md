@@ -9,12 +9,8 @@ header:
 ---
 
 ## PEER REVIEWED ARTICLES <a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
-  <img src="https://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/256/Letter-G-icon.png" alt="Google Scholar" width="40">
+  <img src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" alt="Google Scholar" width="40">
 </a>
-
-
-<p style="text-align: center;"> [![Google Scholar Icon](https://www.cleanpng.com/png-mortarboard-computer-icons-academic-conference-acad-6896855/preview.html)](https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao)
- </p>
 
 <p style="text-align: center;"> -2025- </p>
 
