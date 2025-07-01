@@ -8,9 +8,10 @@ header:
   overlay_image: /assets/images/banner1.png
 ---
 
-## PEER REVIEWED ARTICLES <a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
-  <img src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" alt="Google Scholar" width="40">
-</a>
+<p style="text-align: center;"><a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
+  <img src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" alt="Google Scholar" width="40"></a></p>
+
+## PEER REVIEWED ARTICLES 
 
 <p style="text-align: center;"> -2025- </p>
 
