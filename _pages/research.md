@@ -30,7 +30,7 @@ Featured in “How plant DNA will help shape the future of native seed productio
 
 **The Science Writer (2023)**
 
-Was [profiled](https://www.thesciencewriter.org/enigma-stories/more-than-a-murmur-invasive-starlings-alaska) in “More Than a Murmur,” a deep dive into the surprising genetic edge of invasive starlings—and how my work is rewriting what we know about rapid evolution.
+Profiled in [“More Than a Murmur,”](https://www.thesciencewriter.org/enigma-stories/more-than-a-murmur-invasive-starlings-alaska) a deep dive into the surprising genetic edge of invasive starlings - and how my work is rewriting what we know about rapid evolution.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
     allow="autoplay" 
@@ -41,8 +41,8 @@ Was [profiled](https://www.thesciencewriter.org/enigma-stories/more-than-a-murmu
 **Boiling Point Science Podcast (2020 & 2022)**
 
 Guest speaker on Sydney’s longest-running science radio show, where I unpacked the genomic secrets of invasive species and what they tell us about evolution in real time.
-[August 2020](https://wp.eastsidefm.org/podcast/invasive-species-special/)
-[May 2022](https://wp.eastsidefm.org/podcast/understanding-invasive-species/)
+[Understanding Invasive Species, May 2022](https://eastsidefm.org/podcast/understanding-invasive-species/)
+[Invasive Species Special, August 2020](https://wp.eastsidefm.org/podcast/invasive-species-special/)
 
 **Australian National Museum – Science Week (2014–2019)**
 
