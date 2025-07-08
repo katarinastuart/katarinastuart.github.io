@@ -45,7 +45,7 @@ I am at the forefront of redefining how we study genetic differences between ind
 ![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
 
 ***
-**Evolutionary Genomics of Rapid Adaptation and Conservation**
+**Evolutionary Genomics of Rapid Adaptation**
 
 My research explores how diverse genetic variants, from single nucleotide changes to complex structural variants and transposable elements, drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
 
