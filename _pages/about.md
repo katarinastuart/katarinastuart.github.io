@@ -34,16 +34,15 @@ gallery3:
     alt: "This is an octopus. It predicts football match winners."
     title: "This is an octopus. It predicts football match winners."
 ---
-I am an **evolutionary and conservation genomicist** investigating how genetic variants - from single nucleotide polymorphisms to large-scale structural changes - mediate adaptation across spatial and temporal scales. My research encompasses both invasive and native species, including plants and animals, with the objective of elucidating how **diverse forms of genetic variation underpin population resilience or vulnerability** in the face of population disturbance or environmental change.
-
+I am an **evolutionary and conservation genomicist** investigating how genetic variants, from single nucleotide polymorphisms to large-scale structural changes, shapes adaptation across space and time. My research spans both invasive and native species, including plants and animals, to understand how **genetic diversity is distributed throughout the genome**, and how the **diverse and complex forms of genetic variation** underpin **population resilience or vulnerability** in the face of population disturbance or environmental change.
 
 *** 
 **Structural Variation in Ecoevolutionary genomics**
 <div style="font-size: 0.8em;">
-I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is how structural variants (SVs) and transposable elements can be better integrated into population genomics and conservation. Including these often-overlooked variants alongside SNPs offers a more complete view of genome-wide variation, which is crucial for tackling missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.
+I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is how structural variants (SVs) and transposable elements can be better integrated into population genomics and conservation. Including these often-overlooked variants alongside SNPs offers a more complete view of genome-wide variation, which is crucial for tackling missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.<br><br>
 
-<strong>Including</strong><br>
-→ Theoretical and practical applications of SVs to eco-evolutionary population genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited Mol Ecol – under review</a><br>
+<strong>Recent work highlights:</strong><br>
+→ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited Mol Ecol – under review</a><br>
 → Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a><br>
 → Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a>
 </div>
