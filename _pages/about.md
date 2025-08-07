@@ -38,7 +38,7 @@ I am an **evolutionary and conservation genomicist** investigating how genetic v
 
 <hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
 
-**Structural Variants in Eco-evolutionary genomics**
+**Structural Variants in Eco-evolutionary Genomics**
 <div style="font-size: 0.8em;">
 I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
 
