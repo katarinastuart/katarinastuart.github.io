@@ -34,7 +34,7 @@ gallery3:
     alt: "This is an octopus. It predicts football match winners."
     title: "This is an octopus. It predicts football match winners."
 ---
-I am an **evolutionary and conservation genomicist** investigating how genetic variants, from single nucleotide polymorphisms to large-scale structural changes, shapes adaptation across space and time. My research spans both invasive and native species, including plants and animals, to understand how **genetic diversity is distributed throughout the genome**, and how the **diverse and complex forms of genetic variation** underpin **population resilience or vulnerability** in the face of population disturbance or environmental change.
+I am an **evolutionary and conservation genomicist** investigating how genetic variation, from single nucleotide polymorphisms to large-scale structural changes, shapes adaptation across space and time. My research spans both invasive and native species, including plants and animals, to understand how **genetic diversity is distributed throughout the genome**, and how the **diverse and complex forms of genetic variation** underpin **population resilience or vulnerability** in the face of population disturbance or environmental change.
 
 <hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
 
@@ -46,7 +46,7 @@ I am redefining how we study genetic differences between individuals. As whole g
 
   <!-- Left side: text -->
   <div style="flex: 1; font-size: 0.9em;">
-       <strong>My recent work highlights:</strong><br><br>
+       <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li><br>
       <li>❯ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li><br>
