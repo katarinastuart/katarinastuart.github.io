@@ -41,7 +41,7 @@ I am an **evolutionary and conservation genomicist** investigating how genetic v
 <div style="font-size: 0.8em;">
 I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
 
-<div style="display: flex; align-items: flex-start; gap: 0.5em;">
+<div style="display: flex; align-items: flex-start; gap: 2em;">
 
   <!-- Left side: text -->
   <div style="flex: 1; font-size: 0.8em;">
@@ -53,21 +53,22 @@ I am redefining how we study genetic differences between individuals. As whole g
     </ul>
   </div>
 
-  <!-- Right side: image and caption -->
-  <div style="flex: 1; text-align: center;">
-    <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
-        alt="Subclassifications of different structural variants (SVs)"
-        style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
-      >
-    </a>
-    <div style="font-size: 0.7em; padding-left: 1.5em; padding-right: 1.5em; margin-top: 0; line-height: 1.2;">
-      <strong>
-        <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
-      </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
-    </div>
+ <!-- Right side: image and caption -->
+<div style="flex: 1; text-align: center;">
+  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+    <img
+      src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
+      alt="Subclassifications of different structural variants (SVs)"
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+  <div style="font-size: 0.7em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: left;">
+    <strong>
+      <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
+    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
   </div>
+</div>
+
 
 </div>
 
