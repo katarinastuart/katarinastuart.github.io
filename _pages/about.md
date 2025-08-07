@@ -41,11 +41,15 @@ I am an **evolutionary and conservation genomicist** investigating how genetic v
 <div style="font-size: 0.8em;">
 I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is how structural variants (SVs) and transposable elements can be better integrated into population genomics and conservation. Including these often-overlooked variants alongside SNPs offers a more complete view of genome-wide variation, which is crucial for tackling missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.<br><br>
 
-<strong>Recent work highlights:</strong><br>
-→ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited Mol Ecol – under review</a><br>
-→ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a><br>
-→ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a>
+<strong>Recent work highlights:</strong>
+<ul style="padding-left: 1.2em; padding-right: 1.2em; margin-top: 0.2em; list-style-type: none;">
+  <li>→ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited Mol Ecol – under review</a></li>
+  <li>→ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li>
+  <li>→ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a></li>
+</ul>
+
 </div>
+
 
 ![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
 
