@@ -69,13 +69,11 @@ I am redefining how we study genetic differences between individuals. As whole g
 
   <!-- Left side: text -->
   <div style="flex: 1; font-size: 0.8em;">
-    I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
-
-    <strong>My recent work highlights:</strong>
+       <strong>My recent work highlights:</strong>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
-      <li>→ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li>
-      <li>→ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li>
-      <li>→ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a></li>
+      <li>❯ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li>
+      <li>❯ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li>
+      <li>❯ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a></li>
     </ul>
   </div>
 
