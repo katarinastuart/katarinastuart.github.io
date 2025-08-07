@@ -37,7 +37,7 @@ gallery3:
 I am an **evolutionary and conservation genomicist** investigating how genetic variants, from single nucleotide polymorphisms to large-scale structural changes, shapes adaptation across space and time. My research spans both invasive and native species, including plants and animals, to understand how **genetic diversity is distributed throughout the genome**, and how the **diverse and complex forms of genetic variation** underpin **population resilience or vulnerability** in the face of population disturbance or environmental change.
 
 *** 
-**Structural Variation in Ecoevolutionary genomics**
+**Structural Variants in Eco-evolutionary genomics**
 <div style="font-size: 0.8em;">
 I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
 
@@ -72,8 +72,11 @@ I am redefining how we study genetic differences between individuals. As whole g
 
 </div>
 
+</div>
 
 <hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
 
 
 **Evolutionary Genomics of Rapid Adaptation**
