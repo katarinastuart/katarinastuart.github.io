@@ -39,15 +39,14 @@ I am an **evolutionary and conservation genomicist** investigating how genetic v
 
 *** 
 **Structural Variation in Ecoevolutionary genomics**
+<div style="font-size: 0.8em;">
+I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is how structural variants (SVs) and transposable elements can be better integrated into population genomics and conservation. Including these often-overlooked variants alongside SNPs offers a more complete view of genome-wide variation, which is crucial for tackling missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.
 
-<p style="font-size: 0.5em;">I am at the forefront of redefining how we study genetic differences between individuals. With whole genome resequencing data become more available, one of my core research directions explores how structural variants (SVs) and transposable elements should be incorporated into population genomics and conservation. By examining these previously hidden variants alongside traditional SNPs, we get a more holistic view of genome-wide variation is the next step in addressing the issue of missing heritability, improving our ability to predict the outcomes of conservation breeding and translocation programs, and enabling us to more fully characterize adaptive potential in the face of uncertain futures.
-
-**Including**
-→ Theoretical and practical applications of SVs to eco-evolutionary population genomics [Stuart et al., 2025, invited Mol Ecol - under review](https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1)<br>
-→ Heterozygous strucutral variants uniquely impact lifetime fitness [Stuart et al., 2025, Mol Ecol](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631)<br>
-→ Population histories shapes relative diversity levels between SVs and SNPs [Stuart et al., 2023, MBE](https://academic.oup.com/mbe/article/40/3/msad046/7052962)<br>
-
-</p>
+<strong>Including</strong><br>
+→ Theoretical and practical applications of SVs to eco-evolutionary population genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited Mol Ecol – under review</a><br>
+→ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a><br>
+→ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a>
+</div>
 
 ![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
 
