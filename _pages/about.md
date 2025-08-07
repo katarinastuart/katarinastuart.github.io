@@ -36,7 +36,8 @@ gallery3:
 ---
 I am an **evolutionary and conservation genomicist** investigating how genetic variants, from single nucleotide polymorphisms to large-scale structural changes, shapes adaptation across space and time. My research spans both invasive and native species, including plants and animals, to understand how **genetic diversity is distributed throughout the genome**, and how the **diverse and complex forms of genetic variation** underpin **population resilience or vulnerability** in the face of population disturbance or environmental change.
 
-*** 
+<hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
 **Structural Variants in Eco-evolutionary genomics**
 <div style="font-size: 0.8em;">
 I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
@@ -44,7 +45,7 @@ I am redefining how we study genetic differences between individuals. As whole g
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
   <!-- Left side: text -->
-  <div style="flex: 1; font-size: 0.8em;">
+  <div style="flex: 1; font-size: 0.9em;">
        <strong>My recent work highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li>
@@ -62,7 +63,7 @@ I am redefining how we study genetic differences between individuals. As whole g
       style="width: 100%; height: auto; display: block;"
     >
   </a>
-  <div style="font-size: 0.8em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: left;">
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
     <strong>
       <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
     </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
