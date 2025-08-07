@@ -39,7 +39,7 @@ I am an **evolutionary and conservation genomicist** investigating how genetic v
 *** 
 **Structural Variation in Ecoevolutionary genomics**
 <div style="font-size: 0.8em;">
-I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is how structural variants (SVs) and transposable elements can be better integrated into population genomics and conservation. Including these often-overlooked variants alongside SNPs offers a more complete view of genome-wide variation, which is crucial for tackling missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.<br><br>
+I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures.
 
 <strong>My recent work highlights:</strong>
 <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
@@ -52,7 +52,9 @@ I am redefining how we study genetic differences between individuals. As whole g
 
 
 ![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
-
+<ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
+  <li><strong><a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Figure 3</a> | Subclassifications of different structural variants (SVs) </strong>that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes </li>
+</ul>
 ***
 **Evolutionary Genomics of Rapid Adaptation**
 
