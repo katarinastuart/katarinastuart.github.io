@@ -55,7 +55,7 @@ I am redefining how we study genetic differences between individuals. As whole g
     <img
       src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
       alt="Subclassifications of different structural variants (SVs)"
-      style="width: 70%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+      style="width: 85%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
     >
   </a>
   <div style="font-size: 0.7em; padding-left: 1.5em; padding-right: 1.5em; margin-top: 0; line-height: 1.2;">
@@ -65,9 +65,42 @@ I am redefining how we study genetic differences between individuals. As whole g
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+
+  <!-- Left side: text -->
+  <div style="flex: 1; font-size: 0.8em;">
+    I am redefining how we study genetic differences between individuals. As whole genome resequencing becomes more accessible, a core focus of my research is integrating previously hidden components of genetic variation - structural variants (SVs) and transposable elements - into population genomics and conservation. Combining these often-overlooked variants with SNPs provides a more comprehensive view of genome-wide variation, which is essential for addressing missing heritability, improving predictions for conservation breeding and translocation, and better understanding adaptive potential in uncertain futures. <br><br>
+
+    <strong>My recent work highlights:</strong>
+    <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
+      <li>→ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li>
+      <li>→ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li>
+      <li>→ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a></li>
+    </ul>
+  </div>
+
+  <!-- Right side: image and caption -->
+  <div style="flex: 1; text-align: center;">
+    <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
+        alt="Subclassifications of different structural variants (SVs)"
+        style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+      >
+    </a>
+    <div style="font-size: 0.7em; padding-left: 1.5em; padding-right: 1.5em; margin-top: 0; line-height: 1.2;">
+      <strong>
+        <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
+      </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+    </div>
+  </div>
+
+</div>
 
 
-***
+<hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
 **Evolutionary Genomics of Rapid Adaptation**
 
 My research explores how diverse genetic variants, from single nucleotide changes to complex structural variants and transposable elements, drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
