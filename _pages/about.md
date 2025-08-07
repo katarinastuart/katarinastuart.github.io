@@ -50,15 +50,19 @@ I am redefining how we study genetic differences between individuals. As whole g
 
 </div>
 
-<a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">![Subclassifications of different structural variants (SVs)](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)</a>
-<div style="font-size: 0.7em;"><ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;"><strong><a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Figure 3</a> | Subclassifications of different structural variants (SVs) </strong>that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes
-</ul></div>
-
-<a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png" alt="Subclassifications of different structural variants (SVs)" style="width: 70%; max-width: 600px; height: auto;">
-</a>
-<div style="font-size: 0.7em; padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em;">
-  <strong><a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)</strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+<div style="text-align: center;">
+  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
+      alt="Subclassifications of different structural variants (SVs)"
+      style="width: 70%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+    >
+  </a>
+  <div style="font-size: 0.7em; padding-left: 1.5em; padding-right: 1.5em; margin-top: 0; line-height: 1.2;">
+    <strong>
+      <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
+    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+  </div>
 </div>
 
 
