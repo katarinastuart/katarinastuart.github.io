@@ -50,11 +50,9 @@ I am redefining how we study genetic differences between individuals. As whole g
 
 </div>
 
-
-![Evolutionary diagram](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)
-<ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
-  <li><strong><a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Figure 3</a> | Subclassifications of different structural variants (SVs) </strong>that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes </li>
-</ul>
+a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">![Subclassifications of different structural variants (SVs)](https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png)</a>
+<div style="font-size: 0.7em;"><ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;"><strong><a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Figure 3</a> | Subclassifications of different structural variants (SVs) </strong>that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes
+</ul></div>
 ***
 **Evolutionary Genomics of Rapid Adaptation**
 
