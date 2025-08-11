@@ -80,6 +80,46 @@ I am redefining how we study genetic differences between individuals. As whole g
 
 
 
+**Evolutionary Genomics for Conservation & Restoration**
+<div style="font-size: 0.8em;">
+Understanding evolutionary processes and the distribution of genetic diversity is essential for effective management, conservation, and restoration. My research spans species with very small, isolated populations to those that are widely distributed, aiming to determine the best ways to preserve, safeguard, and sustainably utilise genetic resources. I focus on maintaining adaptive diversity through the application of evolutionary science to understand how, and when, genetic diversity or its absence influences population resilience. <br><br>
+
+<div style="display: flex; align-items: flex-start; gap: 0.5em;">
+
+  <!-- Left side: text -->
+  <div style="flex: 1; font-size: 0.9em;">
+       <strong>My recent research highlights:</strong><br><br>
+    <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
+      <li>❯ Shaping diversity and evolutionary resilience in native seed production areas <a href="https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/">forthcoming</a></li><br>
+      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
+    </ul>
+  </div>
+
+ <!-- Right side: image and caption -->
+<div style="flex: 1; text-align: center;">
+  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+    <img
+      src="[https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png](https://www.nature.com/articles/s41437-024-00711-3/figures/1)"
+      alt="Subclassifications of different structural variants (SVs)"
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
+    <strong>
+      <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
+    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+<hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
+
 **Evolutionary Genomics of Rapid Adaptation**
 
 My research explores how diverse genetic variants, from single nucleotide changes to complex structural variants and transposable elements, drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
