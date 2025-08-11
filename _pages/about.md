@@ -86,6 +86,23 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
+
+ <!-- Right side: image and caption -->
+<div style="flex: 1; text-align: center;">
+  <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+    <img
+      src="[https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-024-00711-3/MediaObjects/41437_2024_711_Fig1_HTML.png?as=webp](https://www.nature.com/articles/s41437-024-00711-3)"
+      alt="Linkage map of the hihi"
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
+    <strong>
+      <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer">Figure 1</a> | Linkage map of the Hihi
+    </strong> to better predict translocation and breeding outcomes of this entirely managed species.
+  </div>
+</div>
+
   <!-- Left side: text -->
   <div style="flex: 1; font-size: 0.9em;">
        <strong>My recent research highlights:</strong><br><br>
@@ -94,22 +111,6 @@ Understanding evolutionary processes and the distribution of genetic diversity i
       <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
     </ul>
   </div>
-
- <!-- Right side: image and caption -->
-<div style="flex: 1; text-align: center;">
-  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
-    <img
-      src="[https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png](https://www.nature.com/articles/s41437-024-00711-3/figures/1)"
-      alt="Subclassifications of different structural variants (SVs)"
-      style="width: 100%; height: auto; display: block;"
-    >
-  </a>
-  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
-    <strong>
-      <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
-    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
-  </div>
-</div>
 
 
 </div>
