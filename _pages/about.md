@@ -133,9 +133,9 @@ My research investigates how diverse genetic variants, from single nucleotide ch
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Historical DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
-      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive starlings <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025, Mol Ecol</a></li><br>
-      <li>❯ Historical newspaper records contextualize the invasion story told by DNA in New Zealand <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a></li><br>
-      <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023b</a></li><br>
+      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive starlings (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
+      <li>❯ Historical newspaper records contextualize the invasion story told by DNA in New Zealand (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a>)</li><br>
+      <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations (<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023a</a>)</li><br>
     </ul>
   </div>
 
@@ -164,29 +164,54 @@ My research investigates how diverse genetic variants, from single nucleotide ch
 
 
 
+**Population Management for Invasive Species**
+<div style="font-size: 0.8em;">
+I use population genomics and evolutionary principles to directly inform conservation strategies for managing invasive species. By applying cutting-edge genomic tools to real-world challenges, I translate evolutionary insights into practical management approaches and develop accessible resources that bridge the gap between fundamental research and effective conservation action. <br><br>
+
+<div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
 
-**Evolutionary Genomics of Rapid Adaptation**
+<!-- Right side: image and caption -->
+<div style="flex: 1; text-align: center;">
+  <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+    <img
+      src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-024-00711-3/MediaObjects/41437_2024_711_Fig1_HTML.png?as=webp"
+      alt="Linkage map of the hihi"
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
+    <strong>
+      <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer">Figure 1</a> | Linkage map of the Hihi
+    </strong> to better predict translocation and breeding outcomes of this entirely managed species.
+  </div>
+</div>
 
-My research explores how diverse genetic variants, from single nucleotide changes to complex structural variants and transposable elements, drive rapid adaptation in natural populations. By studying both invasive and native species across plants and animals, I integrate genomic, historical, and ecological data to uncover the mechanisms shaping evolutionary resilience and vulnerability.
+  <!-- Left side: text -->
+  <div style="flex: 1; font-size: 0.9em;">
+       <strong>My recent research highlights:</strong><br><br>
+    <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
+      <li>❯ Genomic applications in invasion biology (<a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876">McGaughran & Dhami et al. 2024</a>) (<a href="https://books.google.com.au/books?hl=en&lr=&id=34XmEAAAQBAJ&oi=fnd&pg=PA286&dq=info:3CbH7nO0hDAJ:scholar.google.com&ots=upS-UrtlYs&sig=2Qi5byw3YHLMNM0tewDISpqZfPg&redir_esc=y#v=onepage&q&f=false">Stuart et al. 2023b</a>)</li><br>
+      <li>❯ Genomic-informed deer management in the Illawarra region (<a href="https://www.publish.csiro.au/WR/WR22128">Li-Williams & Stuart et al., 2023</a>)  </li><br>
+    </ul>
+  </div>
 
-These insights into rapid evolutionary processes directly inform conservation genomics. I apply cutting-edge genomic tools to real-world conservation challenges, especially in native Australian plants, aiming to maintain adaptive diversity through restoration and seed production. By translating evolutionary knowledge into practical strategies and developing accessible tools, my work bridges the gap between fundamental research and effective conservation management.
+
+</div>
+
+</div>
+
+<hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
+
+
 
 
 {% include gallery id="gallery1" layout="third" %}
 
 
-***
-**Beyond outliers: Using genetic outliers to investigate broader evolutionary hypotheses.**
 
-Evolutionary genomic studies often produce a list of genetic sites flagged as under putative selection or associated with phenotype or environment data. 
-<img style="float: right;" src="/assets/images/research_map3.png">
-While generating a shortlist of biologically interesting variants is the first of many steps towards biologically validating these results, it is vital that we go beyond compilation of outlier loci and begin using this often end-result as a stepping stone to further scientific inquiry. To this end, I have been awarded funding from the <a href="https://ausevo.com/ECR_grants_2022/"> AES ERC Networking Grant Scheme</a> and <a href="https://genetics.org.au/">GSA</a> to develop workshop material for [genetic outlier analysis](https://github.com/katarinastuart/Ev1_SelectionMetaAnalysis). The ultimate goal of this project will be to develop cross species and cross study analyses (metanalyses) to interrogate a diverse list of species and population for broad trends that characterize genetic variants and regions undergoing contemporary selection. 
-
-***
-**The invasion genomics of the European starling**
-
-The European starling *Sturnus vulgaris*, is one of the most widespread and iconic invasive avian species. However, despite their invasive range success, native starling populations are collapsing, with declines of up to 90% in the European countries they occupy. The global spread of this invasive species also provides unique opportunities to contrast genetic divergence across multiple invasive ranges, providing insight into the malleability of invasion regimes. I have worked across reduced representation sequencing (Stuart & Cardilini *et al* [2020](https://doi.org/10.1111/mec.15601)), whole genome resequencing (Hofmeister *et al* [2021](https://www.biorxiv.org/content/10.1101/2021.05.19.442026v1.abstract), Stuart *et al* [2023](https://doi.org/10.1093/molbev/msad046)), museomics (Stuart *et al* [2022a]( https://doi.org/10.1111/mec.16353)), and morphological data (Stuart *et al* [2022b](https://doi.org/10.3389/fgene.2022.824424)) to investigate the genetic underpinnings of the starling’s adaptive patterns across their global range, with a particular emphasis on the Australian population.
 
 <img style="float: center;" src="/assets/images/AustralianStarling3.png" width="650" height="200">
 
