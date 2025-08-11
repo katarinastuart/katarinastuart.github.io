@@ -48,9 +48,9 @@ I am redefining how we study genetic differences between individuals. As whole g
   <div style="flex: 1; font-size: 0.9em;">
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
-      <li>❯ Structural variation in eco-evolutionary genomics <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025, invited review Mol Ecol – under review</a></li><br>
-      <li>❯ Heterozygous structural variants uniquely impact lifetime fitness <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025, Mol Ecol</a></li><br>
-      <li>❯ Population history shapes relative diversity levels between SVs and SNPs <a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023, MBE</a></li><br>
+      <li>❯ Structural variation in eco-evolutionary genomics (<a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1">Stuart et al., 2025a</a>)</li><br>
+      <li>❯ Heterozygous structural variants uniquely impact lifetime fitness (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2024a</a>)</li><br>
+      <li>❯ Population history shapes relative diversity levels between SVs and SNPs (<a href="https://academic.oup.com/mbe/article/40/3/msad046/7052962">Stuart et al., 2023a</a>)</li><br>
     </ul>
   </div>
 
@@ -107,8 +107,8 @@ Understanding evolutionary processes and the distribution of genetic diversity i
   <div style="flex: 1; font-size: 0.9em;">
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
-      <li>❯ Shaping diversity and evolutionary resilience in native seed production areas <a href="https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/">forthcoming</a></li><br>
-      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
+      <li>❯ Shaping diversity and evolutionary resilience in native seed production areas (<a href="https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/">forthcoming</a>)</li><br>
+      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025a</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
     </ul>
   </div>
 
@@ -118,6 +118,51 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 </div>
 
 <hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
+
+
+**The Global Invasion of the European Starling**
+<div style="font-size: 0.8em;">
+My research investigates how diverse genetic variants, from single nucleotide changes to complex structural variants, facilitate rapid adaptation in the globally invasive European starling. This multidisciplinary work integrates genomic data with historical human records (such as newspapers and natural history collections), morphology, and ecological information to track the invasion footprint of this species worldwide. Together, these approaches help unravel how and why the starling has spread so successfully. <br><br>
+
+<div style="display: flex; align-items: flex-start; gap: 0.5em;">
+
+  <!-- Left side: text -->
+  <div style="flex: 1; font-size: 0.9em;">
+       <strong>My recent research highlights:</strong><br><br>
+    <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
+      <li>❯ Historical DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
+      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive starlings <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025, Mol Ecol</a></li><br>
+      <li>❯ Historical newspaper records contextualize the invasion story told by DNA in New Zealand <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a></li><br>
+      <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023b</a></li><br>
+    </ul>
+  </div>
+
+ <!-- Right side: image and caption -->
+<div style="flex: 1; text-align: center;">
+  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+    <img
+      src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
+      alt="Subclassifications of different structural variants (SVs)"
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
+    <strong>
+      <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
+    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+<hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
+
+
 
 
 
