@@ -87,11 +87,11 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
 
- <!-- Right side: image and caption -->
+<!-- Right side: image and caption -->
 <div style="flex: 1; text-align: center;">
   <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
     <img
-      src="[https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-024-00711-3/MediaObjects/41437_2024_711_Fig1_HTML.png?as=webp](https://www.nature.com/articles/s41437-024-00711-3)"
+      src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-024-00711-3/MediaObjects/41437_2024_711_Fig1_HTML.png?as=webp"
       alt="Linkage map of the hihi"
       style="width: 100%; height: auto; display: block;"
     >
@@ -108,7 +108,7 @@ Understanding evolutionary processes and the distribution of genetic diversity i
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Shaping diversity and evolutionary resilience in native seed production areas <a href="https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/">forthcoming</a></li><br>
-      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
+      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2025</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
     </ul>
   </div>
 
