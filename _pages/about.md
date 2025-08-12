@@ -122,7 +122,7 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 
 
 
-**The Global Invasion of the European Starling**
+**Global Invasive Common Starlings & Mynas**
 <div style="font-size: 0.8em;">
 My research investigates how diverse genetic variants, from single nucleotide changes to complex structural variants, facilitate rapid adaptation in the globally invasive European starling. This multidisciplinary work integrates genomic data with historical human records (such as newspapers and natural history collections), morphology, and ecological information to track the invasion footprint of this species worldwide. Together, these approaches help unravel how and why the starling has spread so successfully. <br><br>
 
@@ -132,9 +132,9 @@ My research investigates how diverse genetic variants, from single nucleotide ch
   <div style="flex: 1; font-size: 0.9em;">
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
-      <li>❯ Historical DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
-      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive starlings (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
-      <li>❯ Historical newspaper records contextualize the invasion story told by DNA in New Zealand (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a>)</li><br>
+      <li>❯ Historical starling DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
+      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive mynas (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
+      <li>❯ Historical newspaper records contextualize the starling invasion story told by DNA in New Zealand (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a>)</li><br>
       <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations (<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023b</a>)</li><br>
     </ul>
   </div>
