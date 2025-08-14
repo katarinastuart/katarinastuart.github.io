@@ -133,27 +133,33 @@ My research investigates how diverse genetic variants, from single nucleotide ch
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Historical starling DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
-      <li>❯ Invasion driven change in a key domestication associated gene shared between humans, dogs, sparrows, and invasive mynas (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
+      <li>❯ Invasion driven change in a key domestication-associated gene shared between humans, dogs, sparrows, and invasive mynas (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
       <li>❯ Historical newspaper records contextualize the starling invasion story told by DNA in New Zealand (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a>)</li><br>
       <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations (<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023b</a>)</li><br>
     </ul>
   </div>
 
- <!-- Right side: image and caption -->
-<div style="flex: 1; text-align: center;">
-  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+<!-- Right side: image and caption -->
+<div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="display: block; max-width: 600px;">
     <img
       src="/assets/images/AustralianStarling_v2.png"
       alt="Starling invasion in Australia"
-      style="width: 65%; height: auto; display: block;"
+      style="width: 65%; height: auto; display: block; margin: 0 auto;"
     >
   </a>
-  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
+  <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; text-align: center;">
     <strong>
-      <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" target="_blank" rel="noopener noreferrer">Figure 1</a> | Population structure and evolutionary trends of the common starling in Australia 
+      <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" 
+         target="_blank" 
+         rel="noopener noreferrer">Figure 1</a> | Population structure and evolutionary trends of the common starling in Australia
     </strong> including the genomic location of loci under selection, and associations between genetic, morphological, and environmental variability.
   </div>
 </div>
+
 
 
 </div>
