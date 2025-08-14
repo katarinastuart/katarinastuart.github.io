@@ -189,7 +189,7 @@ I use population genomics and evolutionary principles to directly inform conserv
   <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
     <strong>
       <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer">Figure 3</a> | The historical context of invasions
-    </strong> helps to (A) contextualize shifts in genetic diversity within both native and introduced ranges and (C) model range shifts relative to present-day invasive species distributions & diversity.
+    </strong> helps to contextualize shifts in genetic diversity within both native and introduced ranges.
   </div>
 </div>
 
