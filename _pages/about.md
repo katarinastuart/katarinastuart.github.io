@@ -178,20 +178,21 @@ I use population genomics and evolutionary principles to directly inform conserv
 
 
 <!-- Right side: image and caption -->
-<div style="flex: 1; text-align: center;">
+<div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
     <img
       src="/assets/images/Museum_genomics_update2.png"
       alt="Linkage map of the hihi"
-      style="width: 100%; height: auto; display: block;"
+      style="width: 70%; height: auto; display: block; margin: 0 auto;"
     >
   </a>
   <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
     <strong>
       <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer">Figure 3</a> | The historical context of invasions
-    </strong> helps to (A) contextualize shifts in genetic diversity within both native and introduced ranges and C) model range shifts relative to present day invasive species distributions & diversity.
+    </strong> helps to (A) contextualize shifts in genetic diversity within both native and introduced ranges and (C) model range shifts relative to present-day invasive species distributions & diversity.
   </div>
 </div>
+
 
   <!-- Left side: text -->
   <div style="flex: 1; font-size: 0.9em;">
