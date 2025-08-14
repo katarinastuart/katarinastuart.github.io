@@ -108,7 +108,7 @@ Understanding evolutionary processes and the distribution of genetic diversity i
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Shaping diversity and evolutionary resilience in native seed production areas (<a href="https://www.greeningaustralia.org.au/how-plant-dna-will-help-shape-the-future-of-native-seed-production-areas/">forthcoming</a>)</li><br>
-      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2024a</a>) (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2025</a>) </li><br>
+      <li>❯ Managing inbreeding within endangered Hihi populations (<a href="https://www.nature.com/articles/s41437-024-00711-3">Tan et al., 2024</a>) (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17631">Stuart et al., 2024a</a>) (<a href="https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70024">Tan et al., 2025</a>) </li><br>
     </ul>
   </div>
 
@@ -179,17 +179,17 @@ I use population genomics and evolutionary principles to directly inform conserv
 
 <!-- Right side: image and caption -->
 <div style="flex: 1; text-align: center;">
-  <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+  <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
     <img
-      src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-024-00711-3/MediaObjects/41437_2024_711_Fig1_HTML.png?as=webp"
+      src="/assets/images/Museum_genomics_update2.png"
       alt="Linkage map of the hihi"
       style="width: 100%; height: auto; display: block;"
     >
   </a>
   <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
     <strong>
-      <a href="https://www.nature.com/articles/s41437-024-00711-3" target="_blank" rel="noopener noreferrer">Figure 1</a> | Linkage map of the Hihi
-    </strong> to better predict translocation and breeding outcomes of this entirely managed species.
+      <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer">Figure 3</a> | The historical context of invasions
+    </strong> helps to (A) contextualize shifts in genetic diversity within both native and introduced ranges and C) model range shifts relative to present day invasive species distributions & diversity.
   </div>
 </div>
 
@@ -210,16 +210,15 @@ I use population genomics and evolutionary principles to directly inform conserv
 <hr style="width: 50px; border: 1px solid #006666; margin: 1em auto;">
 
 
+**Genomic diveristy & variation: Future research directions**
+<div style="font-size: 0.8em;">
+<li>❯ Kangaroo paws, hybird zones, and strucutral variants. </li><br>
+<li>❯ Detecting population genetic variation in eDNA. </li><br>
+<li>❯ Population genomics of Australian native plants. </li><br>
+  
+<div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
 
-
-
-{% include gallery id="gallery1" layout="third" %}
-
-
-
-
-<img style="float: center;" src="/assets/images/AustralianStarling3.png" width="650" height="200">
 
 
 
