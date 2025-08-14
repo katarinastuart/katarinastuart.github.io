@@ -124,7 +124,7 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 
 **Globally Invasive Common Starlings & Mynas**
 <div style="font-size: 0.8em;">
-My research investigates how diverse genetic variants, from single nucleotide changes to complex structural variants, facilitate rapid adaptation in the globally invasive European starling. This multidisciplinary work integrates genomic data with historical human records (such as newspapers and natural history collections), morphology, and ecological information to track the invasion footprint of this species worldwide. Together, these approaches help unravel how and why the starling has spread so successfully. <br><br>
+My research investigates how diverse genetic variants, from single nucleotide changes to complex structural variants, facilitate rapid adaptation in the globally invasive common/European starling and common/Indian myna. This multidisciplinary work integrates genomic data with historical human records (such as newspapers and natural history collections), morphology, and ecological information to track the invasion footprint of these species worldwide. Together, these approaches help unravel how and why these two avian invaders have spread so successfully. <br><br>
 
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
