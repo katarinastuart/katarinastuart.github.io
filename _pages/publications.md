@@ -31,7 +31,20 @@ gallery1:
 
 
 
-{% include gallery id="gallery1" %}
+<div style="text-align: center;">
+  <a href="https://www.publish.csiro.au/book/8025/" target="_blank">
+    <img src="https://www.publish.csiro.au/covers/8025.jpg" 
+         alt="Applied Environmental Genomics" 
+         title="Applied Environmental Genomics" 
+         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+  </a>
+  <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/14" target="_blank">
+    <img src="https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg" 
+         alt="Molecular Ecology: Volume 34, Issue 14" 
+         title="Molecular Ecology: Volume 34, Issue 14" 
+         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+  </a>
+</div>
 
 ## PEER REVIEWED ARTICLES 
 
