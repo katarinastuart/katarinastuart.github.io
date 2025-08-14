@@ -56,7 +56,7 @@ gallery1:
 
 {% include gallery id="gallery2"  %}
 
-{% include gallery id="gallery1" layout="half" %}
+{% include gallery id="gallery1" %}
 
 ## PEER REVIEWED ARTICLES 
 
@@ -115,10 +115,12 @@ Li-Williams S†, <u>Stuart KC</u>†, Comte S, Forsyth DM, Dawson M, Sherwin WB
 Hudson CM, Brown GP, <u>Stuart KC</u>, Shine R. **2018** Sexual and geographical divergence in head widths of invasive cane toads, Rhinella marina (Anura: Bufonidae), is driven by both rapid evolution and plasticity. *Biol J Linnean Soc.* 124(2):188-99, [doi.org/10.1093/biolinnean/bly040](https://academic.oup.com/biolinnean/article-abstract/124/2/188/4991888?redirectedFrom=fulltext)
 <a href="/assets/papers/1.SexualandgeographicaldivergenceinheadwidthsofinvasivecanetoadsRhinellamarinaAnura-Bufonidaeisdrivenbybothrapidevolutionandplasticity.pdf" class="btn btn--info">MANUSCRIPT PDF</a>
 
+</div>
+
 ## PEER REVIEWED BOOK CHAPTERS
 
 <u>Stuart KC</u>, Santure AW, Rollins LA. **2025** Structural variants and transposable elements as facilitators of rapid evolutionary change in invasive populations. in Rius, M. and Bock, D. *Invasion Genomics*. CABI (Centre for Agriculture and Bioscience International). In Production. 
 
 <U>Stuart KC</u>, Woolnough AP, Rollins LA. **2023** Invasive species detection and management using genomic methods. in Holleley, C.E., Berry, O. and Jarman, S. *Applied Ecological Genetics*. CSIRO Publishing, Canberra. [ISBN: 9781486314928](https://books.google.com.au/books?hl=en&lr=&id=34XmEAAAQBAJ&oi=fnd&pg=PA286&ots=upS0Nmmp0q&sig=15HX_GbbbNP8ISnb9jCtQAywIKQ&redir_esc=y#v=onepage&q&f=false)
 
-</div>
+
