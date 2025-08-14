@@ -28,27 +28,6 @@ gallery1:
     image_path: /assets/photos/2016.Honours.6.jpg
     alt: "Honours"
     title: "Honours"
-  - url: /assets/photos/2016.Honours.5.jpg
-    image_path: /assets/photos/2016.Honours.5.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.2.jpg
-    image_path: /assets/photos/2016.Honours.2.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.3.jpg
-    image_path: /assets/photos/2016.Honours.3.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.4.jpg
-    image_path: /assets/photos/2016.Honours.4.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.1.jpg
-    image_path: /assets/photos/2016.Honours.1.jpg
-    alt: "Honours"
-    title: "Honours"
-
 ---
 
 <p style="text-align: center;"><a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
@@ -60,11 +39,11 @@ gallery1:
 
 ## PEER REVIEWED ARTICLES 
 
-<div style="font-size: 0.8em;">
+<div style="font-size: 0.9em;">
 
 <p style="text-align: center;"> -2025- </p>
 
-Tan HZ, <u>Stuart KC</u>, Tram V, Whibley A, Bailey S, Brekke P, Santure A  **2025** High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity, *Molecular Ecology Resources*, accepted. [https://doi.org/10.1111/1755-0998.70024](https://doi.org/10.1111/1755-0998.70024) 
+Tan HZ, <u>Stuart KC</u>, Tram V, Whibley A, Bailey S, Brekke P, Santure A  <b>2025</b> High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity, *Molecular Ecology Resources*, accepted. <a href="https://doi.org/10.1111/1755-0998.70024">https://doi.org/10.1111/1755-0998.70024</a> <br>
 
 Atsawawaranunt K, <u>Stuart KC</u>, Whibley A, Ewart KM, Major RE, Johnson JN, Santure AW **2025** Parallel signatures of diet adaptation in the invasive common myna genome, *Molecular Ecology*, 34(2), e17607. [http://doi.org/10.1111/mec.17607](http://doi.org/10.1111/mec.17607) 
 
