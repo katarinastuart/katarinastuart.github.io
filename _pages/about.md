@@ -122,7 +122,7 @@ Understanding evolutionary processes and the distribution of genetic diversity i
 
 
 
-**Global Invasive Common Starlings & Mynas**
+**Globally Invasive Common Starlings & Mynas**
 <div style="font-size: 0.8em;">
 My research investigates how diverse genetic variants, from single nucleotide changes to complex structural variants, facilitate rapid adaptation in the globally invasive European starling. This multidisciplinary work integrates genomic data with historical human records (such as newspapers and natural history collections), morphology, and ecological information to track the invasion footprint of this species worldwide. Together, these approaches help unravel how and why the starling has spread so successfully. <br><br>
 
@@ -133,7 +133,7 @@ My research investigates how diverse genetic variants, from single nucleotide ch
        <strong>My recent research highlights:</strong><br><br>
     <ul style="padding-left: 1.5em; padding-right: 1.5em; margin-top: 0.2em; list-style-type: none;">
       <li>❯ Historical starling DNA from museum collections reveal global and invasive genomic changes during the Anthropocene (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353">Stuart et al., 2022</a>)</li><br>
-      <li>❯ Identification of a key domestication gene shared between humans, dogs, and invasive mynas (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
+      <li>❯ Invasion driven change in a key domestication associated gene shared between humans, dogs, sparrows, and invasive mynas (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17607">Atsawawaranunt et al., 2025</a>)</li><br>
       <li>❯ Historical newspaper records contextualize the starling invasion story told by DNA in New Zealand (<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17579">Thompson et al., 2024</a>)</li><br>
       <li>❯ Climate variability underlies morphological changes in Australia’s invasive starling populations (<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.824424/full">Stuart et al., 2023b</a>)</li><br>
     </ul>
@@ -141,17 +141,17 @@ My research investigates how diverse genetic variants, from single nucleotide ch
 
  <!-- Right side: image and caption -->
 <div style="flex: 1; text-align: center;">
-  <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
+  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
     <img
-      src="https://www.authorea.com/users/928924/articles/1300295/master/file/figures/image4/image4.png"
-      alt="Subclassifications of different structural variants (SVs)"
+      src="/assets/images/AustralianStarling_v2.png"
+      alt="Starling invasion in Australia"
       style="width: 100%; height: auto; display: block;"
     >
   </a>
   <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
     <strong>
-      <a href="https://www.authorea.com/doi/full/10.22541/au.174853973.36642913/v1" target="_blank" rel="noopener noreferrer">Figure 3</a> | Subclassifications of different structural variants (SVs)
-    </strong> that may need to be considered when conducting analysis, as they could impact pattern inference of different eco evolutionary processes.
+      <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1010456/full" target="_blank" rel="noopener noreferrer">Figure 1</a> | Population structure and evolutionary trends of the common starling in Australia 
+    </strong> including the genomic location of loci under selection, and associations between genetic, morphological, and environmental variability.
   </div>
 </div>
 
