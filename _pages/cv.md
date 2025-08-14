@@ -11,35 +11,56 @@ header:
   overlay_image: /assets/Jellyfish_Banner3.png
 ---
 
-<a href="/assets/20241217_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
+<a href="/assets/20250811_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
 
-## EDUCATION
+<section style="font-size: 0.9em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
+  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; color: #333;">EDUCATION</h2>
 
-**Doctor of Philosophy (Biology)** <br>
-University of New South Wales<br>
-2018 - 2022<br>
-Thesis Title: *A genetic perspective on rapid adaptation in the globally invasive European starling (Sturnus vulgaris)*<br>
-Supervisors: Associate Professor Lee A Rollins, Dr Richard J Edwards & Professor William B Sherwin
+  <div style="margin-bottom: 20px;">
+    <h3 style="margin: 0; color: #2c3e50;">Doctor of Philosophy (Biology)</h3>
+    <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
+    <p style="margin: 2px 0; color: #555;">2018 – 2022</p>
+    <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>A genetic perspective on rapid adaptation in the globally invasive European starling (<i>Sturnus vulgaris</i>)</em></p>
+    <p style="margin: 2px 0; color: #555;"><strong>Supervisors:</strong> Associate Professor Lee A Rollins, Dr Richard J Edwards & Professor William B Sherwin</p>
+  </div>
 
-**Bachelor of Science (Advanced) (Honours)** <br>
-University of Sydney<br>
-2013 - 2017<br>
-Thesis Title: *Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia*<br>
-Supervisors: Professor Richard Shine & Dr Gregory Brown
+  <div>
+    <h3 style="margin: 0; color: #2c3e50;">Bachelor of Science (Advanced) (Honours)</h3>
+    <p style="margin: 2px 0; font-weight: bold;">University of Sydney</p>
+    <p style="margin: 2px 0; color: #555;">2013 – 2017</p>
+    <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia</em></p>
+    <p style="margin: 2px 0; color: #555;"><strong>Supervisors:</strong> Professor Richard Shine & Dr Gregory Brown</p>
+  </div>
+</section>
 
-## EMPLOYMENT
 
-**Research Fellow** – Macquarie Universitybr>
-	Sept 2024 - Present
+<section style="font-size: 0.9em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
+  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; color: #333;">EMPLOYMENT</h2>
 
-**Research Fellow** – University of Auckland<br>
-	May 2022 - Sept 2024
-  
-**Research Assistant** – University of New South Wales<br>
-  2020-2022
-  
-**Research Assistant** - Deakin University<br>
-  August 2017
+  <div style="margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #2c3e50;">Research Fellow</h3>
+    <p style="margin: 2px 0; font-weight: bold;">Macquarie University</p>
+    <p style="margin: 2px 0; color: #555;">Sept 2024 – Present</p>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #2c3e50;">Research Fellow</h3>
+    <p style="margin: 2px 0; font-weight: bold;">University of Auckland</p>
+    <p style="margin: 2px 0; color: #555;">May 2022 – Sept 2024</p>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <h3 style="margin: 0; color: #2c3e50;">Research Assistant</h3>
+    <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
+    <p style="margin: 2px 0; color: #555;">2020 – 2022</p>
+  </div>
+
+  <div>
+    <h3 style="margin: 0; color: #2c3e50;">Research Assistant</h3>
+    <p style="margin: 2px 0; font-weight: bold;">Deakin University</p>
+    <p style="margin: 2px 0; color: #555;">August 2017</p>
+  </div>
+</section>
 
 
 ## GRANTS, SCHOLARSHIPS, & AWARDS
@@ -75,6 +96,8 @@ The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
 
 ### TRAVEL GRANTS
 
+<div style="font-size: 0.8em;">
+
 Genomics Aotearoa – He taonga tuku iho scholarship	(600 NZD) **2023**
 
 Queenstown Research Week’s Genomics satellite scholarship	(1180 NZD) **2023**
@@ -91,6 +114,6 @@ Genetic Society of Australia Smith-White Travel award **2020**
 
 ABACBS National Conference CSL travel award ($200)  **2018**
 
-
+</div>
 
 
