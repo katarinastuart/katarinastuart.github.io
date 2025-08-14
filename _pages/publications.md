@@ -16,24 +16,20 @@ gallery2:
     alt: "Honours"
     title: "Honours"
 gallery1:
-  - url: /assets/photos/2016.Honours.8.jpg
-    image_path: /assets/photos/2016.Honours.8.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.7.jpg
-    image_path: /assets/photos/2016.Honours.7.jpg
-    alt: "Honours"
-    title: "Honours"
-  - url: /assets/photos/2016.Honours.6.jpg
-    image_path: /assets/photos/2016.Honours.6.jpg
-    alt: "Honours"
-    title: "Honours"
+  - url: https://www.publish.csiro.au/book/8025/
+    image_path: https://www.publish.csiro.au/covers/8025.jpg
+    alt: "Applied Environmental Genomics"
+    title: "Applied Environmental Genomics"
+  - url: https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg
+    image_path: https://onlinelibrary.wiley.com/toc/1365294x/2025/34/14
+    alt: "Molecular Ecology: Volume 34, Issue 14"
+    title: "Molecular Ecology: Volume 34, Issue 14"
 ---
 
 <p style="text-align: center;"><a href="https://scholar.google.com/citations?user=zVGhz5UAAAAJ&hl=en&oi=ao" target="_blank">
   <img src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" alt="Google Scholar" width="40"></a></p>
 
-{% include gallery id="gallery2"  %}
+
 
 {% include gallery id="gallery1" %}
 
