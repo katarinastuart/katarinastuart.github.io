@@ -181,7 +181,7 @@ I use population genomics and evolutionary principles to directly inform conserv
 <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <a href="https://academic.oup.com/gbe/article/16/1/evad230/7477876?login=true" target="_blank" rel="noopener noreferrer" style="display: block; max-width: 600px; margin: 0 auto;">
     <img
-      src="/assets/images/Museum_genomics_update2.png"
+      src="/assets/images/Museum_genomics_update3.png"
       alt="Linkage map of the hihi"
       style="width: 70%; height: auto; display: block; margin: 0 auto;"
     >
@@ -213,9 +213,9 @@ I use population genomics and evolutionary principles to directly inform conserv
 
 **Genomic diveristy & variation: Future research directions**
 <div style="font-size: 0.8em;">
-<li>❯ Kangaroo paws, hybird zones, and strucutral variants. </li><br>
-<li>❯ Detecting population genetic variation in eDNA. </li><br>
-<li>❯ Population genomics of Australian native plants. </li><br>
+❯ Kangaroo paws, hybird zones, and strucutral variants. <br>
+❯ Detecting population genetic variation in eDNA. <br>
+❯ Population genomics of Australian native plants.<br>
   
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
