@@ -145,7 +145,7 @@ My research investigates how diverse genetic variants, from single nucleotide ch
     <img
       src="/assets/images/AustralianStarling_v2.png"
       alt="Starling invasion in Australia"
-      style="width: 100%; height: auto; display: block;"
+      style="width: 65%; height: auto; display: block;"
     >
   </a>
   <div style="font-size: 0.9em; margin-top: 0; line-height: 1.2; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">
