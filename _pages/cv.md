@@ -20,15 +20,15 @@ header:
 
 <section style="font-size: 0.8em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
   <div style="margin-bottom: 20px;">
-    <h3 style="margin: 0; color: #2c3e50;">Doctor of Philosophy (Biology)</h3>
-    <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
+<p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Supervisors:</strong> Doctor of Philosophy (Biology)</p>
+      <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
     <p style="margin: 2px 0; color: #555;">2018 – 2022</p>
     <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>A genetic perspective on rapid adaptation in the globally invasive European starling (<i>Sturnus vulgaris</i>)</em></p>
     <p style="margin: 2px 0; color: #555;"><strong>Supervisors:</strong> Associate Professor Lee A Rollins, Dr Richard J Edwards & Professor William B Sherwin</p>
   </div>
 
   <div>
-    <h4 style="margin: 0; color: #2c3e50;">Bachelor of Science (Advanced) (Honours)</h4>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;">Bachelor of Science (Advanced) (Honours)</p>
     <p style="margin: 2px 0; font-weight: bold;">University of Sydney</p>
     <p style="margin: 2px 0; color: #555;">2013 – 2017</p>
     <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia</em></p>
@@ -82,8 +82,9 @@ header:
 
 ### SCHOLARSHIPS & RESEARCH GRANTS
 <section style="font-size: 0.8em; max-width: 800px; font-family: Arial, sans-serif; line-height: 1.4;">
-   <p style="margin: 0;">GSA Workshop Support Program ($1,000) <strong>2022</strong></p>
-  <p style="margin: 0;">GSA Workshop Support Program ($1,000) <strong>2022</strong></p>
+   <p style="margin: 0;">MQ Pollinator Futures Research Centre staff research grant <strong>2025</strong></p>
+   <p style="margin: 0;">Genomics Aotearoa ECR Grant ($8,000)<strong>2024</strong></p>
+  <p style="margin: 0;">UoA FoS Research Fellow Society Publishing Grant ($1,000)<strong>2022</strong></p>
   <p style="margin: 0;">GSA Workshop Support Program ($1,000) <strong>2022</strong></p>
   <p style="margin: 0;">AES ECR Networking Grant ($2,000) <strong>2022</strong></p>
   <p style="margin: 0;">UNSW Science PhD Writing Scholarship ($7,500) <strong>2022</strong></p>
