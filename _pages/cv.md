@@ -55,7 +55,6 @@ header:
 
   <div style="margin-bottom: 15px;">
 <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;">Research Assistant</p>
-    <h3 style="margin: 0; color: #2c3e50;">Research Assistant</h3>
     <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
     <p style="margin: 2px 0; color: #555;">2020 – 2022</p>
   </div>
