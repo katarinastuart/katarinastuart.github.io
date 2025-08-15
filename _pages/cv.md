@@ -28,7 +28,7 @@ header:
   </div>
 
   <div>
-    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Bachelor of Science </strong>strong>(Advanced) (Honours)</p>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Bachelor of Science </strong>(Advanced) (Honours)</p>
     <p style="margin: 2px 0; font-weight: bold;">University of Sydney</p>
     <p style="margin: 2px 0; color: #555;">2013 – 2017</p>
     <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia</em></p>
@@ -73,7 +73,7 @@ header:
 
 <section style="font-size: 0.8em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
   <div style="margin-bottom: 20px;">
-    <h3 style="margin: 0; color: #2c3e50;">Role: CI</h3>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Role: CI</strong>strong></p>
     <p style="margin: 2px 0; font-weight: bold;">Macquarie University Strategic Research Initiative</p>
     <p style="margin: 2px 0; color: #555;">2025-2027</p>
     <p style="margin: 5px 0;"><strong>Unlocking the full potential of eDNA </strong> <em>– novel approaches to estimating organism abundance in the environment using single pollen grain genotyping</em></p>
