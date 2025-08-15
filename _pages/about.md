@@ -215,7 +215,8 @@ I use population genomics and evolutionary principles to directly inform conserv
 <div style="font-size: 0.8em;">
 ❯ Kangaroo paws, hybird zones, and strucutral variants. <br>
 ❯ Detecting population genetic variation in eDNA. <br>
-❯ Population genomics of Australian native plants.<br>
+❯ Population genomics of Australian native plants. This includes emerging work in seed production areas (SPAs), where we ask whether genetic diversity—neutral and functional—can predict restoration outcomes and population resilience.<br>
+
   
 <div style="display: flex; align-items: flex-start; gap: 0.5em;">
 
