@@ -8,14 +8,17 @@ toc_sticky: true
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/Jellyfish_Banner3.png
+  overlay_image: /assets/Jellyfish_Banner2.png
 ---
 
 <a href="/assets/20250811_CVKStuart.pdf" class="btn btn--info">RESUME PDF</a>
 
-<section style="font-size: 0.9em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
-  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; color: #333;">EDUCATION</h2>
 
+
+
+## EDUCATION
+
+<section style="font-size: 0.9em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
   <div style="margin-bottom: 20px;">
     <h3 style="margin: 0; color: #2c3e50;">Doctor of Philosophy (Biology)</h3>
     <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
@@ -33,9 +36,10 @@ header:
   </div>
 </section>
 
+## EMPLOYMENT
 
 <section style="font-size: 0.9em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
-  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; color: #333;">EMPLOYMENT</h2>
+  <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 5px; color: #333;"></h2>
 
   <div style="margin-bottom: 15px;">
     <h3 style="margin: 0; color: #2c3e50;">Research Fellow</h3>
@@ -62,58 +66,45 @@ header:
   </div>
 </section>
 
-
 ## GRANTS, SCHOLARSHIPS, & AWARDS
 
 ### SCHOLARSHIPS & RESEARCH GRANTS
-GSA Workshop Support Program ($1,000) **2022**
+<section style="font-size: 0.9em; max-width: 800px; font-family: Arial, sans-serif;">
 
-AES ECR Networking Grant ($2,000) **2022**
+  <p>GSA Workshop Support Program ($1,000) <strong>2022</strong></p>
+  <p>AES ECR Networking Grant ($2,000) <strong>2022</strong></p>
+  <p>UNSW Science PhD Writing Scholarship ($7,500) <strong>2022</strong></p>
+  <p>Australian Government Research Training Program Scholarship <strong>2018–2022</strong></p>
+  <p>Holsworth Wildlife Research Endowment ($6,375; $7,500) <strong>2019, 2020</strong></p>
 
-UNSW Science PhD Writing Scholarship ($7,500) **2022**<br>
-
-Australian Government Research Training Program Scholarship **2018-2022**
-
-Holsworth Wildlife Research Endowment ($6375, $7500) **2019, 2020**
+</section>
 
 ### AWARDS
-Dean's Award for Outstanding PhD Theses **2022**
+<section style="font-size: 0.9em; max-width: 800px; font-family: Arial, sans-serif;">
 
-SMBE Invasomics Conference Oral Presentation Award ($250) **2022**
+  <p>Dean's Award for Outstanding PhD Theses <strong>2022</strong></p>
+  <p>SMBE Invasomics Conference Oral Presentation Award ($250) <strong>2022</strong></p>
+  <p>GSA 2021 Mayo Prize for best student presentation <strong>2021</strong></p>
+  <p>Outstanding E&amp;ERC Postgraduate Researcher <strong>2021</strong></p>
+  <p>Australasian Evolution Society student talk award (2nd Place) ($200) <strong>2020</strong></p>
+  <p>The Outstanding Evolution and Ecology Presentation EERC ($200) <strong>2019</strong></p>
+  <p>COMBINE 2018 Symposium – 3rd place best oral presentation ($50) <strong>2018</strong></p>
+  <p>The Outstanding Evolution and Ecology Presentation EERC talk runner-up <strong>2018</strong></p>
 
-GSA 2021 Mayo Prize for best student presentation  **2021**
-
-Outstanding E&ERC Postgraduate Researcher  **2021**
-
-Australasian Evolution society student talk award (2nd Place) ($200) **2020**
-
-The Outstanding Evolution and Ecology Presentation EERC ($200)  **2019**
-
-COMBINE 2018 Symposium 3rd place best oral presentation ($50) **2018**
-
-The Outstanding Evolution and Ecology Presentation EERC talk runner up **2018**
-
+</section>
 
 ### TRAVEL GRANTS
+<section style="font-size: 0.9em; max-width: 800px; font-family: Arial, sans-serif;">
 
-<div style="font-size: 0.8em;">
+  <p>Genomics Aotearoa – He taonga tuku iho scholarship (600 NZD) <strong>2023</strong></p>
+  <p>Queenstown Research Week’s Genomics satellite scholarship (1,180 NZD) <strong>2023</strong></p>
+  <p>School of Biological Science support scheme ($1,500) <strong>2022</strong></p>
+  <p>SMBE Invasomics Conference ($400) <strong>2022</strong></p>
+  <p>FoS Research Fellow Society ($500) <strong>2022</strong></p>
+  <p>Postgraduate Research Student Support (PRSS) Scheme ($1,000) <strong>2021</strong></p>
+  <p>Genetic Society of Australia Smith-White Travel award <strong>2020</strong></p>
+  <p>ABACBS National Conference CSL travel award ($200) <strong>2018</strong></p>
 
-Genomics Aotearoa – He taonga tuku iho scholarship	(600 NZD) **2023**
-
-Queenstown Research Week’s Genomics satellite scholarship	(1180 NZD) **2023**
-
-School of Biological Science support scheme ($1500) **2022**
-
-SMBE Invasomics Conference ($400) **2022**
-
-FoS Research Fellow Society ($500) **2022**
-
-Postgraduate Research Student Support (PRSS) Scheme ($1000)  **2021**
-
-Genetic Society of Australia Smith-White Travel award **2020**
-
-ABACBS National Conference CSL travel award ($200)  **2018**
-
-</div>
+</section>
 
 
