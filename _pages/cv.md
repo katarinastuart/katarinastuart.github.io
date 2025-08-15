@@ -72,7 +72,7 @@ header:
 
 <section style="font-size: 0.8em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
   <div style="margin-bottom: 20px;">
-    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Role: CI</strong>strong></p>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Role: CI</strong></p>
     <p style="margin: 2px 0; font-weight: bold;">Macquarie University Strategic Research Initiative</p>
     <p style="margin: 2px 0; color: #555;">2025-2027</p>
     <p style="margin: 5px 0;"><strong>Unlocking the full potential of eDNA </strong> <em>– novel approaches to estimating organism abundance in the environment using single pollen grain genotyping</em></p>
