@@ -20,7 +20,7 @@ header:
 
 <section style="font-size: 0.8em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
   <div style="margin-bottom: 20px;">
-<p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Supervisors:</strong> Doctor of Philosophy (Biology)</p>
+<p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Doctor of Philosophy</strong>  (Biology)</p>
       <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
     <p style="margin: 2px 0; color: #555;">2018 – 2022</p>
     <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>A genetic perspective on rapid adaptation in the globally invasive European starling (<i>Sturnus vulgaris</i>)</em></p>
@@ -28,7 +28,7 @@ header:
   </div>
 
   <div>
-    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;">Bachelor of Science (Advanced) (Honours)</p>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Bachelor of Science </strong>strong>(Advanced) (Honours)</p>
     <p style="margin: 2px 0; font-weight: bold;">University of Sydney</p>
     <p style="margin: 2px 0; color: #555;">2013 – 2017</p>
     <p style="margin: 5px 0;"><strong>Thesis Title:</strong> <em>Mechanisms generating geographic divergence in phenotypic traits within the invasive cane toad in Australia</em></p>
@@ -41,25 +41,27 @@ header:
 <section style="font-size: 0.8em; max-width: 800px; margin: auto; font-family: Arial, sans-serif;">
 
   <div style="margin-bottom: 15px;">
-    <h3 style="margin: 0; color: #2c3e50;">Research Fellow</h3>
+    <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Research Fellow</strong> (Applied Biosciences)</p>
     <p style="margin: 2px 0; font-weight: bold;">Macquarie University</p>
     <p style="margin: 2px 0; color: #555;">Sept 2024 – Present</p>
   </div>
 
   <div style="margin-bottom: 15px;">
-    <h3 style="margin: 0; color: #2c3e50;">Research Fellow</h3>
+     <p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;"><strong>Research Fellow</strong> (School of Biological Sciences)</p>
+    <h3 style="margin: 0; color: #2c3e50;"></h3>
     <p style="margin: 2px 0; font-weight: bold;">University of Auckland</p>
     <p style="margin: 2px 0; color: #555;">May 2022 – Sept 2024</p>
   </div>
 
   <div style="margin-bottom: 15px;">
+<p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;">Research Assistant</p>
     <h3 style="margin: 0; color: #2c3e50;">Research Assistant</h3>
     <p style="margin: 2px 0; font-weight: bold;">University of New South Wales</p>
     <p style="margin: 2px 0; color: #555;">2020 – 2022</p>
   </div>
 
   <div>
-    <h3 style="margin: 0; color: #2c3e50;">Research Assistant</h3>
+<p style="margin: 2px 0; color: #2c3e50; font-size: 0.9em;">Research Assistant</p>
     <p style="margin: 2px 0; font-weight: bold;">Deakin University</p>
     <p style="margin: 2px 0; color: #555;">August 2017</p>
   </div>
