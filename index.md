@@ -12,5 +12,5 @@ permalink: /
   <br><br>
 
 <center>
-<img src="/assets/Jellyfish1.png" alt="welcome" class="center"/>
+<img src="/assets/Website Background.png" alt="welcome" class="center"/>
 </center>
