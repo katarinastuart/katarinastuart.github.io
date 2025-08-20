@@ -34,8 +34,8 @@ gallery1:
 <div style="text-align: center;">
   <a href="https://www.publish.csiro.au/book/8025/" target="_blank">
     <img src="https://www.publish.csiro.au/covers/8025.jpg" 
-         alt="Applied Environmental Genomics" 
-         title="Applied Environmental Genomics" 
+         alt="Applied Environmental Genomics: Ch 24" 
+         title="Applied Environmental Genomics: Ch 24" 
          style="height: 200px; vertical-align: middle; margin: 0 10px;">
   </a><a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/14" target="_blank">
     <img src="https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg" 
@@ -53,6 +53,8 @@ gallery1:
 <p style="text-align: center;"> -2025- </p>
 
 Tan HZ, <b>Stuart KC</b>, Tram V, Whibley A, Bailey S, Brekke P, Santure A  (2025) High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity, <i>Molecular Ecology Resources</i>, accepted. <a href="https://doi.org/10.1111/1755-0998.70024">doi.org/10.1111/1755-0998.70024</a> <br><br>
+
+Hofmeister NR, <b>Stuart KC</b>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF (2025). Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. <i>Molecular Ecology</i>, <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.17195">doi/10.1111/mec.17195</a> <br><br>
 
 Atsawawaranunt K, <b>Stuart KC</b>, Whibley A, Ewart KM, Major RE, Johnson JN, Santure AW (2025) Parallel signatures of diet adaptation in the invasive common myna genome, <i>Molecular Ecology</i>, 34(2), e17607. <a href="http://doi.org/10.1111/mec.17607">doi.org/10.1111/mec.17607</a> <br><br>
 
@@ -73,8 +75,6 @@ McGaughran A, Dhami MK, Parvizi E, Vaughan AL… <b>Stuart KC,</b>…  (2024). G
 Miller SM, <b>Stuart KC</b>, Burke NW, Rollins LA, Bonduriansky R (2024). Genetic and phenotypic consequences of local transitions between sexual and parthenogenetic reproduction in the wild. <i>American Naturalist</i>, 203. <a href="https://doi.org/10.1086/727511">doi.org/10.1086/727511</a> <br><br>
 
 <p style="text-align: center;"> -2023- </p>
-
-Hofmeister NR, <b>Stuart KC</b>, Warren WC, Werner SJ, Bateson M, Ball GF, Buchanan KL, Burt DW, Cardilini APA, Cassey P, De Meyer T, George J, Meddle SL, Rowland HM, Sherman CDH, Sherwin WB, Berghe WV, Rollins LA, Clayton DF (2023). Concurrent invasions by European starlings (Sturnus vulgaris) suggest selection on shared genomic regions even after genetic bottlenecks. <i>Molecular Ecology</i>, <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.17195">doi/10.1111/mec.17195</a> <br><br>
 
 Li-Williams S†, <b>Stuart KC</b>†, Comte S, Forsyth DM, Dawson M, Sherwin WB, Rollins LA. (2023) Genetic analysis reveals spatial structure in an expanding introduced rusa deer population, <i>Wildlife Research</i>, WR22128. † joint first author <br><br>
 
