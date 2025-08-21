@@ -5,7 +5,7 @@ permalink: /media/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/Banner_spa.png
 ---
 
 <style>
