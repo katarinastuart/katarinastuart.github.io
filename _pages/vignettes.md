@@ -5,7 +5,7 @@ permalink: /vignettes/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/Banner_calo.png
 
 feature_row:
   - image_path: /assets/vignettes/vignette_preview_sv3b.jpg
