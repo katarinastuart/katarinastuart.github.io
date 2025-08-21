@@ -5,7 +5,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/Jellyfish_Banner2.png
+  overlay_image: /assets/Banner_plant.png
 gallery2:
   - url: /assets/photos/2018.DIBSI.2.jpg
     image_path: /assets/photos/2018.DIBSI.2.jpg
