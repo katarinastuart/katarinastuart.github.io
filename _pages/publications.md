@@ -5,7 +5,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/Banner_plant2.svg
+  overlay_image: /assets/Banner_plant.svg
 gallery2:
   - url: /assets/photos/2018.DIBSI.2.jpg
     image_path: /assets/photos/2018.DIBSI.2.jpg
