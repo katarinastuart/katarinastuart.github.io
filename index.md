@@ -12,5 +12,9 @@ permalink: /
   <br><br>
 
 <center>
-<img src="/assets/Website_Background.png" alt="welcome" class="center"/>
+  <img src="/assets/Website_Background.png" alt="welcome" class="center" style="width:80%;"/>
+</center>
+
+<center>
+  <img src="/assets/Website_Background.png" alt="welcome" class="center" style="transform: scale(0.8);"/>
 </center>
