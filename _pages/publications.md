@@ -1,4 +1,4 @@
----
+<img width="1800" height="2366" alt="image" src="https://github.com/user-attachments/assets/d6d75a7c-196b-4605-93de-3105f7f50ab7" />---
 layout: archive
 title: Publications
 permalink: /publications/
@@ -32,15 +32,22 @@ gallery1:
 
 
 <div style="text-align: center;">
+ <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/14" target="_blank">
+    <img src="https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg" 
+         alt="Molecular Ecology: Volume 34, Issue 14" 
+         title="Molecular Ecology: Volume 34, Issue 14" 
+         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+  </a>
   <a href="https://www.publish.csiro.au/book/8025/" target="_blank">
     <img src="https://www.publish.csiro.au/covers/8025.jpg" 
          alt="Applied Environmental Genomics: Ch 24" 
          title="Applied Environmental Genomics: Ch 24" 
          style="height: 200px; vertical-align: middle; margin: 0 10px;">
-  </a><a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/14" target="_blank">
-    <img src="https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg" 
-         alt="Molecular Ecology: Volume 34, Issue 14" 
-         title="Molecular Ecology: Volume 34, Issue 14" 
+  </a>
+  <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/20" target="_blank">
+    <img src="https://onlinelibrary.wiley.com/cms/asset/3317c21c-721d-4794-b556-562e2c05f1b3/mec17406-toc-0001-m.jpg" 
+         alt="Molecular Ecology: Volume 34, Issue 20" 
+         title="Molecular Ecology: Volume 34, Issue 20" 
          style="height: 200px; vertical-align: middle; margin: 0 10px;">
   </a>
 </div>
@@ -51,6 +58,8 @@ gallery1:
 <div style="font-size: 0.8em;">
 
 <p style="text-align: center;"> -2025- </p>
+
+Tram V, <b>Stuart KC</b>, Tan HZ, Brekke P, Lloret-Villas A, Santure AW (2025) Assessing imputation methods in populations with differing relatedness and inbreeding levels for low-coverage sequencing data. <i> Molecular Ecology Resources</i>. <a href="https://doi.org/10.1111/1755-0998.70049">https://doi.org/10.1111/1755-0998.70049</a>  <br><br>
 
 Tan HZ, <b>Stuart KC</b>, Tram V, Whibley A, Bailey S, Brekke P, Santure A  (2025) High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity, <i>Molecular Ecology Resources</i>, accepted. <a href="https://doi.org/10.1111/1755-0998.70024">doi.org/10.1111/1755-0998.70024</a> <br><br>
 
