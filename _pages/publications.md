@@ -44,6 +44,7 @@ gallery1:
          title="Applied Environmental Genomics: Ch 24" 
          style="height: 200px; vertical-align: middle; margin: 0 10px;">
   </a>
+  <p></p>
   <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/20" target="_blank">
     <img src="https://onlinelibrary.wiley.com/cms/asset/3317c21c-721d-4794-b556-562e2c05f1b3/mec17406-toc-0001-m.jpg" 
          alt="Molecular Ecology: Volume 34, Issue 20" 
@@ -124,7 +125,7 @@ Hudson CM, Brown GP, <b>Stuart KC</b>, Shine R. (2018) Sexual and geographical d
 
 <div style="font-size: 0.8em;">
 
-<b>Stuart KC</b>, Santure AW, Rollins LA. (2025) Structural variants and transposable elements as facilitators of rapid evolutionary change in invasive populations. in Rius, M. and Bock, D. <i>Invasion Genomics</i>. CABI (Centre for Agriculture and Bioscience International). <a href="https://doi.org/10.1079/9781800626263.0004"></a>ISBN : 978-1-80062-624-9<br><br>
+<b>Stuart KC</b>, Santure AW, Rollins LA. (2025) Structural variants and transposable elements as facilitators of rapid evolutionary change in invasive populations. in Rius, M. and Bock, D. <i>Invasion Genomics</i>. CABI (Centre for Agriculture and Bioscience International). <a href="https://doi.org/10.1079/9781800626263.0004">ISBN : 978-1-80062-624-9 </a> <br><br>
 
 <b>Stuart KC</b>, Woolnough AP, Rollins LA. (2023) Invasive species detection and management using genomic methods. in Holleley, C.E., Berry, O. and Jarman, S. <i>Applied Ecological Genetics</i>. CSIRO Publishing, Canberra. <a href="https://books.google.com.au/books?hl=en&lr=&id=34XmEAAAQBAJ&oi=fnd&pg=PA286&ots=upS0Nmmp0q&sig=15HX_GbbbNP8ISnb9jCtQAywIKQ&redir_esc=y#v=onepage&q&f=false">ISBN: 9781486314928</a> <br><br>
 
