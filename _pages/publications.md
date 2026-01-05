@@ -50,6 +50,12 @@ gallery1:
          title="Molecular Ecology: Volume 34, Issue 20" 
          style="height: 200px; vertical-align: middle; margin: 0 10px;">
   </a>
+    <a href="https://www.cabidigitallibrary.org/doi/full/10.1079/9781800626263.0004" target="_blank">
+    <img src="https://www.cabidigitallibrary.org/cms/asset/9fc070c7-3265-4579-ae38-f307a31b0fdf/9781800626263.0000.cover.jpg" 
+         alt="Invasion Genomics: Ch 4" 
+         title="Invasion Genomics: Ch 4" 
+         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+  </a>
 </div>
 
 
@@ -67,10 +73,10 @@ Hofmeister NR, <b>Stuart KC</b>, Warren WC, Werner SJ, Bateson M, Ball GF, Bucha
 
 Atsawawaranunt K, <b>Stuart KC</b>, Whibley A, Ewart KM, Major RE, Johnson JN, Santure AW (2025) Parallel signatures of diet adaptation in the invasive common myna genome, <i>Molecular Ecology</i>, 34(2), e17607. <a href="http://doi.org/10.1111/mec.17607">doi.org/10.1111/mec.17607</a> <br><br>
 
-<p style="text-align: center;"> -2024- </p>
-
-<b>Stuart KC</b>, Tan HZ, Whibley A, Brekke P, Ewen JG, Santure AW (2024) Lifetime fitness is correlated more strongly with structural variant than SNP mutational load in a threatened bird species, <i>Molecular Ecology</i>, e17631. <a href="https://doi.org/10.1111/mec.17631">doi.org/10.1111/mec.17631</a>
+<b>Stuart KC</b>, Tan HZ, Whibley A, Brekke P, Ewen JG, Santure AW (2025) Lifetime fitness is correlated more strongly with structural variant than SNP mutational load in a threatened bird species, <i>Molecular Ecology</i>, e17631. <a href="https://doi.org/10.1111/mec.17631">doi.org/10.1111/mec.17631</a>
 <a href="/assets/papers/SubmittedVersion_MolEcol_HihiGeneticLoad_Nc3.4.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a> <br><br>
+
+<p style="text-align: center;"> -2024- </p>
 
 Thompson B, Atsawawaranunt K, Nehmens M, Pearman W, Perkins E, Tan HZ, Whibley A, Santure AW, <b>Stuart KC</b> (2024). Population genetics of the invasive European Starling across Aotearoa, New Zealand. <i>Molecular Ecology</i>, e17579. <a href="https://doi.org/10.1111/mec.17579">doi.org/10.1111/mec.17579</a>
 <a href="/assets/papers/SubmittedVersion_MolEcol_NZstarlings_Sv10.7.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a> <br><br>
@@ -118,7 +124,7 @@ Hudson CM, Brown GP, <b>Stuart KC</b>, Shine R. (2018) Sexual and geographical d
 
 <div style="font-size: 0.8em;">
 
-<b>Stuart KC</b>, Santure AW, Rollins LA. (2025) Structural variants and transposable elements as facilitators of rapid evolutionary change in invasive populations. in Rius, M. and Bock, D. <i>Invasion Genomics</i>. CABI (Centre for Agriculture and Bioscience International). In Production.  <br><br>
+<b>Stuart KC</b>, Santure AW, Rollins LA. (2025) Structural variants and transposable elements as facilitators of rapid evolutionary change in invasive populations. in Rius, M. and Bock, D. <i>Invasion Genomics</i>. CABI (Centre for Agriculture and Bioscience International). <a href="https://doi.org/10.1079/9781800626263.0004"></a>ISBN : 978-1-80062-624-9<br><br>
 
 <b>Stuart KC</b>, Woolnough AP, Rollins LA. (2023) Invasive species detection and management using genomic methods. in Holleley, C.E., Berry, O. and Jarman, S. <i>Applied Ecological Genetics</i>. CSIRO Publishing, Canberra. <a href="https://books.google.com.au/books?hl=en&lr=&id=34XmEAAAQBAJ&oi=fnd&pg=PA286&ots=upS0Nmmp0q&sig=15HX_GbbbNP8ISnb9jCtQAywIKQ&redir_esc=y#v=onepage&q&f=false">ISBN: 9781486314928</a> <br><br>
 
