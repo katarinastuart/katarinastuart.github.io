@@ -36,26 +36,25 @@ gallery1:
     <img src="https://onlinelibrary.wiley.com/cms/asset/eb58182f-7d61-4fb0-92a1-9b1133d12ce8/mec17400-toc-0001-m.jpg" 
          alt="Molecular Ecology: Volume 34, Issue 14" 
          title="Molecular Ecology: Volume 34, Issue 14" 
-         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+         style="height: 170px; vertical-align: middle; margin: 0 10px;">
   </a>
   <a href="https://www.publish.csiro.au/book/8025/" target="_blank">
     <img src="https://www.publish.csiro.au/covers/8025.jpg" 
          alt="Applied Environmental Genomics: Ch 24" 
          title="Applied Environmental Genomics: Ch 24" 
-         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+         style="height: 170px; vertical-align: middle; margin: 0 10px;">
   </a>
-  <p></p>
-  <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/20" target="_blank">
+    <a href="https://onlinelibrary.wiley.com/toc/1365294x/2025/34/20" target="_blank">
     <img src="https://onlinelibrary.wiley.com/cms/asset/3317c21c-721d-4794-b556-562e2c05f1b3/mec17406-toc-0001-m.jpg" 
          alt="Molecular Ecology: Volume 34, Issue 20" 
          title="Molecular Ecology: Volume 34, Issue 20" 
-         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+         style="height: 170px; vertical-align: middle; margin: 0 10px;">
   </a>
     <a href="https://www.cabidigitallibrary.org/doi/full/10.1079/9781800626263.0004" target="_blank">
     <img src="https://www.cabidigitallibrary.org/cms/asset/9fc070c7-3265-4579-ae38-f307a31b0fdf/9781800626263.0000.cover.jpg" 
          alt="Invasion Genomics: Ch 4" 
          title="Invasion Genomics: Ch 4" 
-         style="height: 200px; vertical-align: middle; margin: 0 10px;">
+         style="height: 170px; vertical-align: middle; margin: 0 10px;">
   </a>
 </div>
 
