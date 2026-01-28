@@ -63,6 +63,12 @@ gallery1:
 
 <div style="font-size: 0.8em;">
 
+<p style="text-align: center;"> -2026- </p>
+
+Atsawawaranunt K, <b>Stuart KC</b>, Whibley A, Ewart KM, Rollins LA, Johnson RN, Santure AW (2025) Missing or mis-telling the story? Trade-offs for restriction-site associated compared to whole genome sequencing. <i>Molecular Ecology</i>, 35(2), e70211.  <a href="https://doi.org/10.1111/mec.70211">https://doi.org/10.1111/mec.70211</a> <br><br>
+
+<b>Stuart KC</b>, Oomen R, Tigano A, Wellenreuther M, Wold J, Field DL, Mérot C (2025) A Beginner’s Guide to Structural Variants in Eco-Evolutionary Population Genomics: Everything You Wanted to Know. <i>Molecular Ecology (invited review)</i>, 35 (2), e70216. <a href="https://doi.org/10.1111/mec.70216">https://doi.org/10.1111/mec.70216</a> <br><br>
+
 <p style="text-align: center;"> -2025- </p>
 
 Tram V, <b>Stuart KC</b>, Tan HZ, Brekke P, Lloret-Villas A, Santure AW (2025) Assessing imputation methods in populations with differing relatedness and inbreeding levels for low-coverage sequencing data. <i> Molecular Ecology Resources</i>. <a href="https://doi.org/10.1111/1755-0998.70049">https://doi.org/10.1111/1755-0998.70049</a>  <br><br>
@@ -76,10 +82,10 @@ Atsawawaranunt K, <b>Stuart KC</b>, Whibley A, Ewart KM, Major RE, Johnson JN, S
 <b>Stuart KC</b>, Tan HZ, Whibley A, Brekke P, Ewen JG, Santure AW (2025) Lifetime fitness is correlated more strongly with structural variant than SNP mutational load in a threatened bird species, <i>Molecular Ecology</i>, e17631. <a href="https://doi.org/10.1111/mec.17631">doi.org/10.1111/mec.17631</a>
 <a href="/assets/papers/SubmittedVersion_MolEcol_HihiGeneticLoad_Nc3.4.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a> <br><br>
 
-<p style="text-align: center;"> -2024- </p>
-
 Thompson B, Atsawawaranunt K, Nehmens M, Pearman W, Perkins E, Tan HZ, Whibley A, Santure AW, <b>Stuart KC</b> (2024). Population genetics of the invasive European Starling across Aotearoa, New Zealand. <i>Molecular Ecology</i>, e17579. <a href="https://doi.org/10.1111/mec.17579">doi.org/10.1111/mec.17579</a>
 <a href="/assets/papers/SubmittedVersion_MolEcol_NZstarlings_Sv10.7.pdf" class="btn btn--info">SUBMITTED MANUSCRIPT PDF</a> <br><br>
+
+<p style="text-align: center;"> -2024- </p>
 
 Tan HZ, Scherer P, <b>Stuart KC</b>, Bailey S, Lee KD, Brekke P, Ewen JG, Whibley A, Santure AW (2024). A high-density linkage map allows investigation of fine-scale heterochiasmy in an avian system. <i>Heredity</i>, 1-14. <a href="https://doi.org/10.1038/s41437-024-00711-3">doi.org/10.1038/s41437-024-00711-3</a> <br><br>
 
