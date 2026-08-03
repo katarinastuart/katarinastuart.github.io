@@ -51,7 +51,7 @@ gallery1:
          style="height: 170px; vertical-align: middle; margin: 0 10px;">
   </a>
     <a href="https://www.cabidigitallibrary.org/doi/full/10.1079/9781800626263.0004" target="_blank">
-    <img src="https://www.cabidigitallibrary.org/cms/asset/9fc070c7-3265-4579-ae38-f307a31b0fdf/9781800626263.0000.cover.jpg" 
+    <img src="https://www.cabidigitallibrary.org//cms/asset/97277273-00f0-4a2a-8406-2d73fec7f276/9781800626263.0000.cover.jpg" 
          alt="Invasion Genomics: Ch 4" 
          title="Invasion Genomics: Ch 4" 
          style="height: 170px; vertical-align: middle; margin: 0 10px;">
